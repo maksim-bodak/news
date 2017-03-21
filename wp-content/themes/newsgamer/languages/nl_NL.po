@@ -1,0 +1,4479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsGamer\n"
+"POT-Creation-Date: 2016-03-14 14:23+0100\n"
+"PO-Revision-Date: 2016-03-14 17:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:33
+msgid "404"
+msgstr "404"
+
+#: 404.php:34
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#: 404.php:35
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr "Onze excuses, maar we kunnen de gevraagde pagina niet vinden."
+
+#: archive.php:53 attachment.php:77 category.php:57 index.php:41 page.php:45
+#: single.php:44 tag.php:48
+msgid "No posts."
+msgstr "Geen posts."
+
+#: author.php:49 template-author-team.php:66
+msgid "posts"
+msgstr "posts"
+
+#: author.php:57 elements/parts/post-header-title.php:38
+#: elements/parts/post-header-title.php:42
+#: elements/parts/top-grid-layout-9.php:43 template-author-team.php:74
+msgid "comments"
+msgstr "reacties"
+
+#: author.php:74 template-author-team.php:83
+msgid "views"
+msgstr "weergaven"
+
+#: bbpress/content-search.php:14
+msgid "Need a new search?"
+msgstr "Iets anders zoeken?"
+
+#: bbpress/content-search.php:15
+msgid "If you didn't find what you were looking for, try a new search!"
+msgstr "Als je het niet kan vinden, probeer andere zoektermen!"
+
+#: bbpress/content-search.php:19 bbpress/form-search.php:12
+#: woocommerce/product-searchform.php:24
+msgid "Search for:"
+msgstr "Zoeken:"
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "Schrijver"
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94 bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr "Onderwerp"
+
+#: bbpress/form-reply-move.php:22
+#, php-format
+msgid "Move reply \"%s\""
+msgstr "Verplaats reactie \"%s\""
+
+#: bbpress/form-reply-move.php:27
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+"Je kan oftewel van deze reactie een nieuw onderwerp maken met een nieuwe "
+"titel, of je kan het samenvoegen met een bestaand onderwerp."
+
+#: bbpress/form-reply-move.php:31
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+"Als je een bestaand onderwerp kiest, zullen reacties geordend worden volgens "
+"het moment dat ze gecreëerd werden."
+
+#: bbpress/form-reply-move.php:35
+msgid "Move Method"
+msgstr "Verplaats methode"
+
+#: bbpress/form-reply-move.php:39 bbpress/form-topic-split.php:39
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "Nieuw onderwerp in <strong>%s</strong> genaamd:"
+
+#: bbpress/form-reply-move.php:40
+#, php-format
+msgid "Moved: %s"
+msgstr "Verplaatst: %s"
+
+#: bbpress/form-reply-move.php:47 bbpress/form-topic-split.php:47
+msgid "Use an existing topic in this forum:"
+msgstr "Gebruik een bestaand onderwerp in dit forum:"
+
+#: bbpress/form-reply-move.php:56 bbpress/form-topic-split.php:56
+msgid "No other topics found!"
+msgstr "Geen andere onderwerpen gevonden!"
+
+#: bbpress/form-reply-move.php:67 bbpress/form-topic-merge.php:88
+#: bbpress/form-topic-split.php:92
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>OPGELET:</strong> Dit kan niet ongedaan gemaakt worden."
+
+#: bbpress/form-reply-move.php:71 bbpress/form-reply.php:91
+#: bbpress/form-topic-merge.php:92 bbpress/form-topic-split.php:96
+#: bbpress/form-topic.php:161
+msgid "Submit"
+msgstr "Verzenden"
+
+#: bbpress/form-reply-move.php:84
+msgid "You do not have the permissions to edit this reply!"
+msgstr "Helaas, je hebt de toelating niet om deze reactie aan te passen!"
+
+#: bbpress/form-reply-move.php:84
+msgid "You cannot edit this reply."
+msgstr "Je kan deze reactie niet bewerken."
+
+#: bbpress/form-reply.php:27
+#, php-format
+msgid "Reply To: %s"
+msgstr "Beantwoorden: %s"
+
+#: bbpress/form-reply.php:44 bbpress/form-topic.php:70
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"Je kan kunt deze <abbr title=“HyperText Markup Language”>HTML</abbr> "
+"trefwoorden en attributen gebruiken:"
+
+#: bbpress/form-reply.php:55 bbpress/form-topic.php:81
+msgid "Tags:"
+msgstr "Tags:"
+
+#: bbpress/form-reply.php:70 bbpress/form-topic.php:142
+msgid "Keep a log of this edit:"
+msgstr "Houd een logboek bij van deze bewerking:"
+
+#: bbpress/form-reply.php:74 bbpress/form-topic.php:146
+msgid "Optional reason for editing:"
+msgstr "Optionele reden voor het bewerken van:"
+
+#: bbpress/form-reply.php:109 bbpress/form-topic.php:178
+msgid "Notify the author of follow-up replies via email"
+msgstr "Houd de auteur van reacties via e-mail op de hoogte"
+
+#: bbpress/form-reply.php:113 bbpress/form-topic.php:182
+msgid "Notify me of follow-up replies via email"
+msgstr "Hou me op de hoogte van reacties via e-mail"
+
+#: bbpress/form-reply.php:142
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "Het onderwerp &#8216; %s &#8217; is gesloten voor nieuwe antwoorden."
+
+#: bbpress/form-reply.php:150 bbpress/form-topic.php:208
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+"Het forum &#8216;%s&#8217;  is gesloten voor nieuwe onderwerpen en "
+"antwoorden."
+
+#: bbpress/form-reply.php:158
+msgid "You cannot reply to this topic."
+msgstr "Je kan niet reageren op dit onderwerp."
+
+#: bbpress/form-reply.php:158
+msgid "You must be logged in to reply to this topic."
+msgstr "Je moet ingelogd zijn om dit onderwerp te beantwoorden."
+
+#: bbpress/form-topic-merge.php:22
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr "Samenvoegen van onderwerp \"%s\""
+
+#: bbpress/form-topic-merge.php:27
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+"Selecteer het onderwerp om samen te voegen met deze. Het doelonderwerp "
+"blijft het hoofdonderwerp, en deze verandert in een antwoord."
+
+#: bbpress/form-topic-merge.php:28
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+"Om dit onderwerp als de lead te behouden, ga naar het andere onderwerp en "
+"gebruik daar de samenvoegtool."
+
+#: bbpress/form-topic-merge.php:32
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+"Alle antwoorden binnen beide onderwerpen zullen chronologisch worden "
+"samengevoegd. De volgorde van de samengevoegde antwoorden is gebaseerd op de "
+"tijd en de datum waarop ze werden gepost. Als het doelonderwerp hierna "
+"aangemaakt is, zal de postdatum aangepast worden naar een seconde eerder dan "
+"deze."
+
+#: bbpress/form-topic-merge.php:36
+msgid "Destination"
+msgstr "Bestemming"
+
+#: bbpress/form-topic-merge.php:40
+msgid "Merge with this topic:"
+msgstr "Samenvoegen met dit onderwerp:"
+
+#: bbpress/form-topic-merge.php:49
+msgid "No topics were found to which the topic could be merged to!"
+msgstr "Er zijn geen onderwerpen gevonden om het onderwerp samen te voegen."
+
+#: bbpress/form-topic-merge.php:55
+msgid "There are no other topics in this forum to merge with."
+msgstr "Er zijn geen andere onderwerpen op dit forum om samen te voegen."
+
+#: bbpress/form-topic-merge.php:63 bbpress/form-topic-split.php:67
+msgid "Topic Extras"
+msgstr "Onderwerp Extra's"
+
+#: bbpress/form-topic-merge.php:70
+msgid "Merge topic subscribers"
+msgstr "Voeg abonees samen"
+
+#: bbpress/form-topic-merge.php:75
+msgid "Merge topic favoriters"
+msgstr "Voeg fans samen"
+
+#: bbpress/form-topic-merge.php:80
+msgid "Merge topic tags"
+msgstr "Onderwerptags samenvoegen"
+
+#: bbpress/form-topic-merge.php:105 bbpress/form-topic-split.php:109
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+"Je beschikt niet over de machtigingen voor het bewerken van dit onderwerp!"
+
+#: bbpress/form-topic-merge.php:105 bbpress/form-topic-split.php:109
+msgid "You cannot edit this topic."
+msgstr "Je kan dit onderwerp niet bewerken."
+
+#: bbpress/form-topic-split.php:22
+#, php-format
+msgid "Split topic \"%s\""
+msgstr "Splits onderwerp \"%s\""
+
+#: bbpress/form-topic-split.php:27
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+"Wanneer je een onderwerp splitst, deel je het in twee, beginnende met de "
+"reactie die je hebt geselecteerd. Kies om die reactie te gebruiken als een "
+"nieuw onderwerp met een nieuwe titel, of voeg die reacties samen in een "
+"bestaand onderwerp."
+
+#: bbpress/form-topic-split.php:31
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+"Als je het bestaande onderwerpoptie gebruikt, zullen de reacties van beide "
+"onderwerpen chronologisch samengevoegd worden. De volgorde van de "
+"samengevoegde reacties is gebaseerd op de tijd en de datum waarop die gepost "
+"werden."
+
+#: bbpress/form-topic-split.php:35
+msgid "Split Method"
+msgstr "Splits Methode"
+
+#: bbpress/form-topic-split.php:40
+#, php-format
+msgid "Split: %s"
+msgstr "Splits: %s"
+
+#: bbpress/form-topic-split.php:74
+msgid "Copy subscribers to the new topic"
+msgstr "Kopieer abonnees naar het nieuwe onderwerp"
+
+#: bbpress/form-topic-split.php:79
+msgid "Copy favoriters to the new topic"
+msgstr "Kopieer fans naar het nieuwe onderwerp"
+
+#: bbpress/form-topic-split.php:84
+msgid "Copy topic tags to the new topic"
+msgstr "Kopieer onderwerptags naar het nieuwe onderwerp"
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr "Beheren van Tag: \"%s\""
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr "Andere naam geven"
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Laat de slug leeg om er een te genereren."
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+"Het veranderen van de slug heeft invloed op de permalink. Alle links naar de "
+"oude slog zullen niet meer werken."
+
+#: bbpress/form-topic-tag.php:35 comments.php:59
+msgid "Name:"
+msgstr "Naam:"
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr "Slug:"
+
+#: bbpress/form-topic-tag.php:59 framework/breadcrumbs/breadcrumbs-plus.php:247
+msgid "Merge"
+msgstr "Samenvoegen"
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr "Het samenvoegen van tags kan niet ongedaan gemaakt worden."
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr "Bestaande tag:"
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+"Ben je zeker dat je de \"%s\" tag wilt samenvoegen met de tag die je hebt "
+"opgegeven?"
+
+#: bbpress/form-topic-tag.php:88
+msgid "Delete"
+msgstr "Verwijder"
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Dit verwijdert je onderwerpen niet, enkel de tag."
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr "Het verwijderen van een tag kan niet ongedaan gemaakt worden."
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr "Alle links naar deze tag zullen niet meer werken."
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+"Ben je  zeker dat je de \"%s\" tag wilt verwijderen? Dit kan niet ongedaan "
+"worden gemaakt."
+
+#: bbpress/form-topic.php:39
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Nu &ldquo;%s&rdquo; aan het bewerken"
+
+#: bbpress/form-topic.php:41
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Maak nieuw onderwerp aan in &ldquo;%s&rdquo;"
+
+#: bbpress/form-topic.php:41
+msgid "Create New Topic"
+msgstr "Maak nieuw onderwerp aan"
+
+#: bbpress/form-topic.php:55
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Titel van onderwerp (Maximale lengte: %d):"
+
+#: bbpress/form-topic.php:94
+msgid "Forum:"
+msgstr "Forum:"
+
+#: bbpress/form-topic.php:97
+msgid "(No Forum)"
+msgstr "(Geen Forum)"
+
+#: bbpress/form-topic.php:113
+msgid "Topic Type:"
+msgstr "Soort onderwerp:"
+
+#: bbpress/form-topic.php:125
+msgid "Topic Status:"
+msgstr "Status van onderwerp:"
+
+#: bbpress/form-topic.php:216
+msgid "You cannot create new topics."
+msgstr "Je kan geen nieuwe onderwerpen aanmaken."
+
+#: bbpress/form-topic.php:216
+msgid "You must be logged in to create new topics."
+msgstr "Je moet ingelogd zijn om nieuwe onderwerpen te kunnen aanmaken."
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr "Forum"
+
+#: bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr "Onderwerpen"
+
+#: bbpress/loop-forums.php:21 bbpress/loop-replies.php:28
+#: bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr "Reacties"
+
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr "Posts"
+
+#: bbpress/loop-forums.php:22 bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr "Recentheid"
+
+#: bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr "Forum:"
+
+#: bbpress/loop-search-forum.php:30
+#, php-format
+msgid "Last updated %s"
+msgstr "Laatst geupdate %s"
+
+#: bbpress/loop-search-reply.php:22 bbpress/loop-search-topic.php:22
+#: bbpress/loop-single-reply.php:22
+#, php-format
+msgid "Post count: %s"
+msgstr "Berichtenteller: %s"
+
+#: bbpress/loop-search-reply.php:42
+msgid "In reply to: "
+msgstr "In reactie op:"
+
+#: bbpress/loop-search-topic.php:48
+msgid "Topic: "
+msgstr "Onderwerp:"
+
+#: bbpress/loop-search-topic.php:53
+msgid "in group forum "
+msgstr "in groepsforum"
+
+#: bbpress/loop-search-topic.php:57
+msgid "in forum "
+msgstr "in forum"
+
+#: bbpress/loop-single-reply.php:48
+msgid "in reply to: "
+msgstr "in reactie op:"
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr "Gestart door: %1$s"
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "in: <a href=\"%1$s\">%2$s</a>"
+
+#: bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr "Voices"
+
+#: bbpress/user-details.php:37 bbpress/user-details.php:46
+msgid "Profile"
+msgstr "Profiel"
+
+#: bbpress/user-details.php:38
+msgid "Forum Role:"
+msgstr "Forumrol:"
+
+#: bbpress/user-details.php:39
+msgid "Topics Started:"
+msgstr "Eigen onderwerpen:"
+
+#: bbpress/user-details.php:40
+msgid "Replies Created:"
+msgstr "Eigen reacties:"
+
+#: bbpress/user-details.php:52
+msgid "Topics Started"
+msgstr "Eigen onderwerpen"
+
+#: bbpress/user-details.php:58
+msgid "Replies Created"
+msgstr "Eigen reacties"
+
+#: bbpress/user-details.php:69
+msgid "Favorites"
+msgstr "Favorieten"
+
+#: bbpress/user-details.php:79
+msgid "Subscriptions"
+msgstr "Abonnementen"
+
+#: bbpress/user-details.php:86 framework/breadcrumbs/breadcrumbs-plus.php:250
+#: framework/breadcrumbs/breadcrumbs-plus.php:264
+#: framework/breadcrumbs/breadcrumbs-plus.php:284
+msgid "Edit"
+msgstr "Bewerk"
+
+#: comments.php:22
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Reactie"
+msgstr[1] "%1$s Reacties"
+
+#: comments.php:64
+msgid "Email:"
+msgstr "Email:"
+
+#: comments.php:69
+msgid "Website:"
+msgstr "Website:"
+
+#: comments.php:80
+msgid "Comment:"
+msgstr "Reactie:"
+
+#: comments.php:86
+msgid "Leave a Reply"
+msgstr "Een reactie achterlaten?"
+
+#: comments.php:87
+msgid "Post Comment"
+msgstr "Post de reactie"
+
+#: comments.php:88
+msgid "Cancel reply"
+msgstr "Reactie annuleren"
+
+#: comments.php:114
+msgid "at"
+msgstr "om"
+
+#: comments.php:119
+msgid "Reply"
+msgstr "Antwoord"
+
+#: comments.php:120
+msgid "Log in to leave a comment"
+msgstr "Log in om een reactie achter te laten"
+
+#: elements/facebook-comments.php:4
+msgid "Facebook Comments"
+msgstr "Facebook reacties"
+
+#: elements/header-mobile.php:10 elements/parts/header-layout-2.php:22
+#: elements/parts/header-layout-3.php:22 searchform.php:2
+msgid "Search"
+msgstr "Zoek"
+
+#: elements/loop-cat-1.php:52 elements/loop-cat-10.php:54
+#: elements/loop-cat-11.php:41 elements/loop-cat-12.php:49
+#: elements/loop-cat-2.php:50 elements/loop-cat-3.php:50
+#: elements/loop-cat-4.php:50 elements/loop-cat-5.php:54
+#: elements/loop-cat-6.php:54 elements/loop-cat-7.php:50
+#: elements/loop-cat-8.php:50 elements/loop-cat-9.php:54
+#: framework/class-article.php:353
+msgid "Read more"
+msgstr "Lees meer"
+
+#: elements/loop-cat-12.php:87
+msgid "Pages:"
+msgstr "Pagina’s:"
+
+#: elements/loop-cat-12.php:91
+msgid "Page"
+msgstr "Pagina"
+
+#: elements/loop-page-7.php:34
+msgid "by"
+msgstr "door"
+
+#: elements/loop-page-7.php:35
+msgid "on"
+msgstr "op"
+
+#: elements/parts/post-addons-review.php:7 elements/parts/post-addons.php:9
+#: framework/redux-options.php:4540
+msgid "Via"
+msgstr "Via"
+
+#: elements/parts/post-addons-review.php:15 elements/parts/post-addons.php:17
+#: framework/external/class-tgm-plugin-activation.php:2571
+#: framework/redux-options.php:4559
+msgid "Source"
+msgstr "Bron"
+
+#: elements/parts/post-addons-review.php:26 elements/parts/post-addons.php:30
+msgid "Tags"
+msgstr "Tags"
+
+#: elements/parts/post-header-title.php:28 framework/class-article.php:318
+#, php-format
+msgid "View all posts in %s"
+msgstr "Toon alle posts in %s"
+
+#: elements/parts/post-pagination-1.php:33
+msgid "Go to first page"
+msgstr "Ga naar de eerste pagina"
+
+#: elements/parts/post-pagination-1.php:34
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: elements/parts/post-pagination-1.php:44
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: elements/parts/post-pagination-1.php:45
+msgid "Go to last page"
+msgstr "Ga naar de laatste pagina"
+
+#: elements/parts/post-pagination-2.php:3
+msgid "Next page <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Volgende pagina <i class=\"fa fa-chevron-right\"></i>"
+
+#: elements/parts/post-pagination-2.php:4
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous page"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Vorige pagina"
+
+#: elements/parts/post-prevnext.php:10
+msgid "Previous article"
+msgstr "Vorig artikel"
+
+#: elements/parts/post-prevnext.php:16
+msgid "Next article"
+msgstr "Volgend artikel"
+
+#: elements/parts/post-review.php:43
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: elements/parts/post-review.php:51
+msgid "The Good"
+msgstr "Pluspunten"
+
+#: elements/parts/post-review.php:55
+msgid "The Bad"
+msgstr "Minpunten"
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:51
+msgid "Home"
+msgstr "Home"
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:181
+#: framework/breadcrumbs/breadcrumbs-plus.php:184
+#: framework/breadcrumbs/breadcrumbs-plus.php:187
+msgid "Archives for "
+msgstr "Archieven voor"
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:191
+msgid "Archives by: "
+msgstr "Archieven door:"
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:196
+msgid "Search results for \""
+msgstr "Zoekresultaten voor \""
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:200
+msgid "Page Not Found"
+msgstr "Pagina niet gevonden"
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:244
+msgid "Split"
+msgstr "Splits"
+
+#: framework/class-article.php:349
+msgid "In"
+msgstr "In"
+
+#: framework/class-gallery.php:155
+msgid "MipTheme Gallery: "
+msgstr "MipTheme galerij:"
+
+#: framework/class-page.php:305
+msgid "Daily Archives:"
+msgstr "Dagelijkse archieven:"
+
+#: framework/class-page.php:307
+msgid "Monthly Archives:"
+msgstr "Maandelijkse archieven:"
+
+#: framework/class-page.php:309
+msgid "Yearly Archives:"
+msgstr "Jaarlijkse archieven:"
+
+#: framework/class-page.php:311
+msgid "Archives"
+msgstr "Archieven"
+
+#: framework/class-thumbnailer.php:88
+#, php-format
+msgid ""
+"Error retrieving a thumbnail from the URL <a href=\"%1$s\">%1$s</a> using "
+"<code>wp_remote_get()</code><br />If opening that URL in your web browser "
+"returns anything else than an error page, the problem may be related to your "
+"web server and might be something your host administrator can solve."
+msgstr ""
+"Fout bij het ophalen van een thumbnail van de URL <a href=\"%1$s\">%1$s</a> "
+"met <code>wp_remote_get()</code><br /> Als je door het openen van de URL in "
+"je web browser iets anders krijgt dan een foutpagina, kan het probleem aan "
+"de web server liggen. Overweeg de host administrator te contacteren."
+
+#: framework/class-thumbnailer.php:88
+msgid "Error Details:"
+msgstr "Details van de fout:"
+
+#: framework/class-thumbnailer.php:106
+msgid "Unsupported MIME type:"
+msgstr "Niet-ondersteunde MIME type:"
+
+#: framework/class-thumbnailer.php:119
+msgid "Error uploading image data:"
+msgstr "Fout bij uploaden afbeeldingsdata:"
+
+#: framework/class-util.php:205 framework/class-util.php:305
+msgid "Follow us"
+msgstr "Volg ons"
+
+#: framework/class-util.php:247 framework/class-util.php:288
+#: framework/class-util.php:352 framework/class-util.php:419
+msgid "Register"
+msgstr "Registreer"
+
+#: framework/class-util.php:251 framework/class-util.php:291
+#: framework/class-util.php:355 framework/class-util.php:422
+msgid "My Posts"
+msgstr "Mijn posts"
+
+#: framework/class-util.php:260 framework/class-util.php:297
+#: framework/class-util.php:361 framework/class-util.php:428
+msgid "Log in"
+msgstr "Log in"
+
+#: framework/class-util.php:262 framework/class-util.php:299
+#: framework/class-util.php:363 framework/class-util.php:430
+msgid "Log out"
+msgstr "Log uit"
+
+#: framework/class-widgets.php:17
+msgid "MipTheme [Image]"
+msgstr "MipTheme [Image]"
+
+#: framework/class-widgets.php:18
+msgid "Display image"
+msgstr "Geef afbeelding weer"
+
+#: framework/class-widgets.php:51 framework/class-widgets.php:123
+msgid "Image source:"
+msgstr "Bron van afbeelding:"
+
+#: framework/class-widgets.php:55
+msgid "Image Retina source:"
+msgstr "Bron van afbeelding (Retina):"
+
+#: framework/class-widgets.php:59 framework/class-widgets.php:127
+msgid "Image link:"
+msgstr "Link naar afbeelding:"
+
+#: framework/class-widgets.php:63
+msgid "Image padding: (optional)"
+msgstr "Padding van afbeelding: (optioneel)"
+
+#: framework/class-widgets.php:67 framework/class-widgets.php:130
+msgid "Open in new window"
+msgstr "Open in nieuw venster"
+
+#: framework/class-widgets.php:68
+msgid "Responsive image"
+msgstr "Responsieve afbeelding"
+
+#: framework/class-widgets.php:97
+msgid "MipTheme [Image Ad]"
+msgstr "MipTheme [Image Ad]"
+
+#: framework/class-widgets.php:98 framework/class-widgets.php:158
+msgid "Display ads - max 300px"
+msgstr "Geef advertentie weer - max 300px"
+
+#: framework/class-widgets.php:131
+msgid "Show with background color"
+msgstr "Toon achtergrondkleur"
+
+#: framework/class-widgets.php:157
+msgid "MipTheme [Embed Ad]"
+msgstr "MipTheme [Embed Ad]"
+
+#: framework/class-widgets.php:177 framework/class-widgets.php:225
+msgid "Ad source:"
+msgstr "Bron van Ad:"
+
+#: framework/class-widgets.php:180 framework/class-widgets.php:238
+msgid "show with background color"
+msgstr "Toon met achtergrondkleur"
+
+#: framework/class-widgets.php:204
+msgid "MipTheme [Ads System]"
+msgstr "MipTheme [Ads System]"
+
+#: framework/class-widgets.php:205
+msgid "Display ads from Ads System"
+msgstr "Geef ads weer van Ads System"
+
+#: framework/class-widgets.php:262
+msgid "MipTheme [Quote]"
+msgstr "MipTheme [Quote]"
+
+#: framework/class-widgets.php:263
+msgid "Display quote with author and source"
+msgstr "Geef citaat weer met auteur en bron"
+
+#: framework/class-widgets.php:288
+msgid "Weekly Quote"
+msgstr "Wekelijks citaat"
+
+#: framework/class-widgets.php:294 framework/class-widgets.php:496
+#: framework/class-widgets.php:705 framework/class-widgets.php:872
+#: framework/class-widgets.php:1003 framework/class-widgets.php:1242
+#: framework/class-widgets.php:1352 framework/class-widgets.php:1565
+#: framework/class-widgets.php:1686 framework/class-widgets.php:1903
+msgid "Title:"
+msgstr "Titel:"
+
+#: framework/class-widgets.php:298
+msgid "Quote:"
+msgstr "Citaat:"
+
+#: framework/class-widgets.php:301
+msgid "Source:"
+msgstr "Bron:"
+
+#: framework/class-widgets.php:306 framework/class-widgets.php:882
+msgid "No spacing after this widget"
+msgstr "Geen spacing na deze widget"
+
+#: framework/class-widgets.php:330
+msgid "Your site&#8217;s most recent Posts."
+msgstr "Meest recente posts van Geeko."
+
+#: framework/class-widgets.php:331
+msgid "MipTheme [Recent Posts]"
+msgstr "MipTheme [Recent Posts]"
+
+#: framework/class-widgets.php:341
+msgid "Recent Posts"
+msgstr "Recente posts"
+
+#: framework/class-widgets.php:499
+msgid "Include categories (separate ID by commas):"
+msgstr "Categorieën toevoegen (ID gescheiden door komma's):"
+
+#: framework/class-widgets.php:502
+msgid "Exclude categories (separate ID by commas):"
+msgstr "Categorieën uitsluiten (ID gescheiden door komma's):"
+
+#: framework/class-widgets.php:505 framework/class-widgets.php:1251
+msgid "Include tags (separate tag slugs by commas):"
+msgstr "Voeg tags toe (tag slugs gescheiden door komma's):"
+
+#: framework/class-widgets.php:509 framework/class-widgets.php:1264
+#: framework/class-widgets.php:1591 framework/class-widgets.php:1930
+msgid "Widget Layout:"
+msgstr "Widget lay-out:"
+
+#: framework/class-widgets.php:511 framework/class-widgets.php:1266
+#: framework/class-widgets.php:1593 framework/class-widgets.php:1932
+msgid "Layout 1 (all small images)"
+msgstr "Lay-out 1 (allemaal kleine afbeeldingen)"
+
+#: framework/class-widgets.php:512 framework/class-widgets.php:1267
+#: framework/class-widgets.php:1594 framework/class-widgets.php:1933
+msgid "Layout 2 (one big + small images)"
+msgstr "Lay-out 2 (één grote + kleine afbeeldingen)"
+
+#: framework/class-widgets.php:513 framework/class-widgets.php:1268
+#: framework/class-widgets.php:1595 framework/class-widgets.php:1934
+msgid "Layout 3 (all big images)"
+msgstr "Lay-out 3 (allemaal grote afbeeldingen)"
+
+#: framework/class-widgets.php:519 framework/class-widgets.php:709
+#: framework/class-widgets.php:1274 framework/class-widgets.php:1601
+#: framework/class-widgets.php:1940
+msgid "Display category as:"
+msgstr "Geef categorie weer als:"
+
+#: framework/class-widgets.php:521 framework/class-widgets.php:711
+#: framework/class-widgets.php:1276 framework/class-widgets.php:1603
+#: framework/class-widgets.php:1942
+msgid "Root Category"
+msgstr "Root categorie"
+
+#: framework/class-widgets.php:522 framework/class-widgets.php:712
+#: framework/class-widgets.php:1277 framework/class-widgets.php:1604
+#: framework/class-widgets.php:1943
+msgid "Subcategories"
+msgstr "Subcategorieën"
+
+#: framework/class-widgets.php:528 framework/class-widgets.php:1578
+#: framework/class-widgets.php:1949
+msgid "Sort order:"
+msgstr " Geordend op:"
+
+#: framework/class-widgets.php:530 framework/class-widgets.php:1580
+#: framework/class-widgets.php:1951
+msgid "Latest"
+msgstr "Laatste"
+
+#: framework/class-widgets.php:531 framework/class-widgets.php:1581
+#: framework/class-widgets.php:1952
+msgid "Random posts"
+msgstr "Willekeurige posts"
+
+#: framework/class-widgets.php:532 framework/class-widgets.php:1582
+#: framework/class-widgets.php:1953
+msgid "By name"
+msgstr "Op naam"
+
+#: framework/class-widgets.php:533 framework/class-widgets.php:1583
+#: framework/class-widgets.php:1954
+msgid "Last Modified"
+msgstr "Laatst bewerkt"
+
+#: framework/class-widgets.php:534 framework/class-widgets.php:1584
+#: framework/class-widgets.php:1955
+msgid "Most Commented"
+msgstr "Meeste reacties"
+
+#: framework/class-widgets.php:535 framework/class-widgets.php:1585
+#: framework/class-widgets.php:1956
+msgid "Most Viewed"
+msgstr "Meest bekeken"
+
+#: framework/class-widgets.php:536
+msgid "Most Viewed Last 24 Hours"
+msgstr "Meest bekeken over laatste 24 uur"
+
+#: framework/class-widgets.php:537
+msgid "Most Viewed Last 7 Days"
+msgstr "Meest bekeken over laatste 7 dagen"
+
+#: framework/class-widgets.php:543 framework/class-widgets.php:1610
+msgid "Display Views:"
+msgstr "Toon weergaven:"
+
+#: framework/class-widgets.php:545 framework/class-widgets.php:1612
+msgid "Do not display views"
+msgstr "Weergaven niet tonen"
+
+#: framework/class-widgets.php:546 framework/class-widgets.php:1613
+msgid "Display all views for post"
+msgstr "Toon alle weergeven voor post"
+
+#: framework/class-widgets.php:547
+msgid "Display only last 24 hours views for post"
+msgstr "Toon enkel de weergaven van de laatste 24 uur van de post"
+
+#: framework/class-widgets.php:548
+msgid "Display only last 7 days views for post"
+msgstr "Toon enkel de weergaven van de laatste 7 dagen van de post"
+
+#: framework/class-widgets.php:553 framework/class-widgets.php:717
+#: framework/class-widgets.php:875 framework/class-widgets.php:1282
+#: framework/class-widgets.php:1618 framework/class-widgets.php:1961
+msgid "Number of posts to show:"
+msgstr "Aantal posts weer te geven:"
+
+#: framework/class-widgets.php:556 framework/class-widgets.php:720
+#: framework/class-widgets.php:878 framework/class-widgets.php:1285
+#: framework/class-widgets.php:1621 framework/class-widgets.php:1964
+msgid "Post offset:"
+msgstr "Post offset:"
+
+#: framework/class-widgets.php:560 framework/class-widgets.php:1289
+#: framework/class-widgets.php:1625 framework/class-widgets.php:1968
+msgid "Display post date?"
+msgstr "Datum van post tonen?"
+
+#: framework/class-widgets.php:563 framework/class-widgets.php:1292
+#: framework/class-widgets.php:1628 framework/class-widgets.php:1971
+msgid "Display category?"
+msgstr "Categorie tonen?"
+
+#: framework/class-widgets.php:566 framework/class-widgets.php:1631
+#: framework/class-widgets.php:1977
+msgid "Style it for mid column?"
+msgstr "Stijl gebruiken voor middenste kolom?"
+
+#: framework/class-widgets.php:579
+msgid "Your site&#8217;s most recent Posts in timeline."
+msgstr "Meest recente posts van Geeko op de tijdlijn."
+
+#: framework/class-widgets.php:580
+msgid "MipTheme [Timeline]"
+msgstr "MipTheme [Timeline]"
+
+#: framework/class-widgets.php:607
+msgid "Timeline"
+msgstr "Tijdlijn"
+
+#: framework/class-widgets.php:724
+msgid "Select categories to include in your timeline:"
+msgstr "Categorieën selecteren om toe te voegen op jouw tijdlijn:"
+
+#: framework/class-widgets.php:761 framework/class-widgets.php:898
+msgid "Your site&#8217;s most recent Audio Posts."
+msgstr "Meest recente Audio Posts van Geeko."
+
+#: framework/class-widgets.php:762
+msgid "MipTheme [Audio Posts]"
+msgstr "MipTheme [Audio Posts]"
+
+#: framework/class-widgets.php:788
+msgid "Audio Posts"
+msgstr "Audio Posts"
+
+#: framework/class-widgets.php:899
+msgid "MipTheme [Gallery]"
+msgstr "MipTheme [Gallery]"
+
+#: framework/class-widgets.php:934
+msgid "Gallery Thumbs"
+msgstr "Galerij Thumbs"
+
+#: framework/class-widgets.php:1006
+msgid "Images:"
+msgstr "Afbeeldingen:"
+
+#: framework/class-widgets.php:1024
+msgid "Choose Images"
+msgstr "Afbeeldingen kiezen:"
+
+#: framework/class-widgets.php:1080
+msgid "Your site&#8217;s lates reviews."
+msgstr "Laatste recensies van Geeko."
+
+#: framework/class-widgets.php:1081
+msgid "MipTheme [Reviews]"
+msgstr "MipTheme [Reviews]"
+
+#: framework/class-widgets.php:1092
+msgid "Latest Reviews"
+msgstr "Laatste recensies"
+
+#: framework/class-widgets.php:1245
+msgid "Include categories (separate by commas):"
+msgstr "Categorieën toevoegen (gescheiden door komma's):"
+
+#: framework/class-widgets.php:1248
+msgid "Exclude categories (separate by commas):"
+msgstr "Categorieën uitsluiten (gescheiden door komma's):"
+
+#: framework/class-widgets.php:1255
+msgid "Sort reviews by:"
+msgstr "Sorteer recensies op:"
+
+#: framework/class-widgets.php:1257
+msgid "Best Score Reviews"
+msgstr "Recensies met hoogste score"
+
+#: framework/class-widgets.php:1258
+msgid "Latest reviews"
+msgstr "Laatste recensies"
+
+#: framework/class-widgets.php:1295
+msgid "Display Views?"
+msgstr "Weergaven tonen?"
+
+#: framework/class-widgets.php:1311
+msgid "MipTheme [About]"
+msgstr "MipTheme [About]"
+
+#: framework/class-widgets.php:1312
+msgid "Display text with social share buttons"
+msgstr "Toon tekst met knoppen om te delen op sociale media"
+
+#: framework/class-widgets.php:1342
+msgid "About us..."
+msgstr "Over ons..."
+
+#: framework/class-widgets.php:1356
+msgid "Text:"
+msgstr "Tekst:"
+
+#: framework/class-widgets.php:1360
+msgid "Facebook Link:"
+msgstr "Facebook Link:"
+
+#: framework/class-widgets.php:1363
+msgid "Twitter Link:"
+msgstr "Twitter Link:"
+
+#: framework/class-widgets.php:1366
+msgid "LinkedIn Link:"
+msgstr "LinkedIn Link:"
+
+#: framework/class-widgets.php:1369
+msgid "Google+ Link:"
+msgstr "Google+ Link:"
+
+#: framework/class-widgets.php:1372
+msgid "Vimeo Link:"
+msgstr "Vimeo Link:"
+
+#: framework/class-widgets.php:1375
+msgid "Youtube Link:"
+msgstr "Youtube Link:"
+
+#: framework/class-widgets.php:1405
+msgid "Your site&#8217;s related Posts."
+msgstr "Gerelateerde posts van Geeko."
+
+#: framework/class-widgets.php:1406
+msgid "MipTheme [Related Posts]"
+msgstr "MipTheme [Related Posts]"
+
+#: framework/class-widgets.php:1418 framework/redux-options.php:1731
+msgid "Related Posts"
+msgstr "Gerelateerde posts"
+
+#: framework/class-widgets.php:1569
+msgid "Filter related posts by:"
+msgstr "Filter gerelateerde posts op:"
+
+#: framework/class-widgets.php:1571
+msgid "Category"
+msgstr "Categorie"
+
+#: framework/class-widgets.php:1572
+msgid "Tag"
+msgstr "Tag"
+
+#: framework/class-widgets.php:1646
+msgid "MipTheme [Tags]"
+msgstr "MipTheme [Tags]"
+
+#: framework/class-widgets.php:1647
+msgid "Display tags"
+msgstr "Toon tags"
+
+#: framework/class-widgets.php:1681
+msgid "Weekly Tags"
+msgstr "Wekelijkse Tags"
+
+#: framework/class-widgets.php:1690
+msgid "Display post count?"
+msgstr "Berichtenteller tonen?"
+
+#: framework/class-widgets.php:1692
+msgid "Number of tags to show:"
+msgstr "Aantal tags om te tonen:"
+
+#: framework/class-widgets.php:1717
+msgid "Author&#8217;s most recent Posts."
+msgstr "Meest recente posts van deze schrijver."
+
+#: framework/class-widgets.php:1718
+msgid "MipTheme [Authors posts]"
+msgstr "MipTheme [Authors posts]"
+
+#: framework/class-widgets.php:1907
+msgid "Select author:"
+msgstr "Schrijver selecteren:"
+
+#: framework/class-widgets.php:1917
+msgid "Display avatar as:"
+msgstr "Geef avatar weer als:"
+
+#: framework/class-widgets.php:1919
+msgid "No Avatar"
+msgstr "Geen avatar"
+
+#: framework/class-widgets.php:1920
+msgid "Avatar on top"
+msgstr "Avatar bovenaan"
+
+#: framework/class-widgets.php:1921
+msgid "Avatar on right"
+msgstr "Avatar rechts"
+
+#: framework/class-widgets.php:1926
+msgid "Exclude posts (separate ID by commas):"
+msgstr "Posts uitsluiten (gescheiden door komma's):"
+
+#: framework/class-widgets.php:1974
+msgid "Display post views?"
+msgstr "Berichtenteller tonen?"
+
+#: framework/extend-category.php:22
+msgid "Category Primary Color"
+msgstr "Hoofdkleur van categorie"
+
+#: framework/extend-menus.php:208
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Ongeldig)"
+
+#: framework/extend-menus.php:212
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (In Behandeling)"
+
+#: framework/extend-menus.php:236
+msgid "Move up"
+msgstr "Naar boven verplaatsen"
+
+#: framework/extend-menus.php:249
+msgid "Move down"
+msgstr "Naar onderen verplaatsen"
+
+#: framework/extend-menus.php:251 framework/extend-menus.php:253
+msgid "Edit Menu Item"
+msgstr "Bewerk Menu Item"
+
+#: framework/extend-menus.php:262
+msgid "URL"
+msgstr "URL"
+
+#: framework/extend-menus.php:269
+msgid "Navigation Label"
+msgstr "Navigatie Label"
+
+#: framework/extend-menus.php:275
+msgid "Title Attribute"
+msgstr "Attribuut van titel"
+
+#: framework/extend-menus.php:282
+msgid "Open link in a new window/tab"
+msgstr "Link openen in nieuw venster/tab"
+
+#: framework/extend-menus.php:287
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (optioneel)"
+
+#: framework/extend-menus.php:293
+msgid "Link Relationship (XFN)"
+msgstr "Link Relationship (XFN)"
+
+#: framework/extend-menus.php:299
+msgid "Description"
+msgstr "Beschrijving"
+
+#: framework/extend-menus.php:301
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"De beschrijving wordt weergegeven in het menu als het huidige thema dit "
+"ondersteunt."
+
+#: framework/extend-menus.php:313
+msgid "Dropdown Type"
+msgstr "Dropdown Type"
+
+#: framework/extend-menus.php:315
+msgid "Default Menu"
+msgstr "Standaardmenu"
+
+#: framework/extend-menus.php:316
+msgid "Category Mega Menu"
+msgstr "Categorie Mega Menu"
+
+#: framework/extend-menus.php:324
+msgid "Show megamenu with latest posts"
+msgstr "Mega Menu tonen met laatste berichten"
+
+#: framework/extend-menus.php:330
+msgid "Menu Item Color"
+msgstr "Menu Item kleur"
+
+#: framework/extend-menus.php:332
+msgid "Use this only on pages and custom links."
+msgstr "Gebruik dit enkel op pagina's en custom links."
+
+#: framework/extend-menus.php:344
+msgid "Articles Display"
+msgstr "Artikels Weergave"
+
+#: framework/extend-menus.php:346
+msgid "---"
+msgstr "---"
+
+#: framework/extend-menus.php:347
+msgid "Default Articles (if this is a category)"
+msgstr "Standaard Artikels (Als dit een categorie is)"
+
+#: framework/extend-menus.php:348
+msgid "Custom Articles"
+msgstr "Custom Artikels"
+
+#: framework/extend-menus.php:349
+msgid "Review Articles Only"
+msgstr "Enkel Recensie Artikels"
+
+#: framework/extend-menus.php:351
+msgid "Use only if parent is selected as \"Category Mega Menu\""
+msgstr ""
+"Gebruik alleen als bovenliggende is geselecteerd als \"Categorie Mega Menu\""
+
+#: framework/extend-menus.php:357
+msgid "Category filter"
+msgstr "Categorie filter"
+
+#: framework/extend-menus.php:364 framework/redux-options.php:438
+#: framework/redux-options.php:5692
+msgid "Filter by tag slug"
+msgstr "Filteren door tag slug"
+
+#: framework/extend-menus.php:371
+msgid "Offset"
+msgstr "Offset"
+
+#: framework/extend-menus.php:378 framework/redux-options.php:3113
+msgid "Order by"
+msgstr "Sorteren op"
+
+#: framework/extend-menus.php:380
+msgid "Published Date"
+msgstr "Publicatiedatum"
+
+#: framework/extend-menus.php:381
+msgid "Post ID"
+msgstr "Post ID"
+
+#: framework/extend-menus.php:382
+msgid "Random order"
+msgstr "Willekeurige volgorde"
+
+#: framework/extend-menus.php:383
+msgid "Last modified date"
+msgstr "Laatste bewerkingsdatum"
+
+#: framework/extend-menus.php:384
+msgid "Number of comments"
+msgstr "Aantal reacties"
+
+#: framework/extend-menus.php:391 framework/redux-options.php:409
+#: framework/redux-options.php:1759 framework/redux-options.php:1890
+#: framework/redux-options.php:1983 framework/redux-options.php:2076
+#: framework/redux-options.php:4641 framework/redux-options.php:4775
+#: framework/redux-options.php:4873 framework/redux-options.php:4971
+#: framework/redux-options.php:5663
+msgid "Sort order"
+msgstr "Geordend op"
+
+#: framework/extend-menus.php:393
+msgid "Descending"
+msgstr "Aflopend"
+
+#: framework/extend-menus.php:394
+msgid "Ascending "
+msgstr "Oplopend"
+
+#: framework/extend-menus.php:408
+#, php-format
+msgid "Original: %s"
+msgstr "Origineel: %s"
+
+#: framework/extend-menus.php:421
+msgid "Remove"
+msgstr "Verwijder"
+
+#: framework/extend-menus.php:422
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: framework/external/class-tgm-plugin-activation.php:331
+#: framework/tgm-required-plugin-activation-load.php:78
+msgid "Install Required Plugins"
+msgstr "Installeer vereiste plugins"
+
+#: framework/external/class-tgm-plugin-activation.php:332
+#: framework/tgm-required-plugin-activation-load.php:79
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: framework/external/class-tgm-plugin-activation.php:333
+#: framework/tgm-required-plugin-activation-load.php:80
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installeer plugin: %s"
+
+#: framework/external/class-tgm-plugin-activation.php:334
+#: framework/tgm-required-plugin-activation-load.php:81
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Bijwerken plugin: %s"
+
+#: framework/external/class-tgm-plugin-activation.php:335
+#: framework/tgm-required-plugin-activation-load.php:82
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#: framework/external/class-tgm-plugin-activation.php:337
+#: framework/tgm-required-plugin-activation-load.php:84
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin: %1$s."
+msgstr[1] "Dit thema vereist de volgende plugins: %1$s."
+
+#: framework/external/class-tgm-plugin-activation.php:342
+#: framework/tgm-required-plugin-activation-load.php:89
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema beveelt de volgende plugins aan: %1$s."
+
+#: framework/external/class-tgm-plugin-activation.php:347
+#: framework/tgm-required-plugin-activation-load.php:94
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Deze plugin moet geupdate worden naar de laatste versie om maximale "
+"compatibiliteit te garanderen met het thema: %1$s."
+msgstr[1] ""
+"Deze plugins moet geupdate worden naar de laatste versie om maximale "
+"compatibiliteit te garanderen met het thema: %1$s."
+
+#: framework/external/class-tgm-plugin-activation.php:352
+#: framework/tgm-required-plugin-activation-load.php:99
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor: %1$s."
+
+#: framework/external/class-tgm-plugin-activation.php:357
+#: framework/tgm-required-plugin-activation-load.php:104
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Deze vereiste plugin is momenteel niet actief: %1$s."
+msgstr[1] "Deze vereiste plugins zijn momenteel niet actief: %1$s."
+
+#: framework/external/class-tgm-plugin-activation.php:362
+#: framework/tgm-required-plugin-activation-load.php:109
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Deze aanbevolen plugin is momenteel niet actief: %1$s."
+msgstr[1] "Deze aanbevolen plugins zijn momenteel niet actief: %1$s."
+
+#: framework/external/class-tgm-plugin-activation.php:367
+#: framework/tgm-required-plugin-activation-load.php:114
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginnen met het installeren van plugin"
+msgstr[1] "Beginnen met het installeren van plugins"
+
+#: framework/external/class-tgm-plugin-activation.php:372
+#: framework/tgm-required-plugin-activation-load.php:119
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginnen met het updaten van plugin"
+msgstr[1] "Beginnen met het updaten van plugins"
+
+#: framework/external/class-tgm-plugin-activation.php:377
+#: framework/tgm-required-plugin-activation-load.php:124
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Beginnen met het activeren van plugin"
+msgstr[1] "Beginnen met het activeren van plugins"
+
+#: framework/external/class-tgm-plugin-activation.php:381
+#: framework/tgm-required-plugin-activation-load.php:128
+msgid "Return to Required Plugins Installer"
+msgstr "Keer terug naar Vereiste Plugins Installer"
+
+#: framework/external/class-tgm-plugin-activation.php:382
+msgid "Return to the dashboard"
+msgstr "Keer terug naar het dashboard"
+
+#: framework/external/class-tgm-plugin-activation.php:383
+#: framework/external/class-tgm-plugin-activation.php:3169
+#: framework/tgm-required-plugin-activation-load.php:129
+msgid "Plugin activated successfully."
+msgstr "Plugin is succesvol geactiveerd."
+
+#: framework/external/class-tgm-plugin-activation.php:384
+#: framework/external/class-tgm-plugin-activation.php:2972
+#: framework/tgm-required-plugin-activation-load.php:130
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Deze plugin is succesvol geactiveerd:"
+msgstr[1] "Deze plugins zijn succesvol geactiveerd:"
+
+#: framework/external/class-tgm-plugin-activation.php:385
+#: framework/tgm-required-plugin-activation-load.php:131
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Niets gedaan. Plugin %1$s was al actief."
+
+#: framework/external/class-tgm-plugin-activation.php:386
+#: framework/tgm-required-plugin-activation-load.php:132
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin niet geactiveerd. Een hogere versie van %s is nodig voor dit thema. "
+"Werk de plugin bij."
+
+#: framework/external/class-tgm-plugin-activation.php:387
+#: framework/tgm-required-plugin-activation-load.php:133
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins geïnstalleerd en succesvol geactiveerd. %1$s"
+
+#: framework/external/class-tgm-plugin-activation.php:388
+msgid "Dismiss this notice"
+msgstr "Deze mededeling negeren"
+
+#: framework/external/class-tgm-plugin-activation.php:389
+#: framework/external/class-tgm-plugin-activation.php:1176
+#: framework/tgm-required-plugin-activation-load.php:134
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Er zijn één of meer vereiste of aanbevolen plugins om te installeren, "
+"updaten of activeren."
+
+#: framework/external/class-tgm-plugin-activation.php:390
+#: framework/external/class-tgm-plugin-activation.php:1176
+#: framework/tgm-required-plugin-activation-load.php:135
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem contact op met de beheerder van deze site voor hulp."
+
+#: framework/external/class-tgm-plugin-activation.php:593
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plugin moet worden bijgewerkt om compatibel met uw thema te zijn."
+
+#: framework/external/class-tgm-plugin-activation.php:594
+msgid "Update Required"
+msgstr "Update vereist"
+
+#: framework/external/class-tgm-plugin-activation.php:1198
+#: framework/external/class-tgm-plugin-activation.php:2968
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: framework/external/class-tgm-plugin-activation.php:2015
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: framework/external/class-tgm-plugin-activation.php:2301
+msgid "Required"
+msgstr "Vereist"
+
+#: framework/external/class-tgm-plugin-activation.php:2304
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: framework/external/class-tgm-plugin-activation.php:2320
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: framework/external/class-tgm-plugin-activation.php:2323
+msgid "External Source"
+msgstr "Externe bron"
+
+#: framework/external/class-tgm-plugin-activation.php:2326
+msgid "Pre-Packaged"
+msgstr "Voorverpakt"
+
+#: framework/external/class-tgm-plugin-activation.php:2343
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: framework/external/class-tgm-plugin-activation.php:2347
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd."
+
+#: framework/external/class-tgm-plugin-activation.php:2349
+msgid "Active"
+msgstr "Actief"
+
+#: framework/external/class-tgm-plugin-activation.php:2355
+msgid "Required Update not Available"
+msgstr "Vereiste update niet beschikbaar"
+
+#: framework/external/class-tgm-plugin-activation.php:2358
+msgid "Requires Update"
+msgstr "Vereist update"
+
+#: framework/external/class-tgm-plugin-activation.php:2361
+msgid "Update recommended"
+msgstr "Update aanbevolen"
+
+#: framework/external/class-tgm-plugin-activation.php:2369
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/external/class-tgm-plugin-activation.php:2414
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: framework/external/class-tgm-plugin-activation.php:2417
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Installeren van <span class=\"count\">(%s)</span>"
+msgstr[1] "Installeren van <span class=\"count\">(%s)</span>"
+
+#: framework/external/class-tgm-plugin-activation.php:2420
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#: framework/external/class-tgm-plugin-activation.php:2423
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Om te activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Om te activeren <span class=\"count\">(%s)</span>"
+
+#: framework/external/class-tgm-plugin-activation.php:2505
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#: framework/external/class-tgm-plugin-activation.php:2513
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: framework/external/class-tgm-plugin-activation.php:2521
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: framework/external/class-tgm-plugin-activation.php:2533
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: framework/external/class-tgm-plugin-activation.php:2556
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Geen plugins te installeren of te activeren. <a href=\"%1$s\">Terug naar het "
+"dashboard</a>"
+
+#: framework/external/class-tgm-plugin-activation.php:2570
+msgid "Plugin"
+msgstr "Plugin"
+
+#: framework/external/class-tgm-plugin-activation.php:2572
+msgid "Type"
+msgstr "Type"
+
+#: framework/external/class-tgm-plugin-activation.php:2576
+msgid "Version"
+msgstr "Versie"
+
+#: framework/external/class-tgm-plugin-activation.php:2577
+msgid "Status"
+msgstr "Status"
+
+#: framework/external/class-tgm-plugin-activation.php:2625
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: framework/external/class-tgm-plugin-activation.php:2629
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#: framework/external/class-tgm-plugin-activation.php:2634
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activeren%2$s"
+
+#: framework/external/class-tgm-plugin-activation.php:2737
+msgid "Install"
+msgstr "Installeren"
+
+#: framework/external/class-tgm-plugin-activation.php:2743
+msgid "Update"
+msgstr "Bijwerken"
+
+#: framework/external/class-tgm-plugin-activation.php:2746
+msgid "Activate"
+msgstr "Activeren"
+
+#: framework/external/class-tgm-plugin-activation.php:2777
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Er werden geen plugins geselecteerd om te worden geïnstalleerd. Geen actie "
+"ondernomen."
+
+#: framework/external/class-tgm-plugin-activation.php:2779
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Er werden geen plugins geselecteerd om te worden bijgewerkt. Geen actie "
+"ondernomen."
+
+#: framework/external/class-tgm-plugin-activation.php:2820
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+"Er zijn op dit moment geen plugins beschikbaar om te worden geïnstalleerd."
+
+#: framework/external/class-tgm-plugin-activation.php:2822
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+"Er zijn op dit moment geen plugins beschikbaar om te worden bijgewerkt."
+
+#: framework/external/class-tgm-plugin-activation.php:3168
+msgid "Plugin activation failed."
+msgstr "Activeren van plugin mislukt."
+
+#: framework/external/class-tgm-plugin-activation.php:3507
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin bijwerken %1$s (%2$d/%3$d)"
+
+#: framework/external/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Er is een fout opgetreden tijdens het installeren van %1$s: <strong>%2$s</"
+"strong>."
+
+#: framework/external/class-tgm-plugin-activation.php:3510
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#: framework/external/class-tgm-plugin-activation.php:3514
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Het installatie- en activeringproces start. Dit proces kan een tijdje duren "
+"op sommige hosts, dus wees geduldig."
+
+#: framework/external/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s geïnstalleerd en succesvol geactiveerd."
+
+#: framework/external/class-tgm-plugin-activation.php:3516
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activaties zijn compleet."
+
+#: framework/external/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren plugin %1$s (%2$d/%3$d)"
+
+#: framework/external/class-tgm-plugin-activation.php:3520
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatieproces start. Dit proces kan een tijdje duren op sommige "
+"hosts, dus wees geduldig."
+
+#: framework/external/class-tgm-plugin-activation.php:3522
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn compleet."
+
+#: framework/external/class-tgm-plugin-activation.php:3523
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren Plugin %1$s (%2$d/%3$d)"
+
+#: framework/redux-options.php:38
+msgid "Theme Options"
+msgstr "Thema Opties"
+
+#: framework/redux-options.php:158
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: framework/redux-options.php:166
+msgid "Enable Ajax Post Views"
+msgstr "Ajax Post Weergaven aanzetten"
+
+#: framework/redux-options.php:167
+msgid "Enable this if you are using a cache plugin!"
+msgstr "Zet dit aan als je een cache plugin gebruikt!"
+
+#: framework/redux-options.php:173
+msgid "Enable Smooth Scrolling"
+msgstr "Zet smooth crolling aan"
+
+#: framework/redux-options.php:174
+msgid "Works only on Chrome browser"
+msgstr "Werkt enkel op Chrome browser"
+
+#: framework/redux-options.php:180
+msgid "Enable Lazy Load for images"
+msgstr "Lazy laden inschakelen voor afbeeldingen"
+
+#: framework/redux-options.php:181
+msgid "Lazy Load is delays loading of images in long web pages"
+msgstr "Lazy Load vertraagt het laden van afbeeldingen op grote wegpagina's"
+
+#: framework/redux-options.php:187
+msgid "Enable Google Fonts"
+msgstr "Zet Google Fonts aan"
+
+#: framework/redux-options.php:188
+msgid "Enable Google Fonts on Theme Typography"
+msgstr "Zet Google Fonts aan in Thema Typografie"
+
+#: framework/redux-options.php:198
+msgid "Homepage Settings"
+msgstr "Homepagina instellingen"
+
+#: framework/redux-options.php:208
+msgid "Only if \"Front page display\" is set to \"Your latest posts\"."
+msgstr "Alleen als \"Voorpagina weergave\" staat op \"Jouw laatste posts\"."
+
+#: framework/redux-options.php:213
+msgid "Posts Layout"
+msgstr "Posts lay-out"
+
+#: framework/redux-options.php:214 framework/redux-options.php:2739
+#: framework/redux-options.php:2826 framework/redux-options.php:2954
+#: framework/redux-options.php:3183 framework/redux-options.php:3320
+msgid "Select layout for posts."
+msgstr "Selecteer lay-out voor posts."
+
+#: framework/redux-options.php:234 framework/redux-options.php:1107
+#: framework/redux-options.php:1359 framework/redux-options.php:2760
+#: framework/redux-options.php:2846 framework/redux-options.php:2974
+#: framework/redux-options.php:3203 framework/redux-options.php:3340
+msgid "Limit text characters"
+msgstr "Beperk teksttekens"
+
+#: framework/redux-options.php:239 framework/redux-options.php:311
+#: framework/redux-options.php:1197 framework/redux-options.php:1438
+#: framework/redux-options.php:2765 framework/redux-options.php:2809
+#: framework/redux-options.php:2851 framework/redux-options.php:2928
+#: framework/redux-options.php:2979 framework/redux-options.php:3050
+#: framework/redux-options.php:3208 framework/redux-options.php:3273
+#: framework/redux-options.php:3345 framework/redux-options.php:3410
+msgid "0 for using default wordpress settings"
+msgstr "0 om standaard wordpress-instellingen te gebruiken"
+
+#: framework/redux-options.php:245 framework/redux-options.php:1118
+#: framework/redux-options.php:1370 framework/redux-options.php:2771
+#: framework/redux-options.php:2857 framework/redux-options.php:2985
+#: framework/redux-options.php:3214 framework/redux-options.php:3351
+msgid "Posts Layout Grid"
+msgstr "Posts lay-out raster"
+
+#: framework/redux-options.php:246 framework/redux-options.php:1119
+#: framework/redux-options.php:1371 framework/redux-options.php:2772
+#: framework/redux-options.php:2858 framework/redux-options.php:2986
+#: framework/redux-options.php:3215 framework/redux-options.php:3352
+msgid "Select  template for pagination."
+msgstr "Selecteer template voor paginering."
+
+#: framework/redux-options.php:257 framework/redux-options.php:388
+#: framework/redux-options.php:1064 framework/redux-options.php:1130
+#: framework/redux-options.php:1381 framework/redux-options.php:1639
+#: framework/redux-options.php:2783 framework/redux-options.php:2869
+#: framework/redux-options.php:2997 framework/redux-options.php:3226
+#: framework/redux-options.php:3363 framework/redux-options.php:5630
+msgid "What to display in Post Meta"
+msgstr "Wat weer te geven in Post Meta"
+
+#: framework/redux-options.php:258 framework/redux-options.php:389
+#: framework/redux-options.php:445 framework/redux-options.php:1065
+#: framework/redux-options.php:1131 framework/redux-options.php:1382
+#: framework/redux-options.php:1626 framework/redux-options.php:1633
+#: framework/redux-options.php:1640 framework/redux-options.php:1661
+#: framework/redux-options.php:1668 framework/redux-options.php:1675
+#: framework/redux-options.php:1699 framework/redux-options.php:1783
+#: framework/redux-options.php:2686 framework/redux-options.php:2784
+#: framework/redux-options.php:2870 framework/redux-options.php:2998
+#: framework/redux-options.php:3227 framework/redux-options.php:3364
+#: framework/redux-options.php:4502 framework/redux-options.php:4510
+#: framework/redux-options.php:4518 framework/redux-options.php:4526
+#: framework/redux-options.php:4664 framework/redux-options.php:5631
+#: framework/redux-options.php:5699
+msgid "This option only affects posts."
+msgstr "Deze optie heeft enkel effect op posts."
+
+#: framework/redux-options.php:277
+msgid "Enable Unique Articles"
+msgstr "Zet \"Unieke Artikels\" aan"
+
+#: framework/redux-options.php:278
+msgid "Do not display duplicate articles in main area."
+msgstr "Dubbele artikels niet weergeven in hoofdomgeving"
+
+#: framework/redux-options.php:284 framework/redux-options.php:1150
+#: framework/redux-options.php:1394 framework/redux-options.php:1603
+#: framework/redux-options.php:2663 framework/redux-options.php:2701
+#: framework/redux-options.php:2889 framework/redux-options.php:2901
+#: framework/redux-options.php:3017 framework/redux-options.php:3246
+#: framework/redux-options.php:3383 framework/redux-options.php:3436
+#: framework/redux-options.php:3467 framework/redux-options.php:4479
+#: framework/redux-options.php:5525
+msgid "Sidebar position"
+msgstr "Positie van de zijbalk"
+
+#: framework/redux-options.php:285 framework/redux-options.php:1151
+#: framework/redux-options.php:1395 framework/redux-options.php:1604
+#: framework/redux-options.php:2664 framework/redux-options.php:2702
+#: framework/redux-options.php:2890 framework/redux-options.php:2902
+#: framework/redux-options.php:3018 framework/redux-options.php:3247
+#: framework/redux-options.php:3384 framework/redux-options.php:3437
+#: framework/redux-options.php:3468
+msgid "Select main sidebar position for posts."
+msgstr "Selecteer hoofdpositie van de zijbalk voor posts."
+
+#: framework/redux-options.php:295 framework/redux-options.php:1161
+#: framework/redux-options.php:1405 framework/redux-options.php:1614
+#: framework/redux-options.php:2674 framework/redux-options.php:2712
+#: framework/redux-options.php:2912 framework/redux-options.php:3028
+#: framework/redux-options.php:3257 framework/redux-options.php:3394
+#: framework/redux-options.php:3447 framework/redux-options.php:3478
+#: framework/redux-options.php:4490 framework/redux-options.php:5547
+msgid "Select default sidebar"
+msgstr "Selecteer standaard zijbalk"
+
+#: framework/redux-options.php:296 framework/redux-options.php:1162
+#: framework/redux-options.php:1406 framework/redux-options.php:1615
+#: framework/redux-options.php:2675 framework/redux-options.php:2713
+#: framework/redux-options.php:2913 framework/redux-options.php:3029
+#: framework/redux-options.php:3258 framework/redux-options.php:3395
+#: framework/redux-options.php:3448 framework/redux-options.php:3479
+msgid "Sidebar for left/right column"
+msgstr "Zijbalk voor linker/rechterkolom"
+
+#: framework/redux-options.php:306 framework/redux-options.php:1192
+#: framework/redux-options.php:1433 framework/redux-options.php:2804
+#: framework/redux-options.php:2923 framework/redux-options.php:3045
+#: framework/redux-options.php:3268 framework/redux-options.php:3405
+msgid "Posts per page"
+msgstr "Posts per pagina"
+
+#: framework/redux-options.php:316 framework/redux-options.php:1202
+#: framework/redux-options.php:1443 framework/redux-options.php:2933
+#: framework/redux-options.php:3055 framework/redux-options.php:3278
+#: framework/redux-options.php:3415
+msgid "Pagination template"
+msgstr "Paginering template"
+
+#: framework/redux-options.php:317 framework/redux-options.php:1203
+#: framework/redux-options.php:1444 framework/redux-options.php:2934
+#: framework/redux-options.php:3056 framework/redux-options.php:3279
+#: framework/redux-options.php:3416
+msgid "Select template for pagination."
+msgstr "Selecteer template voor paginering."
+
+#: framework/redux-options.php:329
+msgid "Top Grid Settings"
+msgstr "Top raster instellingen"
+
+#: framework/redux-options.php:339
+msgid ""
+"Only if \"Front page display\" is set to \"<a href=\"options-reading.php"
+"\">Your latest posts</a>\"."
+msgstr ""
+"Alleen als \"Voorpagina weergave\" staat op \"<a href=\"options-reading.php"
+"\">Jouw laatste posts</a>\"."
+
+#: framework/redux-options.php:344 framework/redux-options.php:1025
+#: framework/redux-options.php:5594
+msgid "Enable Top Grid"
+msgstr "Top raster inschakelen"
+
+#: framework/redux-options.php:355 framework/redux-options.php:1037
+#: framework/redux-options.php:5605
+msgid "Top Grid Shortcode"
+msgstr "Top raster shortcode"
+
+#: framework/redux-options.php:361 framework/redux-options.php:1044
+#: framework/redux-options.php:5611
+msgid "Grid layout"
+msgstr "Raster lay-out"
+
+#: framework/redux-options.php:362 framework/redux-options.php:1045
+#: framework/redux-options.php:5612
+msgid "Select layout for your grid"
+msgstr "Selecteer lay-out voor jouw raster"
+
+#: framework/redux-options.php:380 framework/redux-options.php:5651
+msgid "Enable Full width layout"
+msgstr "Volledige breedte layout inschakelen"
+
+#: framework/redux-options.php:381 framework/redux-options.php:5652
+msgid "Full width container"
+msgstr "Volledige breedte van container"
+
+#: framework/redux-options.php:410 framework/redux-options.php:1760
+#: framework/redux-options.php:1891 framework/redux-options.php:1984
+#: framework/redux-options.php:2077 framework/redux-options.php:4642
+#: framework/redux-options.php:4776 framework/redux-options.php:4874
+#: framework/redux-options.php:4972 framework/redux-options.php:5664
+msgid "Choose how to sort your posts"
+msgstr "Kies hoe je jouw posts wilt sorteren"
+
+#: framework/redux-options.php:428 framework/redux-options.php:5682
+msgid "Show categories"
+msgstr "Categorieën tonen"
+
+#: framework/redux-options.php:429 framework/redux-options.php:5683
+msgid "If none is selected, all categories are included by default"
+msgstr ""
+"Als er niets is geselecteerd, worden alle categorieën automatisch toegevoegd."
+
+#: framework/redux-options.php:444 framework/redux-options.php:5698
+msgid "Display Category labels as"
+msgstr "Geef categorielabels weer als"
+
+#: framework/redux-options.php:460 framework/redux-typography.php:209
+msgid "Header Settings"
+msgstr "Header Instellingen"
+
+#: framework/redux-options.php:468
+msgid "Header type"
+msgstr "Header type"
+
+#: framework/redux-options.php:469
+msgid "Type of header to display"
+msgstr "Type van header om weer te geven"
+
+#: framework/redux-options.php:480 framework/redux-options.php:3560
+#: framework/redux-options.php:3675
+msgid "Enable widgetized area"
+msgstr "Zet widgetized area aan"
+
+#: framework/redux-options.php:488 framework/redux-options.php:3568
+#: framework/redux-options.php:3683
+msgid "Area layout"
+msgstr "Gebied lay-out"
+
+#: framework/redux-options.php:489 framework/redux-options.php:585
+#: framework/redux-options.php:3569 framework/redux-options.php:3684
+msgid "Select header layout."
+msgstr "Selecteer header lay-out"
+
+#: framework/redux-options.php:499 framework/redux-options.php:3579
+#: framework/redux-options.php:3694
+msgid "Select sidebar for first column"
+msgstr "Selecteer zijbalk voor de eerste kolom"
+
+#: framework/redux-options.php:512 framework/redux-options.php:3592
+#: framework/redux-options.php:3707
+msgid "Select alignment for first column"
+msgstr "Selecteer uitlijning voor de eerste kolom"
+
+#: framework/redux-options.php:527 framework/redux-options.php:3607
+#: framework/redux-options.php:3722
+msgid "Select sidebar for second column"
+msgstr "Selecteer zijbalk voor de tweede kolom"
+
+#: framework/redux-options.php:540 framework/redux-options.php:3620
+#: framework/redux-options.php:3735
+msgid "Select alignment for second column"
+msgstr "Selecteer uitlijning voor de tweede kolom"
+
+#: framework/redux-options.php:555 framework/redux-options.php:3635
+#: framework/redux-options.php:3750
+msgid "Select sidebar for third column"
+msgstr "Selecteer zijbalk voor de derde kolom"
+
+#: framework/redux-options.php:568 framework/redux-options.php:3648
+#: framework/redux-options.php:3763
+msgid "Select alignment for third column"
+msgstr "Selecteer uitlijning voor de derde kolom"
+
+#: framework/redux-options.php:584
+msgid "Header layout"
+msgstr "Header lay-out"
+
+#: framework/redux-options.php:602
+msgid "Banner 728x90"
+msgstr "Banner 728x90"
+
+#: framework/redux-options.php:610
+msgid "Banner left"
+msgstr "Banner links"
+
+#: framework/redux-options.php:619
+msgid "Banner right"
+msgstr "Banner rechts"
+
+#: framework/redux-options.php:627
+msgid "Header Height"
+msgstr "Header hoogte"
+
+#: framework/redux-options.php:628
+msgid "Set header height"
+msgstr "Zet de hoogte van de header"
+
+#: framework/redux-options.php:639
+msgid "Desktop logo"
+msgstr "Desktop logo"
+
+#: framework/redux-options.php:640
+msgid "Logo for desktop version"
+msgstr "Logo voor desktop versie"
+
+#: framework/redux-options.php:651
+msgid "Desktop Retina logo"
+msgstr "Retina logo"
+
+#: framework/redux-options.php:652
+msgid "Retina Logo for desktop version"
+msgstr "Zet Retina logo voor desktop versie"
+
+#: framework/redux-options.php:658
+msgid "Weather location"
+msgstr "Weer locatie"
+
+#: framework/redux-options.php:659
+msgid "Enter city and contry"
+msgstr "Vul stad en land in"
+
+#: framework/redux-options.php:660
+msgid "e.g. Paris, France"
+msgstr "bv. Parijs, Frankrijk"
+
+#: framework/redux-options.php:667
+msgid "Display temperature in"
+msgstr "Geef temperatuur weer in"
+
+#: framework/redux-options.php:678 framework/redux-options.php:866
+msgid "Display date"
+msgstr "Toon datum"
+
+#: framework/redux-options.php:685
+msgid "Display weather description"
+msgstr "Toon weerbeschrijving"
+
+#: framework/redux-options.php:692
+msgid "Language for description"
+msgstr "Taal voor beschrijving"
+
+#: framework/redux-options.php:723
+msgid "Social Networking"
+msgstr "Social Networking"
+
+#: framework/redux-options.php:731
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: framework/redux-options.php:736
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: framework/redux-options.php:741
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: framework/redux-options.php:746
+msgid "LinkedIn URL"
+msgstr "LinkedIn-URL"
+
+#: framework/redux-options.php:751
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: framework/redux-options.php:756
+msgid "Flickr URL"
+msgstr "Flickr URL"
+
+#: framework/redux-options.php:761
+msgid "Youtube URL"
+msgstr "YouTube URL"
+
+#: framework/redux-options.php:766
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: framework/redux-options.php:771
+msgid "Instagram URL"
+msgstr "Instagram-URL"
+
+#: framework/redux-options.php:776
+msgid "Dribbble URL"
+msgstr "Dribbble URL"
+
+#: framework/redux-options.php:781
+msgid "Behance URL"
+msgstr "Behance URL"
+
+#: framework/redux-options.php:786
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: framework/redux-options.php:791
+msgid "Reddit URL"
+msgstr "Reddit URL"
+
+#: framework/redux-options.php:796
+msgid "VKontakte URL"
+msgstr "VKontakte URL"
+
+#: framework/redux-options.php:801
+msgid "Weibo URL"
+msgstr "Weibo URL"
+
+#: framework/redux-options.php:806
+msgid "WeChat URL"
+msgstr "WeChat URL"
+
+#: framework/redux-options.php:811
+msgid "QQ URL"
+msgstr "QQ URL"
+
+#: framework/redux-options.php:816
+msgid "RSS URL"
+msgstr "RSS URL"
+
+#: framework/redux-options.php:822 framework/redux-typography.php:325
+msgid "Top Navigation"
+msgstr "Top navigatie"
+
+#: framework/redux-options.php:830
+msgid "Enable Top Menu"
+msgstr "Zet Top Menu aan"
+
+#: framework/redux-options.php:831
+msgid "Enable top navigation"
+msgstr "Zet top navigatie aan"
+
+#: framework/redux-options.php:839
+msgid "Top Menu Type"
+msgstr "Type van Top Menu"
+
+#: framework/redux-options.php:840
+msgid "Type of Top menu to display"
+msgstr "Type van Top Menu om weer te geven"
+
+#: framework/redux-options.php:851 framework/redux-options.php:997
+msgid "Display login/register"
+msgstr "Geef login/register weer"
+
+#: framework/redux-options.php:852 framework/redux-options.php:998
+msgid "Display login/register links in top navigation"
+msgstr "Geef login/register links in top navigatie"
+
+#: framework/redux-options.php:867
+msgid "Do you want to display date in top menu"
+msgstr "Wil je de datum weergeven in het top menu"
+
+#: framework/redux-options.php:880 framework/redux-options.php:946
+#: framework/redux-options.php:1011
+msgid "Display social icons"
+msgstr "Sociale pictogrammen weergeven"
+
+#: framework/redux-options.php:881 framework/redux-options.php:947
+#: framework/redux-options.php:1012
+msgid "Display social icons in top navigation (if enabled)"
+msgstr ""
+"Sociale pictogrammen in de bovenste navigatiebalk weergeven (indien "
+"ingeschakeld)"
+
+#: framework/redux-options.php:882 framework/redux-options.php:948
+#: framework/redux-options.php:1013
+msgid "This will show links you selected under \"Social Networking\""
+msgstr ""
+"Dit zal koppelingen weergeven dat u hebt geselecteerd onder \"Sociale "
+"netwerken\""
+
+#: framework/redux-options.php:890 framework/redux-typography.php:393
+msgid "Main Navigation"
+msgstr "Hoofdnavigatie"
+
+#: framework/redux-options.php:898
+msgid "Main Navigation Type"
+msgstr "Type van Hoofdnavigatie"
+
+#: framework/redux-options.php:899
+msgid "Type of navigation to display"
+msgstr "Type navigatie om weer te geven"
+
+#: framework/redux-options.php:910
+msgid "Enable image/logo in navigation"
+msgstr "Gebruik afbeelding/logo in navigatie"
+
+#: framework/redux-options.php:916
+msgid "Navigation menu logo"
+msgstr "Logo van navigatiemenu"
+
+#: framework/redux-options.php:917
+msgid "Put logo in main navigation"
+msgstr "Gebruik een logo in hoofdnavigatie"
+
+#: framework/redux-options.php:923
+msgid "Sticky menu"
+msgstr "Sticky menu"
+
+#: framework/redux-options.php:924 framework/redux-options.php:991
+msgid "Use navigation as sticky menu"
+msgstr "Gebruik navigatie als sticky menu"
+
+#: framework/redux-options.php:930
+msgid "Hide first item on sticky menu"
+msgstr "Verberg eerste item op het sticky menu"
+
+#: framework/redux-options.php:931
+msgid "Hide first navigation item when used as sticky"
+msgstr "Verberg eerste navigatie-item wanneer je het gebruikt als sticky"
+
+#: framework/redux-options.php:938
+msgid "Display search icon"
+msgstr "Geef zoek icoon weer"
+
+#: framework/redux-options.php:939
+msgid "Display search icon in main navigation"
+msgstr "Geef zoek icoon weer in hoofdnavigatie"
+
+#: framework/redux-options.php:940
+msgid "Do not display this if you have long menu"
+msgstr "Niet tonen als je een lang menu hebt"
+
+#: framework/redux-options.php:954
+msgid "Use Category Colors"
+msgstr "Gebruik categorie-kleuren"
+
+#: framework/redux-options.php:955
+msgid "Use Category Colors for Main Navigation Styling"
+msgstr "Gebruik categorie-kleuren voor styling van hoofdnavigatie"
+
+#: framework/redux-options.php:963 framework/redux-typography.php:572
+msgid "Mobile Navigation"
+msgstr "Mobiele navigatie"
+
+#: framework/redux-options.php:971
+msgid "Mobile logo"
+msgstr "Mobiele logo"
+
+#: framework/redux-options.php:972
+msgid "Logo for mobile version"
+msgstr "Logo voor mobiele versie"
+
+#: framework/redux-options.php:983
+msgid "Mobile Retina logo"
+msgstr "Mobiele Retina logo"
+
+#: framework/redux-options.php:984
+msgid "Retina Logo for mobile version"
+msgstr "Retina logo voor mobiele versie"
+
+#: framework/redux-options.php:990
+msgid "Sticky Menu"
+msgstr "Sticky Menu"
+
+#: framework/redux-options.php:1086 framework/redux-options.php:1338
+msgid "Category Layout"
+msgstr "Categorie Lay-out"
+
+#: framework/redux-options.php:1087
+msgid "Select layout for all categories"
+msgstr "Selecteer lay-out voor alle categorieën"
+
+#: framework/redux-options.php:1112
+msgid "0 - default, set by theme, 1 - no excerpt"
+msgstr "0 - standaard ingesteld per thema, 1 - geen uittreksel"
+
+#: framework/redux-options.php:1173 framework/redux-options.php:1416
+msgid "Show category title on top"
+msgstr "Toon categorietitel bovenop"
+
+#: framework/redux-options.php:1185 framework/redux-options.php:1427
+msgid "Category image"
+msgstr "Categorie afbeelding"
+
+#: framework/redux-options.php:1219
+msgid ""
+"This are default setting for all categories. If you want to override this, "
+"please select custom settings for desired category below."
+msgstr ""
+"Dit zijn de standaardinstellingen voor alle categorieën. Wilt u deze "
+"overschrijven, selecteer dan de aangepaste instellingen voor de gewenste "
+"categorie hieronder."
+
+#: framework/redux-options.php:1225 framework/redux-options.php:1477
+msgid "Top banner"
+msgstr "Top banner"
+
+#: framework/redux-options.php:1233 framework/redux-options.php:1485
+msgid "Bottom banner"
+msgstr "Bottom banner"
+
+#: framework/redux-options.php:1241 framework/redux-options.php:1493
+#: framework/redux-options.php:3812 framework/redux-options.php:3856
+#: framework/redux-options.php:3932 framework/redux-options.php:3976
+#: framework/redux-options.php:4019 framework/redux-options.php:4062
+#: framework/redux-options.php:4105 framework/redux-options.php:4148
+#: framework/redux-options.php:5427 framework/redux-options.php:5752
+msgid "Wallpaper Ad"
+msgstr "Wallpaper Ad"
+
+#: framework/redux-options.php:1249 framework/redux-options.php:1502
+msgid "Banner in Layout"
+msgstr "Banner in de lay-out"
+
+#: framework/redux-options.php:1250
+msgid "Do you want to divide layout with an ad?"
+msgstr "Wilt u de lay-out verdelen met een advertentie?"
+
+#: framework/redux-options.php:1258 framework/redux-options.php:1510
+msgid "Show banner after row:"
+msgstr "Toon banner na rij:"
+
+#: framework/redux-options.php:1263 framework/redux-options.php:1515
+msgid "0 for showing banner on top of category"
+msgstr "0 voor het tonen van de banner bovenaan de categorie"
+
+#: framework/redux-options.php:1268
+msgid "Category Settings"
+msgstr "Categorie Instellingen"
+
+#: framework/redux-options.php:1302 framework/redux-options.php:1318
+msgid "Select Category"
+msgstr "Selecteer Categorie"
+
+#: framework/redux-options.php:1313
+msgid "Custom settings for top categories"
+msgstr "Aangepaste instellingen voor topcategorieën"
+
+#: framework/redux-options.php:1364
+msgid "0 - default, set by theme, 1 - no excerpt (enter manually)"
+msgstr ""
+"0 - standaard ingesteld per thema, 1 - geen uittreksel (handmatig invoeren)"
+
+#: framework/redux-options.php:1455
+msgid "Use this setting for child categories"
+msgstr "Gebruik deze instelling voor ondergeschikte categorieën"
+
+#: framework/redux-options.php:1531
+msgid "Customize Categories"
+msgstr "Pas categorieën aan"
+
+#: framework/redux-options.php:1543 framework/redux-options.php:4416
+msgid "Posts Settings"
+msgstr "Posts Instellingen"
+
+#: framework/redux-options.php:1551 framework/redux-options.php:2621
+msgid "Post Layout"
+msgstr "Post Lay-out"
+
+#: framework/redux-options.php:1568 framework/redux-options.php:2638
+#: framework/redux-options.php:4441 framework/redux-options.php:5501
+msgid "Image size"
+msgstr "Afbeeldingsgrootte"
+
+#: framework/redux-options.php:1569 framework/redux-options.php:2639
+#: framework/redux-options.php:4442 framework/redux-options.php:5502
+msgid "Set dimensions via \"Settings > Media\""
+msgstr "Afmetingen via \"Instellingen > Media\""
+
+#: framework/redux-options.php:1583 framework/redux-options.php:2653
+#: framework/redux-options.php:4457 framework/redux-options.php:5516
+msgid "Show full image height"
+msgstr "Toon volledige afbeeldingshoogte"
+
+#: framework/redux-options.php:1584 framework/redux-options.php:2654
+#: framework/redux-options.php:4458 framework/redux-options.php:5517
+msgid "Fit only horizontally"
+msgstr "Pas enkel horizontaal"
+
+#: framework/redux-options.php:1593 framework/redux-options.php:4468
+msgid "Review Poster"
+msgstr "Recensie Poster"
+
+#: framework/redux-options.php:1594
+msgid "Upload default poster for this layout"
+msgstr "Upload standaard poster voor deze lay-out"
+
+#: framework/redux-options.php:1595
+msgid "The image will be scaled to 310px in width"
+msgstr "De afbeelding wordt geschaald tot 310px in de breedte"
+
+#: framework/redux-options.php:1625 framework/redux-options.php:2685
+#: framework/redux-options.php:4501
+msgid "Enable Breadcrumbs"
+msgstr "Aanzetten Breadcrumbs"
+
+#: framework/redux-options.php:1632
+msgid "Enable Post Meta after Title"
+msgstr "Aanzetten Post Meta na Titel"
+
+#: framework/redux-options.php:1660 framework/redux-options.php:4509
+msgid "Enable Tags after Content"
+msgstr "Aanzetten Tags na Inhoud"
+
+#: framework/redux-options.php:1667 framework/redux-options.php:4517
+msgid "Enable Author Information"
+msgstr "Aanzetten Poster Informatie"
+
+#: framework/redux-options.php:1674 framework/redux-options.php:4525
+msgid "Enable Prev/Next Posts"
+msgstr "Aanzetten Vorige/Volgende Posts"
+
+#: framework/redux-options.php:1683
+msgid "Related posts"
+msgstr "Gerelateerde posts"
+
+#: framework/redux-options.php:1692 framework/redux-options.php:4589
+msgid "Related posts box at the bottom"
+msgstr "Gerelateerde posts box onderaan"
+
+#: framework/redux-options.php:1693 framework/redux-options.php:4590
+msgid ""
+"This box will be displayed at bottom of the post, after author box (if "
+"selected)."
+msgstr ""
+"Deze box wordt getoond onderaan de post, na de auteursbox (indien "
+"geselecteerd)."
+
+#: framework/redux-options.php:1698 framework/redux-options.php:4595
+msgid "Display related posts"
+msgstr "Toon gerelateerde posts"
+
+#: framework/redux-options.php:1705 framework/redux-options.php:4600
+msgid "Filter related posts by"
+msgstr "Filter gerelateerde posts op"
+
+#: framework/redux-options.php:1706 framework/redux-options.php:1718
+#: framework/redux-options.php:1851 framework/redux-options.php:1944
+#: framework/redux-options.php:2037 framework/redux-options.php:4601
+#: framework/redux-options.php:4612 framework/redux-options.php:4730
+#: framework/redux-options.php:4828 framework/redux-options.php:4926
+msgid "Choose how to filter related posts"
+msgstr "Kies hoe gerelateerde posts moeten gefilterd worden"
+
+#: framework/redux-options.php:1717 framework/redux-options.php:4611
+msgid "Display Grid"
+msgstr "Geef raster weer"
+
+#: framework/redux-options.php:1729 framework/redux-options.php:4622
+msgid "Title for related posts"
+msgstr "Titel voor gerelateerde posts"
+
+#: framework/redux-options.php:1730
+msgid "Default: <i>\"Related Posts\"</i>"
+msgstr "Standaard: <i>\"Gerelateerde posts\"</i>"
+
+#: framework/redux-options.php:1737
+msgid "Posts Count"
+msgstr "Berichtenteller"
+
+#: framework/redux-options.php:1738
+msgid "Default: <i>\"3\"</i>"
+msgstr "Standaard: <i>\"3\"</i>"
+
+#: framework/redux-options.php:1743
+msgid "Number of related posts to display"
+msgstr "Aantal gerelateerde posts om te tonen"
+
+#: framework/redux-options.php:1749 framework/redux-options.php:1877
+#: framework/redux-options.php:1970 framework/redux-options.php:2063
+#: framework/redux-options.php:4630 framework/redux-options.php:4760
+#: framework/redux-options.php:4858 framework/redux-options.php:4955
+msgid "Posts offset"
+msgstr "Posts offset"
+
+#: framework/redux-options.php:1750 framework/redux-options.php:1878
+#: framework/redux-options.php:1971 framework/redux-options.php:2064
+msgid "Default: <i>\"0\"</i> (No offset)"
+msgstr "Standaard: <i>\"0\"</i> (Geen offset)"
+
+#: framework/redux-options.php:1751 framework/redux-options.php:1879
+#: framework/redux-options.php:1972 framework/redux-options.php:2065
+msgid "Number of post to displace or pass over"
+msgstr "Aantal posts te verdringen of over te slaan"
+
+#: framework/redux-options.php:1776 framework/redux-options.php:4657
+msgid "Related posts box on the side"
+msgstr "Gerelateerde posts box aan de zijkant"
+
+#: framework/redux-options.php:1777 framework/redux-options.php:4658
+msgid "This box will be displayed after post title."
+msgstr "Deze box zal getoond worden na de post titel."
+
+#: framework/redux-options.php:1782 framework/redux-options.php:4663
+msgid "Display related box"
+msgstr "Gerelateerde box tonen"
+
+#: framework/redux-options.php:1789 framework/redux-options.php:4669
+msgid "Number of sections"
+msgstr "Aantal afdelingen"
+
+#: framework/redux-options.php:1790 framework/redux-options.php:4670
+msgid "Number of sections in related box"
+msgstr "Aantal afdelingen in gerelateerde box"
+
+#: framework/redux-options.php:1791 framework/redux-options.php:4671
+msgid "How many sections you want to have in related box"
+msgstr "Hoeveel afdelingen wil je in de gerelateerde box hebben"
+
+#: framework/redux-options.php:1803 framework/redux-options.php:4684
+msgid "Show box on"
+msgstr "Toon box aan"
+
+#: framework/redux-options.php:1804 framework/redux-options.php:4685
+msgid "Where to display related box"
+msgstr "Waar gerelateerde box tonen"
+
+#: framework/redux-options.php:1817 framework/redux-options.php:4697
+msgid "First section data"
+msgstr "Eerste sectie data"
+
+#: framework/redux-options.php:1826 framework/redux-options.php:4706
+msgid "Section title"
+msgstr "Sectie titel"
+
+#: framework/redux-options.php:1835 framework/redux-options.php:1928
+#: framework/redux-options.php:2021 framework/redux-options.php:4715
+#: framework/redux-options.php:4813 framework/redux-options.php:4911
+msgid "Section format"
+msgstr "Sectie formaat"
+
+#: framework/redux-options.php:1836 framework/redux-options.php:1929
+#: framework/redux-options.php:2022 framework/redux-options.php:4716
+#: framework/redux-options.php:4814 framework/redux-options.php:4912
+msgid "Choose how to format post layout"
+msgstr "Kies hoe post lay-out te formatteren"
+
+#: framework/redux-options.php:1850 framework/redux-options.php:1943
+#: framework/redux-options.php:2036 framework/redux-options.php:4729
+#: framework/redux-options.php:4827 framework/redux-options.php:4925
+msgid "Filter related box by"
+msgstr "Filter gerelateerde box op"
+
+#: framework/redux-options.php:1865 framework/redux-options.php:1958
+#: framework/redux-options.php:2051 framework/redux-options.php:4745
+#: framework/redux-options.php:4843 framework/redux-options.php:4940
+msgid "Posts count"
+msgstr "Berichtenteller"
+
+#: framework/redux-options.php:1866 framework/redux-options.php:1959
+#: framework/redux-options.php:2052 framework/redux-options.php:4750
+#: framework/redux-options.php:4848 framework/redux-options.php:4945
+msgid "Number of post to show"
+msgstr "Aantal posts te tonen"
+
+#: framework/redux-options.php:1910 framework/redux-options.php:4795
+msgid "Second section data"
+msgstr "Tweede sectie data"
+
+#: framework/redux-options.php:1919 framework/redux-options.php:4804
+msgid "Second Section title"
+msgstr "Tweede sectie titel"
+
+#: framework/redux-options.php:2003 framework/redux-options.php:4893
+msgid "Third section data"
+msgstr "Derde sectie data"
+
+#: framework/redux-options.php:2012 framework/redux-options.php:4902
+msgid "Third Section title"
+msgstr "Derde sectie titel"
+
+#: framework/redux-options.php:2095
+msgid "Review posts"
+msgstr "Recensie posts"
+
+#: framework/redux-options.php:2103 framework/redux-options.php:5007
+msgid "Review box position"
+msgstr "Recensie box positie"
+
+#: framework/redux-options.php:2104 framework/redux-options.php:5008
+msgid ""
+"If you are using custom position then please use <strong>[review]</strong> "
+"shortcode to place the review box in any place within post content"
+msgstr ""
+"Als je een aangepaste positie gebruikt, gelieve de <strong>[review]</"
+"strong>shortcode te gebruiken om de review box op een bepaalde plaats te "
+"zetten."
+
+#: framework/redux-options.php:2115 framework/redux-options.php:5020
+msgid "Review style"
+msgstr "Recensie stijl"
+
+#: framework/redux-options.php:2126 framework/redux-options.php:5032
+msgid "Review summary type"
+msgstr "Recensie samenvatting type"
+
+#: framework/redux-options.php:2127 framework/redux-options.php:5033
+msgid "How to display review summary"
+msgstr "Hoe recensie samenvatting weergeven"
+
+#: framework/redux-options.php:2138 framework/redux-options.php:5080
+msgid "Number of criterias"
+msgstr "Aantal criteria"
+
+#: framework/redux-options.php:2139 framework/redux-options.php:5081
+msgid "Size of a review"
+msgstr "Grootte van een recensie"
+
+#: framework/redux-options.php:2140
+msgid ""
+"How many criteria fields you want to have. Selecting 0 will display only "
+"result."
+msgstr "Hoeveel criteriavelden? (0 geeft enkel resultaat weer)"
+
+#: framework/redux-options.php:2158 framework/redux-options.php:5117
+msgid "#1 - Criteria name"
+msgstr "#1 - Naam criterium"
+
+#: framework/redux-options.php:2159 framework/redux-options.php:2169
+#: framework/redux-options.php:2179 framework/redux-options.php:2189
+#: framework/redux-options.php:2199 framework/redux-options.php:2209
+#: framework/redux-options.php:2219 framework/redux-options.php:2229
+#: framework/redux-options.php:5118 framework/redux-options.php:5145
+#: framework/redux-options.php:5172 framework/redux-options.php:5199
+#: framework/redux-options.php:5226 framework/redux-options.php:5253
+#: framework/redux-options.php:5280 framework/redux-options.php:5307
+msgid "Name of the review criteria"
+msgstr "Naam van recensiecriteria"
+
+#: framework/redux-options.php:2168 framework/redux-options.php:5144
+msgid "#2 - Criteria name"
+msgstr "#2 - Naam criterium"
+
+#: framework/redux-options.php:2178 framework/redux-options.php:5171
+msgid "#3 - Criteria name"
+msgstr "#3 - Naam criterium"
+
+#: framework/redux-options.php:2188 framework/redux-options.php:5198
+msgid "#4 - Criteria name"
+msgstr "#4 - Naam criterium"
+
+#: framework/redux-options.php:2198 framework/redux-options.php:5225
+msgid "#5 - Criteria name"
+msgstr "#5 - Naam criterium"
+
+#: framework/redux-options.php:2208 framework/redux-options.php:5252
+msgid "#6 - Criteria name"
+msgstr "#6 - Naam criterium"
+
+#: framework/redux-options.php:2218 framework/redux-options.php:5279
+msgid "#7 - Criteria name"
+msgstr "#7 - Naam criterium"
+
+#: framework/redux-options.php:2228 framework/redux-options.php:5306
+msgid "#8 - Criteria name"
+msgstr "#8 - Naam criterium"
+
+#: framework/redux-options.php:2293
+msgid "Social Sharing"
+msgstr "Social Sharing"
+
+#: framework/redux-options.php:2301
+msgid "Display social sharing buttons"
+msgstr "Toon social sharing-knoppen"
+
+#: framework/redux-options.php:2302
+msgid "Where to display buttons"
+msgstr "Waar knoppen tonen"
+
+#: framework/redux-options.php:2314
+msgid "Title Social Sharing"
+msgstr "Titel Social Sharing"
+
+#: framework/redux-options.php:2315
+msgid "Default: <i>\"\"</i>"
+msgstr "Standaard: <i>\"\"</i>"
+
+#: framework/redux-options.php:2322
+msgid "Social Sharing Styles"
+msgstr "Social Sharing stijlen"
+
+#: framework/redux-options.php:2323
+msgid "Select theme for buttons."
+msgstr "Selecteer thema voor knoppen."
+
+#: framework/redux-options.php:2335
+msgid "Display Facebook button"
+msgstr "Toon Facebook-knop"
+
+#: framework/redux-options.php:2336
+msgid "How to display Facebook button"
+msgstr "Hoe Facebook-knop tonen"
+
+#: framework/redux-options.php:2352
+msgid "Display Twitter button"
+msgstr "Toon Twitter-knop"
+
+#: framework/redux-options.php:2353
+msgid "How to display Twitter button"
+msgstr "Hoe Twitter-knop tonen"
+
+#: framework/redux-options.php:2369
+msgid "Display Google button"
+msgstr "Toon Google-knop"
+
+#: framework/redux-options.php:2370
+msgid "How to display Google button"
+msgstr "Hoe Google-knop tonen"
+
+#: framework/redux-options.php:2386
+msgid "Display LinkedIn button"
+msgstr "Toon LinkedIn-knop"
+
+#: framework/redux-options.php:2387
+msgid "How to display LinkedIn button"
+msgstr "Hoe LinkedIn-knop tonen"
+
+#: framework/redux-options.php:2403
+msgid "Display Pinterest button"
+msgstr "Toon Pinterest-knop"
+
+#: framework/redux-options.php:2404
+msgid "How to display Pinterest button"
+msgstr "Hoe Pinterest-knop tonen"
+
+#: framework/redux-options.php:2419
+msgid "Comments Settings"
+msgstr "Reacties instellingen"
+
+#: framework/redux-options.php:2427
+msgid "Comments Location"
+msgstr "Reacties locatie"
+
+#: framework/redux-options.php:2428
+msgid "Where to display comments?"
+msgstr "Waar reacties tonen?"
+
+#: framework/redux-options.php:2439
+msgid "Show Facebook Comments"
+msgstr "Toon Facebookreacties"
+
+#: framework/redux-options.php:2440
+msgid "This will disable standard comments"
+msgstr "Dit zet standaardreacties uit"
+
+#: framework/redux-options.php:2446
+msgid "Number of Comments"
+msgstr "Aantal reacties"
+
+#: framework/redux-options.php:2451
+msgid "The number of comments to show by default."
+msgstr "Aantal reacties om standaard te tonen."
+
+#: framework/redux-options.php:2458
+msgid "Facebook localization"
+msgstr "Facebook localisatie"
+
+#: framework/redux-options.php:2459
+msgid "Open Graph internationalization"
+msgstr "Open graph internationalisatie"
+
+#: framework/redux-options.php:2603
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: framework/redux-options.php:2604
+msgid "For Comments Moderation"
+msgstr "Moderatie voor reacties"
+
+#: framework/redux-options.php:2613
+msgid "Pages Settings"
+msgstr "Pagina-instellingen"
+
+#: framework/redux-options.php:2693
+msgid "404 Page"
+msgstr "404 Pagina"
+
+#: framework/redux-options.php:2722
+msgid "Show latest posts"
+msgstr "Toon laatste posts"
+
+#: framework/redux-options.php:2723
+msgid "Show latest posts below search"
+msgstr "Toon laatste posts onder zoeken"
+
+#: framework/redux-options.php:2731
+msgid "Latest posts title"
+msgstr "Laatste posts-titel"
+
+#: framework/redux-options.php:2732
+msgid "Our latest posts"
+msgstr "Onze laatste posts"
+
+#: framework/redux-options.php:2738 framework/redux-options.php:2825
+#: framework/redux-options.php:2953 framework/redux-options.php:3182
+#: framework/redux-options.php:3319
+msgid "Posts layout"
+msgstr "Posts lay-out"
+
+#: framework/redux-options.php:2817
+msgid "Archive Page"
+msgstr "Archiefpagina"
+
+#: framework/redux-options.php:2945
+msgid "Author Page"
+msgstr "Auteurspagina"
+
+#: framework/redux-options.php:3039
+msgid "News archive Title"
+msgstr "Nieuwsarchief titel"
+
+#: framework/redux-options.php:3040
+msgid "News archive"
+msgstr "Nieuwsarchief"
+
+#: framework/redux-options.php:3066
+msgid "Enable author's meta"
+msgstr "Zet schrijver's meta aan"
+
+#: framework/redux-options.php:3067 framework/redux-options.php:3143
+msgid "No. of posts, comments and views"
+msgstr "Aantal posts, reacties en weergaven"
+
+#: framework/redux-options.php:3074 framework/redux-options.php:3142
+msgid "Display author's meta"
+msgstr "Toon schrijver's meta"
+
+#: framework/redux-options.php:3075
+msgid "Select what you want to display"
+msgstr "Selecteer wat je wil tonen"
+
+#: framework/redux-options.php:3094
+msgid "Team of Authors Page"
+msgstr "Team van Schrijvers pagina"
+
+#: framework/redux-options.php:3102
+msgid "Authors per page"
+msgstr "Schrijvers per pagina"
+
+#: framework/redux-options.php:3103
+msgid "Number of authors per page"
+msgstr "Aantal schrijvers per pagina"
+
+#: framework/redux-options.php:3108
+msgid "0 for displaying all authors"
+msgstr "0 om alle schrijvers te tonen"
+
+#: framework/redux-options.php:3114
+msgid "Order Authors by"
+msgstr "Sorteer schrijvers op"
+
+#: framework/redux-options.php:3130
+msgid "Order"
+msgstr "Sorteer"
+
+#: framework/redux-options.php:3131
+msgid "Ascending or descending"
+msgstr "Oplopend of aflopend"
+
+#: framework/redux-options.php:3150
+msgid "Include Authors Roles"
+msgstr "Bevat Auteursrollen"
+
+#: framework/redux-options.php:3151
+msgid "Select one or more"
+msgstr "Selecteer één of meerdere"
+
+#: framework/redux-options.php:3166
+msgid "Exclude Authors"
+msgstr "Sluit auteurs uit"
+
+#: framework/redux-options.php:3167
+msgid "Don't display these authors"
+msgstr "Geef die auteurs niet weer"
+
+#: framework/redux-options.php:3168
+msgid "List of authots id, separated by commas (e.g. 2,3,5)."
+msgstr "Lijst van schrijvers ID, gescheiden door komma (bv. 2,3,5)."
+
+#: framework/redux-options.php:3174
+msgid "Search Page"
+msgstr "Zoekpagina"
+
+#: framework/redux-options.php:3311
+msgid "Tag Page"
+msgstr "Tagpagina"
+
+#: framework/redux-options.php:3428
+msgid "bbPress Page"
+msgstr "bbPress pagina"
+
+#: framework/redux-options.php:3459
+msgid "WooCommerce Page"
+msgstr "WooCommerce pagina"
+
+#: framework/redux-options.php:3492
+msgid "Sidebars"
+msgstr "Zijbalken"
+
+#: framework/redux-options.php:3499
+msgid "My Sidebars"
+msgstr "Mijn zijbalken"
+
+#: framework/redux-options.php:3500
+msgid "Add/remove your sidebars"
+msgstr "Voeg toe/verwijder jouw zijbalken"
+
+#: framework/redux-options.php:3501
+msgid "Add sidebar"
+msgstr "Voeg zijbalk toe"
+
+#: framework/redux-options.php:3506
+msgid "Enable sticky sidebar"
+msgstr "Voeg sticky zijbalk toe"
+
+#: framework/redux-options.php:3507
+msgid "Set sidebar to be sticky"
+msgstr "Stel zijbalk als sticky in"
+
+#: framework/redux-options.php:3518 framework/redux-typography.php:1599
+msgid "Footer Settings"
+msgstr "Footer instellingen"
+
+#: framework/redux-options.php:3526
+msgid "Enable copyright section"
+msgstr "Zet copyrightsectie aan"
+
+#: framework/redux-options.php:3533
+msgid "Copyright Text"
+msgstr "Copyright tekst"
+
+#: framework/redux-options.php:3540
+msgid "Author Text"
+msgstr "Auteurstekst"
+
+#: framework/redux-options.php:3552 framework/redux-typography.php:1668
+msgid "Top Section"
+msgstr "Top sectie"
+
+#: framework/redux-options.php:3667 framework/redux-typography.php:1774
+msgid "Bottom Section"
+msgstr "Bottom sectie"
+
+#: framework/redux-options.php:3783 framework/redux-options.php:5385
+#: framework/redux-options.php:5738
+msgid "Ads System"
+msgstr "Ads systeem"
+
+#: framework/redux-options.php:3793
+msgid "These are global settings"
+msgstr "Dit zijn globale instellingen"
+
+#: framework/redux-options.php:3798 framework/redux-options.php:3842
+#: framework/redux-options.php:3893 framework/redux-options.php:3962
+#: framework/redux-options.php:4005 framework/redux-options.php:4048
+#: framework/redux-options.php:4091 framework/redux-options.php:4134
+#: framework/redux-options.php:5391 framework/redux-options.php:5744
+msgid "Top Ad"
+msgstr "Top Ad"
+
+#: framework/redux-options.php:3805 framework/redux-options.php:3849
+#: framework/redux-options.php:3900 framework/redux-options.php:3969
+#: framework/redux-options.php:4012 framework/redux-options.php:4055
+#: framework/redux-options.php:4098 framework/redux-options.php:4141
+msgid "Bottom Ad"
+msgstr "Bottom Ad"
+
+#: framework/redux-options.php:3819 framework/redux-options.php:3863
+#: framework/redux-options.php:3940 framework/redux-options.php:3983
+#: framework/redux-options.php:4026 framework/redux-options.php:4069
+#: framework/redux-options.php:4112 framework/redux-options.php:4155
+#: framework/redux-options.php:5435 framework/redux-options.php:5760
+msgid "Left Side Ad"
+msgstr "Linker Ad"
+
+#: framework/redux-options.php:3826 framework/redux-options.php:3870
+#: framework/redux-options.php:3947 framework/redux-options.php:3990
+#: framework/redux-options.php:4033 framework/redux-options.php:4076
+#: framework/redux-options.php:4119 framework/redux-options.php:4162
+#: framework/redux-options.php:5443 framework/redux-options.php:5768
+msgid "Right Side Ad"
+msgstr "Rechter Ad"
+
+#: framework/redux-options.php:3834
+msgid "Ads for Homepage"
+msgstr "Ads voor de homepagina"
+
+#: framework/redux-options.php:3878 framework/redux-options.php:3957
+msgid "Ads for Pages"
+msgstr "Ads voor pagina's"
+
+#: framework/redux-options.php:3888
+msgid "Ads for Posts"
+msgstr "Ads voor posts"
+
+#: framework/redux-options.php:3907 framework/redux-options.php:5400
+msgid "Post Ad 1"
+msgstr "Post Ad 1"
+
+#: framework/redux-options.php:3908 framework/redux-options.php:5401
+msgid "Before the post"
+msgstr "Voor de post"
+
+#: framework/redux-options.php:3915 framework/redux-options.php:5409
+msgid "Post Ad 2"
+msgstr "Post Ad 2"
+
+#: framework/redux-options.php:3916 framework/redux-options.php:5410
+msgid "Before post content (after image)"
+msgstr "Voor postinhoud (na afbeelding"
+
+#: framework/redux-options.php:3923 framework/redux-options.php:5418
+msgid "Post Ad 3"
+msgstr "Post Ad 3"
+
+#: framework/redux-options.php:3924 framework/redux-options.php:5419
+msgid "After the post"
+msgstr "Na de post"
+
+#: framework/redux-options.php:4000
+msgid "Ads for Author Page"
+msgstr "Ads voor auteurspagina"
+
+#: framework/redux-options.php:4043
+msgid "Ads for Archive Page"
+msgstr "Ads voor archiefpagina"
+
+#: framework/redux-options.php:4086
+msgid "Ads for bbPress Page"
+msgstr "Ads voor bbPress-pagina"
+
+#: framework/redux-options.php:4129
+msgid "Ads for WooCommerce Page"
+msgstr "Ads voor WoOCommerce-pagina"
+
+#: framework/redux-options.php:4170
+msgid "Ads for Categories"
+msgstr "Ads voor categorieën"
+
+#: framework/redux-options.php:4178
+msgid "Ads for Mobile"
+msgstr "Ads voor mobiel"
+
+#: framework/redux-options.php:4186
+msgid "Header Ad"
+msgstr "Header Ad"
+
+#: framework/redux-options.php:4196
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: framework/redux-options.php:4202
+msgid "Simple Page title"
+msgstr "Titel voor enkele pagina"
+
+#: framework/redux-options.php:4203
+msgid "Enable this if you have problem with page titles."
+msgstr "Zet dit aan als je problemen hebt met paginatitels."
+
+#: framework/redux-options.php:4209
+msgid "Enable Open Graph Featured image"
+msgstr "Activeer Open Graph Featured image"
+
+#: framework/redux-options.php:4210
+msgid "Enable this if you don't have any SEO plugins installed."
+msgstr "Zet dit aan als je geen SEO plugins geïnstalleerd hebt."
+
+#: framework/redux-options.php:4223
+msgid "Disable Emoji"
+msgstr "Zet Emoji uit"
+
+#: framework/redux-options.php:4224
+msgid "Disable this if you don't need them (WordPress default install)."
+msgstr ""
+"Zet dit uit als je ze niet nodig hebt (WordPress standaard installatie)."
+
+#: framework/redux-options.php:4231
+msgid "Google Analytics Code"
+msgstr "Google Analytics Code"
+
+#: framework/redux-options.php:4232
+msgid ""
+"Here you can paste your Google Analytics code (not your id). If you don't "
+"have it or you are already using one, just leave blank. Don't use <b>&lt;"
+"script&gt;</b> tags."
+msgstr ""
+"Hier kunt u uw Google Analytics-code (niet uw id) plakken. Als je dit niet "
+"hebt of als u er een reeds gebruikt, laat dan gewoon leeg. Gebruik geen "
+"<b>&lt;script&gt;</b> tags."
+
+#: framework/redux-options.php:4239
+msgid "Custom CSS Code"
+msgstr "Aangepaste CSS-Code"
+
+#: framework/redux-options.php:4240
+msgid ""
+"e.g. #header{ background: #000; }<br> Don't use <b>&lt;style&gt;</b> tags"
+msgstr ""
+"BV #header {achtergrond: #000;}<br>Gebruik geen <b>&lt;style&gt;</b tags"
+
+#: framework/redux-options.php:4241
+msgid "Paste your CSS code here."
+msgstr "Plak hier uw CSS-code."
+
+#: framework/redux-options.php:4250
+msgid "Custom JS Code (Header)"
+msgstr "Aangepaste JS Code (Header)"
+
+#: framework/redux-options.php:4251 framework/redux-options.php:4260
+msgid ""
+"e.g. alert(\"Hello World!\");<br> Don't use <b>&lt;script&gt;</b> tags or "
+"<strong>document.ready</strong>"
+msgstr ""
+"bv. alert(\"Hello World!\");<br>Gebruik geen <b>&lt;script&gt;</b> tags of "
+"<strong>document.ready</strong>"
+
+#: framework/redux-options.php:4252 framework/redux-options.php:4261
+msgid "Paste your JS code here."
+msgstr "Plak hier uw JS-code."
+
+#: framework/redux-options.php:4259
+msgid "Custom JS Code (Footer)"
+msgstr "Aangepaste JS Code (Footer)"
+
+#: framework/redux-options.php:4267
+msgid "Register jQuery in footer"
+msgstr "Registreren van jQuery in footer"
+
+#: framework/redux-options.php:4268
+msgid "Disable this if you have problems with other plugins!"
+msgstr "Deactiveer dit als er conflicten optreden met andere plugins!"
+
+#: framework/redux-options.php:4275
+msgid "Ajax Pagination Timer"
+msgstr "Ajax Paginering Timer"
+
+#: framework/redux-options.php:4276
+msgid "Use higher settings if pagination is overlapping!"
+msgstr "Gebruik hogere instellingen als de paginering overlapt."
+
+#: framework/redux-options.php:4287
+msgid "Datetime Settings"
+msgstr "Datetime-instellingen"
+
+#: framework/redux-options.php:4288
+msgid ""
+"Please, check this tutorial on <a href=\"http://codex.wordpress.org/"
+"Formatting_Date_and_Time\" target=\"_blank\">how to format Date and Time</a>"
+msgstr ""
+"Gelieve deze tutorial op \"<a href=\"http://codex.wordpress.org/"
+"Formatting_Date_and_Time\" target=\"_blank\">how to format Date and Time</a>"
+"\" te bekijken."
+
+#: framework/redux-options.php:4295
+msgid "Default date format"
+msgstr "Standaard datum-formaat"
+
+#: framework/redux-options.php:4296 framework/redux-options.php:4312
+msgid "Main content and posts"
+msgstr "Hoofdinhoud en posts"
+
+#: framework/redux-options.php:4297 framework/redux-options.php:4321
+msgid "(e.g.: November 6th, 2014)"
+msgstr "(bv.: November 6th, 2014)"
+
+#: framework/redux-options.php:4303
+msgid "Default short date format"
+msgstr "Standaard korte datumnotatie"
+
+#: framework/redux-options.php:4304
+msgid "Image layouts"
+msgstr "Afbeelding lay-outs"
+
+#: framework/redux-options.php:4305 framework/redux-options.php:4329
+msgid "(e.g.: Nov 6th, 2014)"
+msgstr "(bv.: Nov 6th, 2014)"
+
+#: framework/redux-options.php:4311
+msgid "Default time format"
+msgstr "Standaard tijdformaat"
+
+#: framework/redux-options.php:4313
+msgid "(e.g.: 12:50 AM)"
+msgstr "(bv.: 12:50 AM)"
+
+#: framework/redux-options.php:4319
+msgid "Header date format"
+msgstr "Header datum formaat"
+
+#: framework/redux-options.php:4320
+msgid "Header widget"
+msgstr "Header widget"
+
+#: framework/redux-options.php:4327
+msgid "Sidebar date format"
+msgstr "Zijbalk datumformaat"
+
+#: framework/redux-options.php:4328
+msgid "Shorter date to fit"
+msgstr "Kortere datum om te passen"
+
+#: framework/redux-options.php:4335
+msgid "Timeline date format"
+msgstr "Tijdlijn datum formaat"
+
+#: framework/redux-options.php:4336
+msgid "Timeline Widget"
+msgstr "Tijdlijn Widget"
+
+#: framework/redux-options.php:4337
+msgid "(e.g.: Nov 6th)"
+msgstr "(bv.: Nov 6th)"
+
+#: framework/redux-options.php:4346
+msgid "Favicons"
+msgstr "Favicons"
+
+#: framework/redux-options.php:4355
+msgid "Favicon 16x16 pixels (ico)"
+msgstr "Favicon 16x16 pixels (ico)"
+
+#: framework/redux-options.php:4356
+msgid "The 16x16 favicon is the most used on all browsers."
+msgstr "De 16 x 16 favicon is de meest gebruikte op alle browsers."
+
+#: framework/redux-options.php:4362
+msgid "Apple Touch Icon 57x57 pixels (png)"
+msgstr "Apple Touch Icon 57x57 pixels (png)"
+
+#: framework/redux-options.php:4363
+msgid "For non-Retina iPhone, iPod Touch, and Android 2.1+ devices"
+msgstr "Voor niet-Retina iPhone, iPod Touch, en Android 2.1+ toestellen"
+
+#: framework/redux-options.php:4369
+msgid "Apple Touch Icon 76x76 pixels (png)"
+msgstr "Apple Touch Icon 76x76 pixels (png)"
+
+#: framework/redux-options.php:4370
+msgid "Size for iPad 2 and iPad mini (standard resolution)"
+msgstr "Afmeting voor iPad 2 en iPad mini (standaardresolutie)"
+
+#: framework/redux-options.php:4376
+msgid "Apple Touch Icon 120x120 pixels (png)"
+msgstr "Apple Touch Icon 120x120 pixels (png)"
+
+#: framework/redux-options.php:4377
+msgid "Size for iPhone and iPod touch (high resolution)"
+msgstr "Afmeting voor iPhone en iPod touch (hoge resolutie)"
+
+#: framework/redux-options.php:4383
+msgid "Apple Touch Icon 152x152 pixels (png)"
+msgstr "Apple Touch Icon 152x152 pixels (png)"
+
+#: framework/redux-options.php:4384
+msgid "Size for iPad and iPad mini (high resolution)"
+msgstr "Afmetingen voor iPad en iPad mini (hoge resolutie)"
+
+#: framework/redux-options.php:4418 framework/redux-options.php:5478
+msgid "This options overides your global settings."
+msgstr "Deze instellingen overschrijven je globale instellingen."
+
+#: framework/redux-options.php:4423
+msgid "Post layout"
+msgstr "Post lay-out"
+
+#: framework/redux-options.php:4424
+msgid "Select layout for this post."
+msgstr "Selecteer lay-out voor deze post"
+
+#: framework/redux-options.php:4469
+msgid "Upload poster for this layout"
+msgstr "Upload poster voor deze lay-out"
+
+#: framework/redux-options.php:4480
+msgid "Select main sidebar position for this post."
+msgstr "Selecteer hoofdpositie van de zijbalk voor deze post."
+
+#: framework/redux-options.php:4533
+msgid "Display Via & Source"
+msgstr "Toon Via & Bron"
+
+#: framework/redux-options.php:4539
+msgid "Via Title"
+msgstr "Via Titel"
+
+#: framework/redux-options.php:4546
+msgid "Via name"
+msgstr "Via naam"
+
+#: framework/redux-options.php:4552
+msgid "Via URL"
+msgstr "Via URL"
+
+#: framework/redux-options.php:4558
+msgid "Source Title"
+msgstr "Bron Titel"
+
+#: framework/redux-options.php:4565
+msgid "Source name"
+msgstr "Bronnaam"
+
+#: framework/redux-options.php:4571
+msgid "Source URL"
+msgstr "Bron URL"
+
+#: framework/redux-options.php:4580
+msgid "Related posts boxes"
+msgstr "Gerelateerde post boxes"
+
+#: framework/redux-options.php:4581
+msgid "Your selection overrides global theme options"
+msgstr "Jouw selectie overschrijft globale thema-opties"
+
+#: framework/redux-options.php:4623
+msgid "Default: \"Related Posts\""
+msgstr "Standaard: \"Gerelateerde posts\""
+
+#: framework/redux-options.php:4635 framework/redux-options.php:4765
+#: framework/redux-options.php:4863 framework/redux-options.php:4960
+msgid "Number of post to displace or pass over (0 for no offset)"
+msgstr "Aantal posts te verdringen of over te slaan (0 voor geen offset)"
+
+#: framework/redux-options.php:4991
+msgid "Review post settings"
+msgstr "Recensie post instellingen"
+
+#: framework/redux-options.php:4997
+msgid "Display review"
+msgstr "Geef recensie weer"
+
+#: framework/redux-options.php:5044
+msgid "Review summary"
+msgstr "Recensie samenvatting"
+
+#: framework/redux-options.php:5053
+msgid "Review summary (The Good)"
+msgstr "Recensie samenvatting (Pluspunten)"
+
+#: framework/redux-options.php:5054 framework/redux-options.php:5064
+msgid "Hit enter for line breaks. It will be replaced with a list."
+msgstr ""
+"Druk op enter voor regeleinden. Het zal worden vervangen door een lijst."
+
+#: framework/redux-options.php:5063
+msgid "Review summary (The Bad)"
+msgstr "Recensie samenvatting (Minpunten)"
+
+#: framework/redux-options.php:5073
+msgid "Text appears under the total score"
+msgstr "Tekst wordt weergegeven onder de totale score"
+
+#: framework/redux-options.php:5082
+msgid "How many criteria fields you want to have"
+msgstr "Hoeveel criteriavelden?"
+
+#: framework/redux-options.php:5101
+msgid "#0 - Review value"
+msgstr "#0 - Recensie waarde"
+
+#: framework/redux-options.php:5102 framework/redux-options.php:5129
+#: framework/redux-options.php:5156 framework/redux-options.php:5183
+#: framework/redux-options.php:5210 framework/redux-options.php:5237
+#: framework/redux-options.php:5264 framework/redux-options.php:5291
+#: framework/redux-options.php:5318
+msgid "Min: 0, max: 100, step: 1, default value: 75"
+msgstr "Min: 0, max: 100, stap: 1, standaardwaarde: 75"
+
+#: framework/redux-options.php:5128
+msgid "#1 - Criteria value"
+msgstr "#1 - Criterium waarde"
+
+#: framework/redux-options.php:5155
+msgid "#2 - Criteria value"
+msgstr "#2 - Criterium waarde"
+
+#: framework/redux-options.php:5182
+msgid "#3 - Criteria value"
+msgstr "#3 - Criterium waarde"
+
+#: framework/redux-options.php:5209
+msgid "#4 - Criteria value"
+msgstr "#4 - Criterium waarde"
+
+#: framework/redux-options.php:5236
+msgid "#5 - Criteria value"
+msgstr "#5 - Criterium waarde"
+
+#: framework/redux-options.php:5263
+msgid "#6 - Criteria value"
+msgstr "#6 - Criterium waarde"
+
+#: framework/redux-options.php:5290
+msgid "#7 - Criteria value"
+msgstr "#7 - Criterium waarde"
+
+#: framework/redux-options.php:5317
+msgid "#8 - Criteria value"
+msgstr "#8 - Criterium waarde"
+
+#: framework/redux-options.php:5336
+msgid "Audio post settings"
+msgstr "Audio post instellingen"
+
+#: framework/redux-options.php:5342
+msgid "Audio embed"
+msgstr "Audio embed"
+
+#: framework/redux-options.php:5343 framework/redux-options.php:5379
+msgid ""
+"Paste an embed link and it will be embeded in the post instead of featured "
+"image"
+msgstr ""
+"Plaats een embed link, en het zal embedded worden in de post in plaats van "
+"de featured image."
+
+#: framework/redux-options.php:5348
+msgid "Audio title"
+msgstr "Audio titel"
+
+#: framework/redux-options.php:5353
+msgid "Audio author"
+msgstr "Audio schrijver"
+
+#: framework/redux-options.php:5359
+msgid "Video post settings"
+msgstr "Video post instellingen"
+
+#: framework/redux-options.php:5365 framework/redux-options.php:5717
+msgid "Video URL"
+msgstr "Video URL"
+
+#: framework/redux-options.php:5366 framework/redux-options.php:5718
+msgid ""
+"Paste a link from Youtube, Vimeo or Dailymotion and it will be embeded in "
+"the post instead of featured image. This has higher prioriry than embed code."
+msgstr ""
+"Plaats een link van YouTube, Vimeo of Dailymotion and het zal embedded "
+"worden in de post in plaats van de featured image. Dit heeft hogere "
+"prioriteit dan de embed code."
+
+#: framework/redux-options.php:5371 framework/redux-options.php:5723
+msgid "Overwrite thumbnail"
+msgstr "Overschrijf thumbnail"
+
+#: framework/redux-options.php:5372 framework/redux-options.php:5724
+msgid "Do you want to overwrite thumbnail if exist with video thumbnail?"
+msgstr "Wil je de thumbnail overschrijven, als er al een video thumbnail is?"
+
+#: framework/redux-options.php:5378 framework/redux-options.php:5730
+msgid "Video embed"
+msgstr "Video embed"
+
+#: framework/redux-options.php:5392
+msgid "Below the header"
+msgstr "Onder de header"
+
+#: framework/redux-options.php:5456
+msgid "Post Options"
+msgstr "Post opties"
+
+#: framework/redux-options.php:5476
+msgid "Page Settings"
+msgstr "Pagina-instellingen"
+
+#: framework/redux-options.php:5483
+msgid "Page layout"
+msgstr "Pagina lay-out"
+
+#: framework/redux-options.php:5484
+msgid "Select layout for this page."
+msgstr "Selecteer lay-out voor deze pagina."
+
+#: framework/redux-options.php:5526
+msgid "Select main sidebar position for this page."
+msgstr "Selecteer hoofdpositie van de zijbalk voor deze pagina."
+
+#: framework/redux-options.php:5558
+msgid "Enable unique posts"
+msgstr "Zet uniqe posts aan"
+
+#: framework/redux-options.php:5588
+msgid "Top Grid"
+msgstr "Top Raster"
+
+#: framework/redux-options.php:5711
+msgid "Video page settings"
+msgstr "Video pagina-instellingen"
+
+#: framework/redux-options.php:5731
+msgid ""
+"Paste an embed link and it will be embeded in the post instead of featured "
+"image."
+msgstr ""
+"Plaats een embed link, en het zal embedded worden in de post in plaats van "
+"de featured image."
+
+#: framework/redux-options.php:5778
+msgid "Page Options"
+msgstr "Pagina-instellingen."
+
+#: framework/redux-options.php:5796
+msgid "Edit Your Ad"
+msgstr "Bewerk jouw Ad."
+
+#: framework/redux-options.php:5803
+msgid "Ad Display"
+msgstr "Ad Weergave"
+
+#: framework/redux-options.php:5814
+msgid "Ad Type"
+msgstr "Ad Type"
+
+#: framework/redux-options.php:5823 framework/redux-options.php:5851
+msgid "Ad Size"
+msgstr "Ad Grootte"
+
+#: framework/redux-options.php:5824 framework/redux-options.php:5852
+msgid "Select your ad size"
+msgstr "Selecteer jouw ad grootte"
+
+#: framework/redux-options.php:5864
+msgid "Top Banner image"
+msgstr "Top Banner afbeelding"
+
+#: framework/redux-options.php:5872
+msgid "Banner URL"
+msgstr "Banner URL"
+
+#: framework/redux-options.php:5873
+msgid "Link target for image banner (e.g. http://themes.mipdesign.com)"
+msgstr "Link target voor afbeelding banner (bv. http://themes.mipdesign.com)"
+
+#: framework/redux-options.php:5879
+msgid "URL Behaviour"
+msgstr "URL Gedrag"
+
+#: framework/redux-options.php:5890
+msgid "Banner Click Event"
+msgstr "Banner Click Event"
+
+#: framework/redux-options.php:5897
+msgid "Banner Embed Code"
+msgstr "Banner Embed Code"
+
+#: framework/redux-options.php:5907
+msgid "Ads Settings"
+msgstr "Ads Instellingen"
+
+#: framework/redux-options.php:5930
+msgid "Image Caption"
+msgstr "Afbeelding Caption"
+
+#: framework/redux-options.php:5937
+msgid "Featured Image Caption"
+msgstr "Featured Image Caption"
+
+#: framework/redux-options.php:6030
+msgid "Section via hook"
+msgstr "Sectiie via hook"
+
+#: framework/redux-options.php:6031
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+"<p class=\"description\">Dit is een gedeelte gemaakt door een filter toe te "
+"voegen aan de \"sections array\". Kan worden gebruikt door child thema's om "
+"secties toe te voegen of te verwijderen uit de opties.</p>"
+
+#: framework/redux-typography.php:40 framework/redux-typography.php:41
+msgid "Theme Typography"
+msgstr "Thema Typografie"
+
+#: framework/redux-typography.php:156
+msgid "Gemeral Setting"
+msgstr "Generale instellingen"
+
+#: framework/redux-typography.php:162
+msgid "Body Font"
+msgstr "Body Font"
+
+#: framework/redux-typography.php:163
+msgid "Specify the body font properties."
+msgstr "Specifieer de body font eigenschappen."
+
+#: framework/redux-typography.php:173
+msgid "Theme Main Color"
+msgstr "Thema Hoofdkleur"
+
+#: framework/redux-typography.php:174
+msgid "Pick a color for the theme (default: #f1a602)."
+msgstr "Kies een kleur voor het thema (standaard: #f1a602)."
+
+#: framework/redux-typography.php:183 framework/redux-typography.php:217
+#: framework/redux-typography.php:663 framework/redux-typography.php:762
+#: framework/redux-typography.php:861 framework/redux-typography.php:1286
+#: framework/redux-typography.php:1357 framework/redux-typography.php:1449
+#: framework/redux-typography.php:1613 framework/redux-typography.php:1676
+#: framework/redux-typography.php:1782 wp-admin/tinymce/config.php:69
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: framework/redux-typography.php:184 framework/redux-typography.php:1450
+#: framework/redux-typography.php:1614 framework/redux-typography.php:1677
+#: framework/redux-typography.php:1783
+msgid "Pick a color for sidebar"
+msgstr "Kies een kleur voor de zijbalk"
+
+#: framework/redux-typography.php:218 framework/redux-typography.php:1287
+#: framework/redux-typography.php:1358
+msgid "Pick a color for box background"
+msgstr "Kies een kleur voor box achtergrond"
+
+#: framework/redux-typography.php:228
+msgid "Search widget"
+msgstr "Kies widget"
+
+#: framework/redux-typography.php:230 framework/redux-typography.php:264
+msgid "You have to enable this layout under Theme Options > Header Settings"
+msgstr "Je moet deze layout aanzetten onder Thema Opties > Header Instellingen"
+
+#: framework/redux-typography.php:235
+msgid "Search widget border color"
+msgstr "Zoek widget randkleur"
+
+#: framework/redux-typography.php:236 framework/redux-typography.php:245
+#: framework/redux-typography.php:254 framework/redux-typography.php:270
+#: framework/redux-typography.php:279 framework/redux-typography.php:288
+#: framework/redux-typography.php:297 framework/redux-typography.php:306
+#: framework/redux-typography.php:315 framework/redux-typography.php:1428
+msgid "Pick a color"
+msgstr "Kies een kleur"
+
+#: framework/redux-typography.php:244
+msgid "Search widget input color"
+msgstr "Zoek widget input kleur"
+
+#: framework/redux-typography.php:253
+msgid "Search widget icon color (search icon)"
+msgstr "Zoek widget icoonkleur (zoek icoon)"
+
+#: framework/redux-typography.php:262
+msgid "Weather widget"
+msgstr "Weerwidget"
+
+#: framework/redux-typography.php:269
+msgid "Weather Title Color (City)"
+msgstr "Weer titel kleur (Stad)"
+
+#: framework/redux-typography.php:278
+msgid "Weather Temperature"
+msgstr "Weer temperatuur"
+
+#: framework/redux-typography.php:287
+msgid "Weather Date (if displayed)"
+msgstr "Weer datum (indien getoond)"
+
+#: framework/redux-typography.php:296
+msgid "Weather Description (if displayed)"
+msgstr "Weer beschrijving (indien getoond)"
+
+#: framework/redux-typography.php:305
+msgid "Weather Icon"
+msgstr "Weer icoon"
+
+#: framework/redux-typography.php:314
+msgid "Weather Location Icon"
+msgstr "Weer locatie icoon"
+
+#: framework/redux-typography.php:333
+msgid "Top Navigation Height"
+msgstr "Top navigatie hoogte"
+
+#: framework/redux-typography.php:334
+msgid "Set Top Navigation height"
+msgstr "Zet top navigatie hoogte"
+
+#: framework/redux-typography.php:335 framework/redux-typography.php:459
+msgid ""
+"If you change this value, please change the \"line-height\" value for all "
+"the elements as well."
+msgstr ""
+"Als je deze waarde wijzigt, wijzig dan ook de \"line-height\" waarde voor "
+"alle elementen."
+
+#: framework/redux-typography.php:347
+msgid "Current date (if displayed)"
+msgstr "Huidige datum (indien getoond)"
+
+#: framework/redux-typography.php:348 framework/redux-typography.php:363
+#: framework/redux-typography.php:378 framework/redux-typography.php:473
+#: framework/redux-typography.php:516 framework/redux-typography.php:962
+#: framework/redux-typography.php:991 framework/redux-typography.php:1059
+#: framework/redux-typography.php:1089 framework/redux-typography.php:1158
+#: framework/redux-typography.php:1174 framework/redux-typography.php:1189
+#: framework/redux-typography.php:1204 framework/redux-typography.php:1219
+#: framework/redux-typography.php:1234 framework/redux-typography.php:1249
+#: framework/redux-typography.php:1264 framework/redux-typography.php:1298
+#: framework/redux-typography.php:1324 framework/redux-typography.php:1378
+#: framework/redux-typography.php:1403
+msgid "Specify the font properties."
+msgstr "Specifieer de font eigenschappen."
+
+#: framework/redux-typography.php:362 framework/redux-typography.php:472
+msgid "Menu Links"
+msgstr "Menu Links"
+
+#: framework/redux-typography.php:377
+msgid "Social Links"
+msgstr "Social Links"
+
+#: framework/redux-typography.php:401
+msgid "Center the Menu Navigation"
+msgstr "Centreer de Menu Navigatie"
+
+#: framework/redux-typography.php:402
+msgid "Enable this if you want to center main navigation!"
+msgstr "Zet dit aan als je de hoofdnavigatie wil centreren!"
+
+#: framework/redux-typography.php:408 framework/redux-typography.php:580
+msgid "Menu Background Color"
+msgstr "Menu achtergrondkleur"
+
+#: framework/redux-typography.php:409 framework/redux-typography.php:664
+#: framework/redux-typography.php:763 framework/redux-typography.php:862
+#: framework/redux-typography.php:1337
+msgid "Pick a background color"
+msgstr "Kies een achtergrondkleur"
+
+#: framework/redux-typography.php:419
+msgid "Menu Border Color"
+msgstr "Menu rand kleur"
+
+#: framework/redux-typography.php:420 framework/redux-typography.php:1627
+msgid "Pick a border"
+msgstr "Kies een rand"
+
+#: framework/redux-typography.php:430
+msgid "Menu Border Top"
+msgstr "Menu rand top"
+
+#: framework/redux-typography.php:431 framework/redux-typography.php:444
+msgid "Set top border in px"
+msgstr "Zet top rand in px"
+
+#: framework/redux-typography.php:443
+msgid "Menu Border Bottom"
+msgstr "Menu rand bottom"
+
+#: framework/redux-typography.php:445
+msgid ""
+"If you are using bottom border, you have to decrease line height of \"Menu "
+"Links\" for that border height"
+msgstr ""
+"Als je een bottom rand gebruikt, moet je de lijnhoogte van \"Menu Links\" "
+"verkleinen voor de randhoogte."
+
+#: framework/redux-typography.php:457
+msgid "Main Navigation Height"
+msgstr "Hoofdnavigatie hoogte"
+
+#: framework/redux-typography.php:458
+msgid "Set Main Navigation height"
+msgstr "Zet hoofdnavigatie hoogte"
+
+#: framework/redux-typography.php:490
+msgid "Menu Link Color"
+msgstr "Menu Link Kleur"
+
+#: framework/redux-typography.php:491 framework/redux-typography.php:532
+#: framework/redux-typography.php:556 framework/redux-typography.php:977
+#: framework/redux-typography.php:1006 framework/redux-typography.php:1075
+#: framework/redux-typography.php:1105 framework/redux-typography.php:1311
+#: framework/redux-typography.php:1653
+msgid "Specify the Link color"
+msgstr "Specifieer link kleur"
+
+#: framework/redux-typography.php:504 framework/redux-typography.php:545
+msgid "Menu Link Hover Background Color"
+msgstr "Menu link hover achtergrond kleur"
+
+#: framework/redux-typography.php:505 framework/redux-typography.php:546
+msgid "Pick a color for link hover on first level"
+msgstr "Kies een kleur voor link hover op het eerst niveau"
+
+#: framework/redux-typography.php:515
+msgid "Submenu Links"
+msgstr "Submenu links"
+
+#: framework/redux-typography.php:531
+msgid "Submenu Link Color"
+msgstr "Submenu link kleur"
+
+#: framework/redux-typography.php:555
+msgid "Search & Social Link Color"
+msgstr "Zoek & sociaal link kleur"
+
+#: framework/redux-typography.php:581
+msgid "Pick a background-color"
+msgstr "Kies een achtergrond-kleur"
+
+#: framework/redux-typography.php:593
+msgid "Content & Posts Settings"
+msgstr "Inhoud & Posts Instellingen"
+
+#: framework/redux-typography.php:600
+msgid "Content Background Color"
+msgstr "Inhoud achtergrond kleur"
+
+#: framework/redux-typography.php:601
+msgid "Pick a background color for content"
+msgstr "Kies een achtergrond kleur voor inhoud"
+
+#: framework/redux-typography.php:612
+msgid "Content Border Color"
+msgstr "Inhoud rand kleur"
+
+#: framework/redux-typography.php:613 framework/redux-typography.php:646
+#: framework/redux-typography.php:684 framework/redux-typography.php:783
+#: framework/redux-typography.php:882 framework/redux-typography.php:1477
+#: framework/redux-typography.php:1515 framework/redux-typography.php:1691
+msgid "Pick a color for border"
+msgstr "Kies een kleur voor de rand"
+
+#: framework/redux-typography.php:625
+msgid "Visual Composer Blocks"
+msgstr "Visual Composer Blocks"
+
+#: framework/redux-typography.php:633
+msgid "VC Block Type"
+msgstr "VC Block Type"
+
+#: framework/redux-typography.php:634
+msgid "Block display type"
+msgstr "Block weergave type"
+
+#: framework/redux-typography.php:645 framework/redux-typography.php:1367
+msgid "Border Color"
+msgstr "Rand kleur"
+
+#: framework/redux-typography.php:655
+msgid "Visual Composer Block Style One"
+msgstr "Visual Composer Block Stijl Een"
+
+#: framework/redux-typography.php:657 framework/redux-typography.php:756
+#: framework/redux-typography.php:855
+msgid "This is available only in \"shadow\" and \"border\" mode."
+msgstr "Dit is enkel beschikbaar in \"schaduw\" en \"rand\" modus."
+
+#: framework/redux-typography.php:673 framework/redux-typography.php:772
+#: framework/redux-typography.php:871
+msgid "Header Title Color"
+msgstr "Header titel kleur"
+
+#: framework/redux-typography.php:674 framework/redux-typography.php:773
+#: framework/redux-typography.php:872
+msgid "Pick a color for header title"
+msgstr "Kies een kleur voor header titel"
+
+#: framework/redux-typography.php:683 framework/redux-typography.php:782
+#: framework/redux-typography.php:881
+msgid "Header Border Color"
+msgstr "Header Border Kleur"
+
+#: framework/redux-typography.php:693 framework/redux-typography.php:792
+#: framework/redux-typography.php:891
+msgid "Post Title Color"
+msgstr "Post Titel Kleur"
+
+#: framework/redux-typography.php:694 framework/redux-typography.php:793
+#: framework/redux-typography.php:892
+msgid "Pick a color for post title"
+msgstr "Kies een kleur voor post titel"
+
+#: framework/redux-typography.php:703 framework/redux-typography.php:802
+#: framework/redux-typography.php:901
+msgid "Post Category Color"
+msgstr "Post Categorie Kleur"
+
+#: framework/redux-typography.php:704 framework/redux-typography.php:803
+#: framework/redux-typography.php:902
+msgid "Pick a color for post category"
+msgstr "Kies een kleur voor post categorie"
+
+#: framework/redux-typography.php:713 framework/redux-typography.php:812
+#: framework/redux-typography.php:911
+msgid "Post Meta Color"
+msgstr "Post Meta Kleur"
+
+#: framework/redux-typography.php:714 framework/redux-typography.php:813
+#: framework/redux-typography.php:912
+msgid "Pick a color for post meta"
+msgstr "Kies een kleur voor post meta"
+
+#: framework/redux-typography.php:723 framework/redux-typography.php:822
+#: framework/redux-typography.php:921
+msgid "Post Text Color"
+msgstr "Post Tekst Kleur"
+
+#: framework/redux-typography.php:724 framework/redux-typography.php:823
+#: framework/redux-typography.php:922
+msgid "Pick a color for post text"
+msgstr "Kies een kleur voor post tekst"
+
+#: framework/redux-typography.php:733 framework/redux-typography.php:832
+#: framework/redux-typography.php:931
+msgid "Post Ajax Navigation Arrow Color"
+msgstr "Post Ajax Navigatie Pijl Kleur"
+
+#: framework/redux-typography.php:734 framework/redux-typography.php:833
+#: framework/redux-typography.php:932
+msgid "Pick a color for post navigation arrow"
+msgstr "Kies een kleur voor postnavigatie pijl"
+
+#: framework/redux-typography.php:743 framework/redux-typography.php:842
+#: framework/redux-typography.php:941
+msgid "Post Ajax Navigation Border Color"
+msgstr "Post Ajax Navigatie Rand Kleur"
+
+#: framework/redux-typography.php:744 framework/redux-typography.php:843
+#: framework/redux-typography.php:942
+msgid "Pick a color for post navigation border"
+msgstr "Kies een kleur voor post navigatie rand"
+
+#: framework/redux-typography.php:754
+msgid "Visual Composer Block Style Two"
+msgstr "Visual Composer Block Stijl Twee"
+
+#: framework/redux-typography.php:853
+msgid "Visual Composer Block Style Three"
+msgstr "Visual Composer Block Stijl Drie"
+
+#: framework/redux-typography.php:953
+msgid "Posts Standard Layouts"
+msgstr "Posts Standaard Lay-outs"
+
+#: framework/redux-typography.php:961 framework/redux-typography.php:1058
+#: framework/redux-typography.php:1173
+msgid "Heading H2"
+msgstr "Heading H2"
+
+#: framework/redux-typography.php:976 framework/redux-typography.php:1074
+msgid "Heading H2 Link Color"
+msgstr "Heading H2 Link Kleur"
+
+#: framework/redux-typography.php:990 framework/redux-typography.php:1088
+#: framework/redux-typography.php:1188
+msgid "Heading H3"
+msgstr "Heading H3"
+
+#: framework/redux-typography.php:1005 framework/redux-typography.php:1104
+msgid "Heading H3 Link Color"
+msgstr "Heading H3 Link Kleur"
+
+#: framework/redux-typography.php:1019 framework/redux-typography.php:1118
+msgid "Post Meta Elements"
+msgstr "Post Meta Elementen"
+
+#: framework/redux-typography.php:1020 framework/redux-typography.php:1034
+#: framework/redux-typography.php:1119 framework/redux-typography.php:1133
+msgid "Date, Author, Comments, Views..."
+msgstr "Datum, schrijver, reacties, weergaven..."
+
+#: framework/redux-typography.php:1033 framework/redux-typography.php:1132
+msgid "Post Category"
+msgstr "Post categorie"
+
+#: framework/redux-typography.php:1050
+msgid "Posts Image Layouts"
+msgstr "Post Afbeelding Lay-outs"
+
+#: framework/redux-typography.php:1149
+msgid "Posts Article"
+msgstr "Posts Artikel"
+
+#: framework/redux-typography.php:1157
+msgid "Heading H1"
+msgstr "Heading H1"
+
+#: framework/redux-typography.php:1203
+msgid "Heading H4"
+msgstr "Heading H4"
+
+#: framework/redux-typography.php:1218
+msgid "Heading H5"
+msgstr "Heading H5"
+
+#: framework/redux-typography.php:1233
+msgid "Heading H6"
+msgstr "Heading H6"
+
+#: framework/redux-typography.php:1248
+msgid "Article Content (paragraph)"
+msgstr "Artikel Inhoud (paragraaf)"
+
+#: framework/redux-typography.php:1263
+msgid "Article Content Lead (Post Format)"
+msgstr "Artikel Inhoud Lead (Post Formaat)"
+
+#: framework/redux-typography.php:1278
+msgid "Author Box"
+msgstr "Schrijversbox"
+
+#: framework/redux-typography.php:1297
+msgid "Author Name"
+msgstr "Schrijvers Naam"
+
+#: framework/redux-typography.php:1310
+msgid "Author Name Link"
+msgstr "Schijvers Naam Link"
+
+#: framework/redux-typography.php:1323
+msgid "Author Description"
+msgstr "Schrijvers Beschrijving"
+
+#: framework/redux-typography.php:1336
+msgid "Author Social Links Color"
+msgstr "Schrijver Social Links Kleur"
+
+#: framework/redux-typography.php:1349
+msgid "Review Box"
+msgstr "Recensiebox"
+
+#: framework/redux-typography.php:1368
+msgid "Set border for box background"
+msgstr "Zet rand voor box achtergrond"
+
+#: framework/redux-typography.php:1377
+msgid "Review Title"
+msgstr "Recensie titel"
+
+#: framework/redux-typography.php:1392
+msgid "Review Title Border Color"
+msgstr "Recensie titel randkleur"
+
+#: framework/redux-typography.php:1393
+msgid "Set border for review title section"
+msgstr "Zet rand voor recensie titelsectie"
+
+#: framework/redux-typography.php:1402
+msgid "Review Content (paragraph & list)"
+msgstr "Recensie inhoud (paragraaf & lijst)"
+
+#: framework/redux-typography.php:1417
+msgid "Progress Bar Background Color"
+msgstr "Progressiebalk Achtergrondkleur"
+
+#: framework/redux-typography.php:1418
+msgid "Pick a color for background"
+msgstr "Kies een kleur voor de achtergrond"
+
+#: framework/redux-typography.php:1427
+msgid "Progress Bar Color"
+msgstr "Progressiebalk Kleur"
+
+#: framework/redux-typography.php:1442
+msgid "Sidebar Settings"
+msgstr "Zijbalk instellingen"
+
+#: framework/redux-typography.php:1462
+msgid "Sidebar Shadow"
+msgstr "Zijbalk schaduw"
+
+#: framework/redux-typography.php:1463
+msgid "Use sidebar shadow"
+msgstr "Gebruik zijbalk schaduw"
+
+#: framework/redux-typography.php:1469
+msgid "Sidebar Border"
+msgstr "Zijbalk rand"
+
+#: framework/redux-typography.php:1470
+msgid "Use sidebar border"
+msgstr "Gebruik zijbalk rank"
+
+#: framework/redux-typography.php:1476
+msgid "Sidebar Border Color"
+msgstr "Zijbalk randkluer"
+
+#: framework/redux-typography.php:1487
+msgid "Sidebar Font"
+msgstr "Zijbalk font"
+
+#: framework/redux-typography.php:1488
+msgid "Specify default font properties for sidebar"
+msgstr "Specifieer standaard font eigenschappen voor de zijbalk"
+
+#: framework/redux-typography.php:1497
+msgid "Sidebar Section Titles"
+msgstr "Zijbalk Sectie Titels"
+
+#: framework/redux-typography.php:1498 framework/redux-typography.php:1538
+#: framework/redux-typography.php:1553 framework/redux-typography.php:1569
+#: framework/redux-typography.php:1584 framework/redux-typography.php:1638
+#: framework/redux-typography.php:1711 framework/redux-typography.php:1728
+#: framework/redux-typography.php:1744 framework/redux-typography.php:1759
+#: framework/redux-typography.php:1817 framework/redux-typography.php:1834
+#: framework/redux-typography.php:1850 framework/redux-typography.php:1865
+msgid "Specify the font properties"
+msgstr "Specifieer de font eigenschappen"
+
+#: framework/redux-typography.php:1514
+msgid "Sidebar Section Titles Border"
+msgstr "Zijbalk Sectie Titels Rand"
+
+#: framework/redux-typography.php:1537
+msgid "Post Links (Title on images)"
+msgstr "Post Links (Titel op afbeeldingen)"
+
+#: framework/redux-typography.php:1552 framework/redux-typography.php:1727
+#: framework/redux-typography.php:1833
+msgid "Post Links (Title)"
+msgstr "Post Links (Titel)"
+
+#: framework/redux-typography.php:1568 framework/redux-typography.php:1743
+#: framework/redux-typography.php:1849
+msgid "Post Links (Category)"
+msgstr "Post Links (Categorie)"
+
+#: framework/redux-typography.php:1583 framework/redux-typography.php:1758
+#: framework/redux-typography.php:1864
+msgid "Post Meta (Date, Comments...)"
+msgstr "Post Meta (Datum, Reacties...)"
+
+#: framework/redux-typography.php:1606
+msgid "Copyright Section"
+msgstr "Copyrightsectie"
+
+#: framework/redux-typography.php:1608
+msgid ""
+"This is available only if enabled under \"Theme Options > Footer Settings\"."
+msgstr ""
+"Dit is alleen beschikbaar indien ingeschakeld onder \"Thema opties > Footer "
+"Settings\"."
+
+#: framework/redux-typography.php:1626
+msgid "Top Border Color"
+msgstr "Top Randkleur"
+
+#: framework/redux-typography.php:1637
+msgid "Font style"
+msgstr "Fontstijl"
+
+#: framework/redux-typography.php:1652
+msgid "Link Color"
+msgstr "Linkkleur"
+
+#: framework/redux-typography.php:1690
+msgid "Border Color between columns"
+msgstr "Randkleur tussen kolommen"
+
+#: framework/redux-typography.php:1700
+msgid "Top Section Font"
+msgstr "Top Sectie Font"
+
+#: framework/redux-typography.php:1701 framework/redux-typography.php:1807
+msgid "Specify default font properties for top section"
+msgstr "Specifieer standaard font eigenschappen voor de top sectie"
+
+#: framework/redux-typography.php:1710
+msgid "Top Section Titles"
+msgstr "Top Sectie Titels"
+
+#: framework/redux-typography.php:1806
+msgid "Bottom Section Font"
+msgstr "Bottom Sectie Font"
+
+#: framework/redux-typography.php:1816
+msgid "Bottom Section Titles"
+msgstr "Bottom Sectie Titels"
+
+#: functions.php:119
+msgid "Mobile Menu"
+msgstr "Mobiel Menu"
+
+#: functions.php:120
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: functions.php:121
+msgid "Header Menu (Primary Navigation)"
+msgstr "Header Menu (hoofdnavigatie)"
+
+#: functions.php:130
+msgid "Primary Widget Area"
+msgstr "Primaire Widgetruimte"
+
+#: functions.php:131
+msgid "The Primary widget area (Main Sidebar)"
+msgstr "De primaire widgetruimte (hoofdzijbalk)"
+
+#: search.php:33
+#, php-format
+msgid "Search Results for: <em>%s</em>"
+msgstr "Zoek resultaten voor: <em>%s</em>"
+
+#: tag.php:34
+msgid "Posts tagged with"
+msgstr "Posts getagt met"
+
+#: woocommerce/product-searchform.php:25
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "Zoek Products&hellip;"
+
+#: woocommerce/product-searchform.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken voor:"
+
+#: woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Beoordeeld %d op 5"
+
+#: woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr "op 5"
+
+#: woocommerce/single-product/review.php:46
+msgid "Your comment is awaiting approval"
+msgstr "Je reactie wacht op toestemming"
+
+#: woocommerce/single-product/review.php:55
+msgid "verified owner"
+msgstr "Geverifieerde eigenaar"
+
+#: wp-admin/tinymce/config.php:8
+msgid "Alert Type"
+msgstr "Alert Type"
+
+#: wp-admin/tinymce/config.php:9
+msgid "Select Alert Type"
+msgstr "Selecteer Alert Type"
+
+#: wp-admin/tinymce/config.php:20 wp-admin/tinymce/config.php:21
+msgid "Alert Text"
+msgstr "Alert Tekst"
+
+#: wp-admin/tinymce/config.php:25
+msgid "Closable"
+msgstr "Afsluitbaar"
+
+#: wp-admin/tinymce/config.php:26
+msgid "Select if alert can be closed or not"
+msgstr "Selecteer als alert gesloten kan worden of niet"
+
+#: wp-admin/tinymce/config.php:35
+msgid "Insert Alert Shortcode"
+msgstr "Voeg Alert Shortcode toe"
+
+#: wp-admin/tinymce/config.php:45
+msgid "Sign"
+msgstr "Symbool"
+
+#: wp-admin/tinymce/config.php:50
+msgid "Dropcap Style"
+msgstr "Dropcap Stijl"
+
+#: wp-admin/tinymce/config.php:63
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: wp-admin/tinymce/config.php:74
+msgid "Insert Dropcap Shortcode"
+msgstr "Voeg Dropcap Shortcode toe"
+
+#: wp-admin/tinymce/config.php:82
+msgid "Insert List Shortcode"
+msgstr "Voeg List Shortcode toe"
+
+#: wp-admin/tinymce/config.php:89
+msgid "Icon"
+msgstr "Icoon"
+
+#: wp-admin/tinymce/config.php:90
+msgid ""
+"Insert any of the <a href=\"https://fortawesome.github.io/Font-Awesome/icons/"
+"\" target=\"_blank\">FontAwesome Icons</a>"
+msgstr ""
+"Voeg sommige <a href=\"https://fortawesome.github.io/Font-Awesome/icons/\" "
+"target=\"_blank\">FontAwesome Icons</a> toe"
+
+#: wp-admin/tinymce/config.php:95
+msgid "List Content"
+msgstr "Lijst Inhoud"
+
+#: wp-admin/tinymce/config.php:100
+msgid "Add List Item"
+msgstr "Voeg Lijst Item"
+
+#: wp-admin/tinymce/config.php:111
+msgid "Quote Text"
+msgstr "Citaat Tekst"
+
+#: wp-admin/tinymce/config.php:117
+msgid "Quote Author"
+msgstr "Citaar Schrijver"
+
+#: wp-admin/tinymce/config.php:122
+msgid "Quote Style"
+msgstr "Citaat Stijl"
+
+#: wp-admin/tinymce/config.php:137
+msgid "Add Quote"
+msgstr "Voeg Citaat toe"
+
+#: wp-admin/tinymce/config.php:148
+msgid "Height"
+msgstr "Hoogte"
+
+#: wp-admin/tinymce/config.php:153
+msgid "Insert Spacer Shortcode"
+msgstr "Voeg Spacer Shortcode toe"
+
+#. Theme Name of the plugin/theme
+msgid "NewsGamer"
+msgstr "NewsGamer"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/mip/portfolio"
+msgstr "http://themeforest.net/user/mip/portfolio"
+
+#. Description of the plugin/theme
+msgid "Premium Gaming/News WordPress Theme"
+msgstr "Premium Gaming/News WordPress Theme"
+
+#. Author of the plugin/theme
+msgid "MipThemes"
+msgstr "MipThemes"

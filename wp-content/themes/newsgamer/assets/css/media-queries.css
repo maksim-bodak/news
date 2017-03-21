@@ -1,0 +1,1016 @@
+@media (max-width: 768px) {
+
+    /* ==========================================================================
+       Articles
+       ========================================================================== */
+
+    /**
+     * Default
+     */
+
+     h1 {
+         font-size: 24px !important;
+         line-height: 30px !important;
+     }
+
+     article.def h2 {
+         font-size: 18px !important;
+         line-height: 24px !important;
+     }
+
+     article.def h3 {
+         font-size: 15px !important;
+         font-weight: 700;
+         line-height: 18px !important;
+     }
+
+     article.def h4 {
+         font-size: 12px !important;
+         line-height: 16px !important;
+     }
+
+
+     /* ==========================================================================
+        Widgets
+        ========================================================================== */
+
+    .widget article.def h3 {
+        font-size: 14px;
+    }
+
+
+     /**
+      * Article Elements
+      */
+
+     .article-post .alignleft {
+        max-width: 220px !important;
+     }
+
+    .article-post .alignright {
+        max-width: 220px !important;
+    }
+
+
+     /* ==========================================================================
+        Custom Sections
+        ========================================================================== */
+
+      /**
+       * Article Review Template
+       */
+
+      #article-post-review-header {
+          padding-top: 250px;
+      }
+
+      #single-post-header-full.header-loop-page-7 header {
+          padding-bottom: 45px;
+      }
+
+      .article-post-review-author img.avatar {
+          margin-top: -60px;
+      }
+
+
+      /* ==========================================================================
+         Categories
+         ========================================================================== */
+
+      .loop-cat-2 .main article.def,
+      .loop-cat-3 .main article.def,
+       .main .loop-cat-3 article.def,
+      .loop-cat-4 .main article.def,
+      .loop-cat-5 .main article.def,
+      .loop-cat-6 .main article.def {
+          margin-bottom: 20px;
+      }
+
+      .loop-cat-7 .main article.def,
+      .loop-cat-8 .main article.def,
+      .loop-cat-9 .main article.def,
+      .loop-cat-10 .main article.def {
+          margin-bottom: 1px;
+      }
+
+      .loop-cat-2.full-width .main div.entry,
+      .loop-cat-3.full-width .main div.entry,
+      .main .loop-cat-3.full-width div.entry,
+      .loop-cat-4.full-width .main div.entry,
+      .loop-cat-5.full-width .main div.entry,
+      .loop-cat-6.full-width .main div.entry {
+          display: inline-block;
+          padding: 0 15px;
+      }
+
+      .loop-cat-5.full-width .main article.def-medium figure.overlay figcaption div.entry {
+          padding: 15px;
+      }
+
+
+      /* ==========================================================================
+         404 Page
+         ========================================================================== */
+
+    /**
+    * 404 Page
+    */
+
+    .info-404 h1 {
+        font-size: 100px !important;
+        line-height: 100px !important;
+    }
+
+    .info-404 h2 {
+        font-size: 40px !important;
+    }
+
+
+    /* ==========================================================================
+     Page Footer
+     ========================================================================== */
+
+    /**
+    * Copyright
+    */
+
+    .copyright .col-sm-6 {
+        text-align: center;
+    }
+
+
+
+    /* ==========================================================================
+     Ads
+     ========================================================================== */
+
+    /**
+    * Ads
+    */
+
+    .ad-top,
+    .ad-bottom {
+        margin: 10px 0;
+    }
+
+    .ad-cnt-hide-on-mobile-yes {
+        display: none;
+    }
+
+}
+
+
+@media (min-width: 768px) {
+
+    /* ==========================================================================
+       General
+       ========================================================================== */
+
+    /**
+     * Wrappers and containers
+     */
+
+    .main {
+        padding: 15px;
+    }
+
+    .main .section-full {
+       margin: 0 -15px 0 -15px;
+    }
+
+
+    /* ==========================================================================
+       Page Slider
+       ========================================================================== */
+
+    /**
+     * Default
+     */
+
+    #page-slider article figure.parallax {
+        height: 230px;
+        overflow: hidden;
+    }
+
+    #page-slider article figure img.parallax-img {
+        position: absolute;
+        top: 0;
+    }
+
+
+    /* ==========================================================================
+       Custom Sections
+       ========================================================================== */
+
+    /**
+     * Shadows
+     */
+
+    .vc-block-shadow .shadow-top-left,
+    .vc-block-border .shadow-top-left {
+        margin: 0 -25px;
+        padding: 25px;
+    }
+
+    /**
+     * Headers
+     */
+
+     .vc-block-fx #page-content .has-header header {
+         margin: 0 -25px;
+     }
+
+     .vc-block-fx #page-content .has-header header h2 {
+         padding: 0 25px !important;
+     }
+
+     .vc-block-fx #page-content header span.borderline:after {
+         left: 25px;
+     }
+
+     .vc-block-fx #page-content section .row .has-header header .ajax-nav-header {
+        right: 25px;
+     }
+
+    /**
+     * Section one
+     */
+
+    .section-one.section-full .row .col-sm-4,
+    .section-one.section-full .row .col-sm-8,
+    .section-one.section-full .row .col-md-4,
+    .section-one.section-full .row .col-md-8 {
+        padding: 0 15px;
+    }
+
+    /**
+     * Section two
+     */
+
+    .section-two.section-full .row .col-sm-4,
+    .section-two.section-full .row .col-sm-5,
+    .section-two.section-full .row .col-sm-6,
+    .section-two.section-full .row .col-sm-7,
+    .section-two.section-full .row .col-sm-8,
+    .section-two.section-full .row .col-md-4,
+    .section-two.section-full .row .col-md-5,
+    .section-two.section-full .row .col-md-6,
+    .section-two.section-full .row .col-md-7,
+    .section-two.section-full .row .col-md-8 {
+        padding: 0 15px;
+    }
+
+    /**
+     * Section one & two with shadows or borders
+     */
+
+     .vc-block-fx .section-one.section-full .row .col-sm-4,
+     .vc-block-fx .section-one.section-full .row .col-sm-8,
+     .vc-block-fx .section-one.section-full .row .col-md-4,
+     .vc-block-fx .section-one.section-full .row .col-md-8,
+     .vc-block-fx .section-two.section-full .row .col-sm-4,
+     .vc-block-fx .section-two.section-full .row .col-sm-5,
+     .vc-block-fx .section-two.section-full .row .col-sm-6,
+     .vc-block-fx .section-two.section-full .row .col-sm-7,
+     .vc-block-fx .section-two.section-full .row .col-sm-8,
+     .vc-block-fx .section-two.section-full .row .col-md-4,
+     .vc-block-fx .section-two.section-full .row .col-md-5,
+     .vc-block-fx .section-two.section-full .row .col-md-6,
+     .vc-block-fx .section-two.section-full .row .col-md-7,
+     .vc-block-fx .section-two.section-full .row .col-md-8 {
+         padding: 0 25px;
+     }
+
+
+    /* ==========================================================================
+       Articles
+       ========================================================================== */
+
+    /**
+     * Default
+     */
+
+     article.def figure.overlay figcaption div.entry-meta {
+         padding: 5px 12px;
+     }
+
+     article.def .overlay h2 {
+         margin-bottom: 15px;
+     }
+
+     article.def.has-text .overlay h2 {
+         margin-bottom: 15px;
+     }
+
+     article.def div.entry-meta {
+         font-size: 12px;
+     }
+
+     article.def figure.overlay figcaption span.entry-comments {
+         right: 10px;
+         bottom: 5px;
+     }
+
+     article.def-medium figure.overlay figcaption span.entry-comments {
+         right: 14px;
+         bottom: 7px;
+     }
+
+     article.def-medium figure.overlay figcaption div.entry,
+     article.def-medium figure.overlay figcaption div.entry span.entry-meta {
+        padding: 20px 22px;
+    }
+
+    article.def-medium figure.overlay figcaption div.entry span.entry-comments {
+        right: 20px;
+        bottom: 20px;
+    }
+
+
+    /**
+     * Article Single Header Full
+     */
+
+    #single-post-header-full.header-loop-page-4 {
+        border-left: 1px solid #e9e9e9;
+        border-right: 1px solid #e9e9e9;
+        background: #fff;
+    }
+
+
+    /**
+     * Head Image
+     */
+
+    .article-post .head-image.pull-left {
+        margin: 3px 25px 20px 0;
+    }
+    .article-post .head-image.pull-right {
+        margin: 3px 0 20px 25px;
+    }
+
+
+    /* Format styles */
+
+    .article-post .padding-style-1 {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .article-post .padding-style-1-left {
+        padding-left: 10%;
+    }
+
+    .article-post .padding-style-1-right {
+        padding-right: 10%;
+    }
+
+    .article-post .padding-style-2 {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+
+    .article-post .padding-style-2-left {
+        padding-left: 20%;
+    }
+
+    .article-post .padding-style-2-right {
+        padding-right: 20%;
+    }
+
+    .article-post .padding-style-3 {
+        padding-left: 20%;
+        padding-right: 10%;
+    }
+
+    .article-post .padding-style-4 {
+        padding-left: 10%;
+        padding-right: 20%;
+    }
+
+    .article-post .flex-container {
+        display: -webkit-flex; /* Safari */
+        display: flex;
+    }
+
+    /**
+     * Photo Gallery One
+     */
+
+     .article-post .miptheme-photo-gallery-one {
+         position: relative;
+         margin-top: 30px;
+     }
+
+    .loop-page-7 .article-post .miptheme-photo-gallery-one {
+        margin-left: -266px;
+    }
+
+    .article-post .miptheme-photo-gallery-one figure {
+        width: 100%;
+    }
+
+    /**
+     * Article Review Template
+     */
+
+     .loop-page-7 .article-post .review {
+         margin-left: -266px;
+     }
+
+
+    /**
+     * Comments
+     */
+
+    #comments-list li {
+        margin-bottom: 30px;
+    }
+
+    #comments-list li ul {
+        margin: 30px 0 0 125px;
+    }
+
+    #comments-list li .comment {
+        position: relative;
+        padding-left: 125px;
+    }
+
+    #comments-list li .comment .avatar {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 5px;
+    }
+
+    #comments-list li .comment-text:before {
+        position: absolute;
+        display: block;
+        content: "";
+        width: 15px;
+        height: 15px;
+        background: #fff;
+        border-left: 1px solid #ededed;
+        border-top: 1px solid #ededed;
+        margin-left: -34px;
+        -moz-transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+    }
+
+    #comments-list .author-comment .comment-text:before {
+        background: #f1d7d7;
+        border-color: #eac2c2;
+    }
+
+
+    /* ==========================================================================
+       Categories
+       ========================================================================== */
+
+    .loop-cat-2.full-width .main .row,
+    .loop-cat-3.full-width .main .row,
+    .main .loop-cat-3.full-width .row,
+    .loop-cat-4.full-width .main .row,
+    .loop-cat-5.full-width .main .row,
+    .loop-cat-6.full-width .main .row {
+        margin: 0 -20px 30px -21px;
+    }
+
+    .loop-cat-2.full-width .main div.entry,
+    .loop-cat-3.full-width .main div.entry,
+    .main .loop-cat-3.full-width div.entry,
+    .loop-cat-4.full-width .main div.entry,
+    .loop-cat-5.full-width .main div.entry,
+    .loop-cat-6.full-width .main div.entry {
+        display: inline-block;
+        padding: 0 15px;
+    }
+
+    .loop-cat-5.full-width .main article.def-medium figure.overlay figcaption div.entry,
+    .loop-cat-6.full-width .main article.def-medium figure.overlay figcaption div.entry {
+        padding: 20px 22px;
+    }
+
+
+    /* ==========================================================================
+       Widgets
+       ========================================================================== */
+
+    .widget article.def div.entry-meta .entry-date {
+        margin-right: 10px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1018px) {
+    .article-post .alignleft {
+        max-width: 220px !important;
+    }
+
+    .article-post .alignright {
+        max-width: 220px !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .article-post .alignleft {
+        float: none;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    .article-post .alignleft img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .article-post .alignleft figcaption {
+        text-align: center;
+    }
+
+    .article-post .alignright {
+        float: none;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100% !important;
+    }
+    .article-post .alignright img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .article-post .alignright figcaption {
+        text-align: center;
+    }
+}
+
+@media (max-width: 992px) {
+
+    /* ==========================================================================
+       Page Header
+       ========================================================================== */
+
+    /**
+     * Page Header
+     */
+
+    #header-navigation ul li a {
+        font-size: 0.9em;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+
+    /* ==========================================================================
+       Custom Sections
+       ========================================================================== */
+
+    /**
+     * Shadows
+     */
+
+     .vc-block-shadow .section-one.section-full .col-sm-4.shadow-ver-right {
+         background: url(../../images/vertical-left-shadow.png) no-repeat 0 100%;
+     }
+
+     .vc-block-border .section-one.section-full .col-sm-4.shadow-ver-right {
+         border-right: 1px solid #e9e9e9;
+     }
+
+}
+
+
+@media (min-width: 992px) {
+
+    /* ==========================================================================
+       General
+       ========================================================================== */
+
+    /**
+     * Wrappers and containers
+     */
+
+    #page-content {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+    }
+
+    #page-content.left-sidebar .main,
+    #page-content.right-sidebar .main {
+        display: table-cell;
+        vertical-align: top;
+        width: 640px;
+    }
+
+    #page-content.left-sidebar .main,
+    #page-content.right-sidebar .main,
+    #page-content.hide-sidebar .main  {
+        padding: 20px 20px 0 20px;
+    }
+
+    #page-content.left-sidebar .main.article .row,
+    #page-content.right-sidebar .main.article .row,
+    #page-content.hide-sidebar .main.article .row
+    #page-content.left-sidebar .main .row .row,
+    #page-content.right-sidebar .main .row .row,
+    #page-content.hide-sidebar .main .row .row  {
+        padding: 0;
+    }
+
+    .main.article {
+        padding: 15px;
+    }
+
+    .sidebar {
+        display: table-cell;
+        vertical-align: top;
+        width: 328px;
+    }
+
+    .sidebar-shadow .right-sidebar .sidebar {
+        background-image: url('../../images/vertical-sidebar-shadow.png');
+        background-repeat: repeat-y;
+        background-position: 0 0;
+    }
+
+    .sidebar-shadow .left-sidebar .sidebar {
+        background-image: url('../../images/vertical-sidebar-shadow-right.png');
+        background-repeat: repeat-y;
+        background-position: 100% 0;
+    }
+
+    .sidebar-border .right-sidebar .sidebar {
+        border-style: solid;
+        border-top-width: 0;
+        border-right-width: 0;
+        border-bottom-width: 0;
+        border-left-width: 1px;
+    }
+
+    .sidebar-border .left-sidebar .sidebar {
+        border-style: solid;
+        border-top-width: 0;
+        border-right-width: 1px;
+        border-bottom-width: 0;
+        border-left-width: 0;
+    }
+
+    .main .section-full {
+       margin: 0 -20px 0 -20px;
+    }
+
+
+    /**
+     * Header Navigation
+     */
+
+    #header-navigation #main-menu span.sticky-logo {
+        position: absolute;
+        display: block;
+        height: 100%;
+        opacity: 0;
+        margin-left: 10px;
+    }
+
+    .affix #header-navigation #main-menu span.sticky-logo,
+    .wrap-header-layout-none #header-navigation #main-menu span.sticky-logo {
+        opacity: 1;
+    }
+
+    #header-navigation .subnav-container {
+        min-height: 270px;
+    }
+
+    #header-navigation .subnav-full {
+        min-height: auto;
+    }
+
+
+    /* ==========================================================================
+       Top Grid
+       ========================================================================== */
+
+    /**
+     * Top Grid
+     */
+
+    body.top-grid-layout-9 #page-content {
+        margin-top: -90px;
+    }
+
+
+    /* ==========================================================================
+       Articles
+       ========================================================================== */
+
+    /**
+     * Default
+     */
+
+    article.def h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    article.def h3 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    article.def h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    /**
+     * Article Single Header Full
+     */
+
+    #single-post-header-full header {
+        padding: 20px 25px;
+    }
+
+    #single-post-header-full.header-loop-page-6 header {
+        padding-bottom: 125px;
+    }
+
+    #page-content.loop-page-6 {
+        margin-top: -90px;
+    }
+
+
+    /**
+     * Photo Gallery One
+     */
+
+    .loop-page-7 .article-post .miptheme-photo-gallery-one {
+        margin-left: -230px;
+    }
+
+    /**
+     * Article Review Template
+     */
+
+     .loop-page-7 .article-post .review {
+         margin-left: -230px;
+     }
+
+
+    /**
+     * Blockquotes
+     */
+
+    .article-post blockquote {
+       display: table;
+    }
+
+     .loop-page-7 .article-post blockquote.full-review {
+         margin-left: -220px;
+     }
+
+
+     /**
+      * Head Image
+      */
+
+     .loop-page-3 .article-post .head-image,
+     .loop-page-3 .article-post .head-video {
+         margin: 0 -25px 25px -25px;
+     }
+
+
+     /**
+      * Social Sharing
+      */
+
+     .article-post .soc-media-sharing {
+        padding: 15px 20px 10px 20px;
+        margin: 25px -25px;
+        text-align: center;
+     }
+
+     .article-post .soc-media-sharing a.btn-social.btn-icon-title {
+        width: auto;
+        padding: 8px 15px 8px 12px;
+        text-align: left;
+    }
+
+    .article-post .soc-media-sharing a.btn-social.btn-icon-title span {
+        display: inline-block;
+        font-weight: 400;
+        font-size: 13px;
+        color: #fff;
+        margin-left: 12px;
+    }
+
+    .article-post .soc-media-sharing.default a.btn-social.btn-icon-title {
+        padding: 0;
+        margin-right: 10px;
+    }
+
+    .article-post .soc-media-sharing.default a.btn-social.btn-icon-title span {
+        font-weight: 700;
+        color: #444;
+        margin-left: 8px;
+    }
+
+
+    /**
+     * Author Box
+     */
+
+    .author-box {
+       padding: 30px 30px 15px 175px;
+       margin: 0 -25px 30px -25px;
+       text-align: left;
+       min-height: 180px;
+    }
+
+    .author-box p.name {
+       margin-top: 0;
+    }
+
+    .author-box img {
+       position: absolute;
+       left: 30px;;
+    }
+
+
+    /**
+     * User Reviews
+     */
+
+     #comment-user-reviews .user-range-sliders {
+         padding: 0 15px;
+     }
+
+
+    /* ==========================================================================
+       Categories
+       ========================================================================== */
+
+       .loop-cat-5.full-width .main .row:first-child,
+       .loop-cat-6.full-width .main .row:first-child,
+       .loop-cat-9.full-width .main .row:first-child,
+       .loop-cat-10.full-width .main .row:first-child {
+           margin-bottom: 1px;
+       }
+
+       .loop-cat-5.full-width .main .row:first-child article.def figure.overlay,
+       .loop-cat-6.full-width .main .row:first-child article.def figure.overlay,
+       .loop-cat-9.full-width .main .row:first-child article.def figure.overlay,
+       .loop-cat-10.full-width .main .row:first-child article.def figure.overlay {
+           margin-bottom: 0;
+       }
+
+       .loop-cat-11 .main article.def {
+           margin-left: 300px;
+           min-height: 250px;
+       }
+
+       .loop-cat-11 .main article.def figure {
+           position: absolute;
+           left: -300px;
+           top: 28px;
+           width: 270px;
+       }
+
+       .loop-cat-11 .main article.def time.entry-date {
+           position: absolute;
+           left: -300px;
+           top: 0;
+           width: 270px;
+           text-align: right;
+       }
+
+       .loop-cat-11 .main article.def time.entry-date:before {
+           content: '';
+       }
+
+       .loop-cat-11 .main article.def time.entry-date:after {
+            font-family: "FontAwesome";
+            font-size: 18px;
+            content: '\f133';
+            background: #fff;
+            color: #bbb;
+            top: 17px;
+            position: absolute;
+            right: -38px;
+            top: -5px;
+       }
+
+
+    /* ==========================================================================
+       Custom Sections
+       ========================================================================== */
+
+    /**
+     * Shadows
+     */
+
+    .vc-block-shadow .shadow-box {
+        margin: 0 -25px;
+        padding: 20px;
+    }
+
+    .vc-block-shadow .shadow-ver-right {
+        background: url(../../images/vertical-right-shadow.png) no-repeat 100% 100%;
+    }
+
+    .vc-block-border .shadow-ver-right {
+        border-right: 1px solid #e9e9e9;
+    }
+
+    /**
+     * Section one
+     */
+
+    .section-one.section-default .row .col-sm-4,
+    .section-one.section-default .row .col-md-4 {
+        float: left;
+    }
+
+    .section-one.section-default .row .col-sm-8,
+    .section-one.section-default .row .col-md-8 {
+        float: right;
+        /*padding-top: 5px;*/
+    }
+
+    /**
+     * Section two
+     */
+
+    .section-two.section-full .def-medium .col-sm-6 {
+        width: 203px
+    }
+
+
+    /* ==========================================================================
+       Top Grid
+       ========================================================================== */
+
+   /**
+     * Top Grid Layout Nine
+     */
+
+
+   .top-grid-layout-9 header {
+        xpadding-bottom: 115px !important;
+   }
+
+   .top-grid-layout-9 header h2 {
+        font-size: 40px;
+        line-height: 50px;
+        font-weight: 400;
+   }
+
+
+   /* ==========================================================================
+      Ads
+      ========================================================================== */
+
+   /**
+    * Ads
+    */
+
+   .side-ad {
+        position: absolute;
+        top: 1px;
+        z-index: 98;
+    }
+
+    .side-left-120 {
+        left: -121px;
+    }
+
+    .side-left-160 {
+        left: -161px;
+    }
+
+    .side-left-300 {
+        left: -301px;
+    }
+
+    .side-right-120 {
+        right: -121px;
+    }
+
+    .side-right-160 {
+        right: -161px;
+    }
+
+    .side-right-300 {
+        right: -301px;
+    }
+
+
+}

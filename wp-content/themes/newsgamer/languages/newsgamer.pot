@@ -1,0 +1,4743 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsGamer\n"
+"POT-Creation-Date: 2016-01-18 16:00+0100\n"
+"PO-Revision-Date: 2016-01-18 16:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:35
+msgid "404"
+msgstr ""
+
+#: 404.php:36
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:37
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: archive.php:48 attachment.php:79 category.php:58 index.php:42 page.php:45
+#: single.php:45 tag.php:49
+msgid "No posts."
+msgstr ""
+
+#: author.php:50 elements/parts/team-of-authors.php:22
+msgid "posts"
+msgstr ""
+
+#: author.php:58 elements/parts/post-header-title.php:37
+#: elements/parts/post-header-title.php:41
+#: elements/parts/team-of-authors.php:30
+#: elements/parts/top-grid-layout-9.php:46
+msgid "comments"
+msgstr ""
+
+#: author.php:75 elements/parts/team-of-authors.php:39
+msgid "views"
+msgstr ""
+
+#: bbpress/content-search.php:14
+msgid "Need a new search?"
+msgstr ""
+
+#: bbpress/content-search.php:15
+msgid "If you didn't find what you were looking for, try a new search!"
+msgstr ""
+
+#: bbpress/content-search.php:19 bbpress/form-search.php:12
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94 bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-single-topic.php:32 bbpress/form-topic.php:22
+#: elements/parts/post-addons-review.php:26 elements/parts/post-addons.php:30
+msgid "Tags"
+msgstr ""
+
+#: bbpress/form-reply-move.php:22
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: bbpress/form-reply-move.php:27
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: bbpress/form-reply-move.php:31
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: bbpress/form-reply-move.php:35
+msgid "Move Method"
+msgstr ""
+
+#: bbpress/form-reply-move.php:39 bbpress/form-topic-split.php:39
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:40
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: bbpress/form-reply-move.php:47 bbpress/form-topic-split.php:47
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:56 bbpress/form-topic-split.php:56
+msgid "No other topics found!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:67 bbpress/form-topic-merge.php:88
+#: bbpress/form-topic-split.php:92
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: bbpress/form-reply-move.php:71 bbpress/form-reply.php:91
+#: bbpress/form-topic-merge.php:92 bbpress/form-topic-split.php:96
+#: bbpress/form-topic.php:161
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-reply-move.php:84
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:84
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: bbpress/form-reply.php:27
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:44 bbpress/form-topic.php:70
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: bbpress/form-reply.php:55 bbpress/form-topic.php:81
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply.php:70 bbpress/form-topic.php:142
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:74 bbpress/form-topic.php:146
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:109 bbpress/form-topic.php:178
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:113 bbpress/form-topic.php:182
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:142
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:150 bbpress/form-topic.php:208
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:158
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:158
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:22
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:27
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:28
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:32
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:36
+msgid "Destination"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:40
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:49
+msgid "No topics were found to which the topic could be merged to!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:55
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:63 bbpress/form-topic-split.php:67
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:70
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:75
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:80
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:105 bbpress/form-topic-split.php:109
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:105 bbpress/form-topic-split.php:109
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:22
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:27
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:31
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: bbpress/form-topic-split.php:35
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:40
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: bbpress/form-topic-split.php:74
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:79
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:84
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35 comments.php:59
+msgid "Name:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+#: framework/breadcrumbs/breadcrumbs-plus.php:247
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: bbpress/form-topic.php:39
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:41
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:41
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:55
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:94
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:97
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:113
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:125
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:216
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:216
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-replies.php:28
+#: bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:22 bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-forum.php:30
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-reply.php:22 bbpress/loop-search-topic.php:22
+#: bbpress/loop-single-reply.php:22
+#, php-format
+msgid "Post count: %s"
+msgstr ""
+
+#: bbpress/loop-search-reply.php:42
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:48
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:53
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:57
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-single-reply.php:48
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:37 bbpress/user-details.php:46
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:38
+msgid "Forum Role:"
+msgstr ""
+
+#: bbpress/user-details.php:39
+msgid "Topics Started:"
+msgstr ""
+
+#: bbpress/user-details.php:40
+msgid "Replies Created:"
+msgstr ""
+
+#: bbpress/user-details.php:46
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:52
+#, php-format
+msgid "%s's Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:52
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:58
+#, php-format
+msgid "%s's Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:58
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:69
+#, php-format
+msgid "%s's Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:69
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:79
+#, php-format
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:79
+msgid "Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:86
+#, php-format
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:86 framework/breadcrumbs/breadcrumbs-plus.php:250
+#: framework/breadcrumbs/breadcrumbs-plus.php:264
+#: framework/breadcrumbs/breadcrumbs-plus.php:284
+msgid "Edit"
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Email:"
+msgstr ""
+
+#: comments.php:69
+msgid "Website:"
+msgstr ""
+
+#: comments.php:80
+msgid "Comment:"
+msgstr ""
+
+#: comments.php:86
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:87
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:88
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:114
+msgid "at"
+msgstr ""
+
+#: comments.php:119
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: comments.php:120
+msgid "Log in to leave a comment <span>&darr;</span>"
+msgstr ""
+
+#: elements/facebook-comments.php:4
+msgid "Facebook Comments"
+msgstr ""
+
+#: elements/header-mobile.php:10 elements/parts/header-layout-2.php:22
+#: elements/parts/header-layout-3.php:22 searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: elements/loop-cat-1.php:50 elements/loop-cat-10.php:53
+#: elements/loop-cat-11.php:40 elements/loop-cat-12.php:48
+#: elements/loop-cat-2.php:49 elements/loop-cat-3.php:49
+#: elements/loop-cat-4.php:49 elements/loop-cat-5.php:53
+#: elements/loop-cat-6.php:53 elements/loop-cat-7.php:49
+#: elements/loop-cat-8.php:49 elements/loop-cat-9.php:53
+#: framework/class-article.php:348
+msgid "Read more"
+msgstr ""
+
+#: elements/loop-page-7.php:30
+msgid "by"
+msgstr ""
+
+#: elements/loop-page-7.php:31
+msgid "on"
+msgstr ""
+
+#: elements/parts/post-addons-review.php:7 elements/parts/post-addons.php:9
+#: framework/redux-options.php:4415
+msgid "Via"
+msgstr ""
+
+#: elements/parts/post-addons-review.php:15 elements/parts/post-addons.php:17
+#: framework/external/class-tgm-plugin-activation.php:1389
+#: framework/redux-options.php:4434
+msgid "Source"
+msgstr ""
+
+#: elements/parts/post-header-title.php:27 framework/class-article.php:318
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: elements/parts/post-pagination-1.php:31
+msgid "Go to first page"
+msgstr ""
+
+#: elements/parts/post-pagination-1.php:32
+msgid "Previous page"
+msgstr ""
+
+#: elements/parts/post-pagination-1.php:42
+msgid "Next page"
+msgstr ""
+
+#: elements/parts/post-pagination-1.php:43
+msgid "Go to last page"
+msgstr ""
+
+#: elements/parts/post-pagination-2.php:3
+msgid "Next page <i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: elements/parts/post-pagination-2.php:4
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous page"
+msgstr ""
+
+#: elements/parts/post-prevnext.php:10
+msgid "Previous article"
+msgstr ""
+
+#: elements/parts/post-prevnext.php:16
+msgid "Next article"
+msgstr ""
+
+#: elements/parts/post-review.php:50 framework/class-shortcodes.php:63
+msgid "The Good"
+msgstr ""
+
+#: elements/parts/post-review.php:54 framework/class-shortcodes.php:67
+msgid "The Bad"
+msgstr ""
+
+#: framework/ads/ads-register.php:5
+msgid "My Ads"
+msgstr ""
+
+#: framework/ads/ads-register.php:6
+msgid "Ad"
+msgstr ""
+
+#: framework/ads/ads-register.php:7
+msgid "Add New"
+msgstr ""
+
+#: framework/ads/ads-register.php:8
+msgid "Add New ad"
+msgstr ""
+
+#: framework/ads/ads-register.php:9
+msgid "Edit ad"
+msgstr ""
+
+#: framework/ads/ads-register.php:10
+msgid "New ad"
+msgstr ""
+
+#: framework/ads/ads-register.php:11
+msgid "View ad"
+msgstr ""
+
+#: framework/ads/ads-register.php:12
+msgid "Search in ads"
+msgstr ""
+
+#: framework/ads/ads-register.php:13
+msgid "No ads found"
+msgstr ""
+
+#: framework/ads/ads-register.php:14
+msgid "No ads found in Trash"
+msgstr ""
+
+#: framework/ads/ads-register.php:16 framework/redux-options.php:3675
+#: framework/redux-options.php:5260 framework/redux-options.php:5571
+msgid "Ads System"
+msgstr ""
+
+#: framework/ads/ads-register.php:18
+msgid "ads"
+msgstr ""
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:51
+msgid "Home"
+msgstr ""
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:181
+#: framework/breadcrumbs/breadcrumbs-plus.php:184
+#: framework/breadcrumbs/breadcrumbs-plus.php:187
+msgid "Archives for "
+msgstr ""
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:191
+msgid "Archives by: "
+msgstr ""
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:196
+msgid "Search results for \""
+msgstr ""
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:200
+msgid "Page Not Found"
+msgstr ""
+
+#: framework/breadcrumbs/breadcrumbs-plus.php:244
+msgid "Split"
+msgstr ""
+
+#: framework/class-article.php:344
+msgid "In"
+msgstr ""
+
+#: framework/class-gallery.php:155
+msgid "MipTheme Gallery: "
+msgstr ""
+
+#: framework/class-page.php:291
+msgid "Daily Archives:"
+msgstr ""
+
+#: framework/class-page.php:293
+msgid "Monthly Archives:"
+msgstr ""
+
+#: framework/class-page.php:295
+msgid "Yearly Archives:"
+msgstr ""
+
+#: framework/class-page.php:297
+msgid "Archives"
+msgstr ""
+
+#: framework/class-thumbnailer.php:88
+#, php-format
+msgid ""
+"Error retrieving a thumbnail from the URL <a href=\"%1$s\">%1$s</a> using "
+"<code>wp_remote_get()</code><br />If opening that URL in your web browser "
+"returns anything else than an error page, the problem may be related to your "
+"web server and might be something your host administrator can solve."
+msgstr ""
+
+#: framework/class-thumbnailer.php:88
+msgid "Error Details:"
+msgstr ""
+
+#: framework/class-thumbnailer.php:106
+msgid "Unsupported MIME type:"
+msgstr ""
+
+#: framework/class-thumbnailer.php:119
+msgid "Error uploading image data:"
+msgstr ""
+
+#: framework/class-util.php:74 framework/class-util.php:173
+msgid "Follow us"
+msgstr ""
+
+#: framework/class-util.php:115 framework/class-util.php:156
+#: framework/class-util.php:220 framework/class-util.php:287
+msgid "Register"
+msgstr ""
+
+#: framework/class-util.php:119 framework/class-util.php:159
+#: framework/class-util.php:223 framework/class-util.php:290
+msgid "My Posts"
+msgstr ""
+
+#: framework/class-util.php:128 framework/class-util.php:165
+#: framework/class-util.php:229 framework/class-util.php:296
+msgid "Log in"
+msgstr ""
+
+#: framework/class-util.php:130 framework/class-util.php:167
+#: framework/class-util.php:231 framework/class-util.php:298
+msgid "Log out"
+msgstr ""
+
+#: framework/class-widgets.php:17
+msgid "MipTheme [Image]"
+msgstr ""
+
+#: framework/class-widgets.php:18
+msgid "Display image"
+msgstr ""
+
+#: framework/class-widgets.php:51 framework/class-widgets.php:123
+msgid "Image source:"
+msgstr ""
+
+#: framework/class-widgets.php:55
+msgid "Image Retina source:"
+msgstr ""
+
+#: framework/class-widgets.php:59 framework/class-widgets.php:127
+msgid "Image link:"
+msgstr ""
+
+#: framework/class-widgets.php:63
+msgid "Image padding: (optional)"
+msgstr ""
+
+#: framework/class-widgets.php:67 framework/class-widgets.php:130
+msgid "Open in new window"
+msgstr ""
+
+#: framework/class-widgets.php:68
+msgid "Responsive image"
+msgstr ""
+
+#: framework/class-widgets.php:97
+msgid "MipTheme [Image Ad]"
+msgstr ""
+
+#: framework/class-widgets.php:98 framework/class-widgets.php:158
+msgid "Display ads - max 300px"
+msgstr ""
+
+#: framework/class-widgets.php:131
+msgid "Show with background color"
+msgstr ""
+
+#: framework/class-widgets.php:157
+msgid "MipTheme [Embed Ad]"
+msgstr ""
+
+#: framework/class-widgets.php:177 framework/class-widgets.php:225
+msgid "Ad source:"
+msgstr ""
+
+#: framework/class-widgets.php:180 framework/class-widgets.php:238
+msgid "show with background color"
+msgstr ""
+
+#: framework/class-widgets.php:204
+msgid "MipTheme [Ads System]"
+msgstr ""
+
+#: framework/class-widgets.php:205
+msgid "Display ads from Ads System"
+msgstr ""
+
+#: framework/class-widgets.php:262
+msgid "MipTheme [Quote]"
+msgstr ""
+
+#: framework/class-widgets.php:263
+msgid "Display quote with author and source"
+msgstr ""
+
+#: framework/class-widgets.php:288
+msgid "Weekly Quote"
+msgstr ""
+
+#: framework/class-widgets.php:294 framework/class-widgets.php:508
+#: framework/class-widgets.php:729 framework/class-widgets.php:909
+#: framework/class-widgets.php:1052 framework/class-widgets.php:1300
+#: framework/class-widgets.php:1410 framework/class-widgets.php:1635
+#: framework/class-widgets.php:1756 framework/class-widgets.php:1986
+msgid "Title:"
+msgstr ""
+
+#: framework/class-widgets.php:298
+msgid "Quote:"
+msgstr ""
+
+#: framework/class-widgets.php:301
+msgid "Source:"
+msgstr ""
+
+#: framework/class-widgets.php:306 framework/class-widgets.php:919
+msgid "No spacing after this widget"
+msgstr ""
+
+#: framework/class-widgets.php:330
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: framework/class-widgets.php:331
+msgid "MipTheme [Recent Posts]"
+msgstr ""
+
+#: framework/class-widgets.php:344
+msgid "Recent Posts"
+msgstr ""
+
+#: framework/class-widgets.php:511
+msgid "Include categories (separate ID by commas):"
+msgstr ""
+
+#: framework/class-widgets.php:514
+msgid "Exclude categories (separate ID by commas):"
+msgstr ""
+
+#: framework/class-widgets.php:517 framework/class-widgets.php:1309
+msgid "Include tags (separate tag slugs by commas):"
+msgstr ""
+
+#: framework/class-widgets.php:521 framework/class-widgets.php:1322
+#: framework/class-widgets.php:1661 framework/class-widgets.php:2013
+msgid "Widget Layout:"
+msgstr ""
+
+#: framework/class-widgets.php:523 framework/class-widgets.php:1324
+#: framework/class-widgets.php:1663 framework/class-widgets.php:2015
+msgid "Layout 1 (all small images)"
+msgstr ""
+
+#: framework/class-widgets.php:524 framework/class-widgets.php:1325
+#: framework/class-widgets.php:1664 framework/class-widgets.php:2016
+msgid "Layout 2 (one big + small images)"
+msgstr ""
+
+#: framework/class-widgets.php:525 framework/class-widgets.php:1326
+#: framework/class-widgets.php:1665 framework/class-widgets.php:2017
+msgid "Layout 3 (all big images)"
+msgstr ""
+
+#: framework/class-widgets.php:531 framework/class-widgets.php:733
+#: framework/class-widgets.php:1332 framework/class-widgets.php:1671
+#: framework/class-widgets.php:2023
+msgid "Display category as:"
+msgstr ""
+
+#: framework/class-widgets.php:533 framework/class-widgets.php:735
+#: framework/class-widgets.php:1334 framework/class-widgets.php:1673
+#: framework/class-widgets.php:2025
+msgid "Root Category"
+msgstr ""
+
+#: framework/class-widgets.php:534 framework/class-widgets.php:736
+#: framework/class-widgets.php:1335 framework/class-widgets.php:1674
+#: framework/class-widgets.php:2026
+msgid "Subcategories"
+msgstr ""
+
+#: framework/class-widgets.php:540 framework/class-widgets.php:1648
+#: framework/class-widgets.php:2032 framework/vc/vc-template-block-1.php:207
+#: framework/vc/vc-template-block-1.php:422
+#: framework/vc/vc-template-block-10.php:158
+#: framework/vc/vc-template-block-11.php:158
+#: framework/vc/vc-template-block-12.php:158
+#: framework/vc/vc-template-block-2.php:206
+#: framework/vc/vc-template-block-2.php:410
+#: framework/vc/vc-template-block-3.php:207
+#: framework/vc/vc-template-block-3.php:422
+#: framework/vc/vc-template-block-3.php:637
+#: framework/vc/vc-template-block-4.php:206
+#: framework/vc/vc-template-block-4.php:410
+#: framework/vc/vc-template-block-5.php:174
+#: framework/vc/vc-template-block-6.php:174
+#: framework/vc/vc-template-block-7.php:158
+#: framework/vc/vc-template-block-8.php:158
+#: framework/vc/vc-template-block-9.php:158
+msgid "Sort order:"
+msgstr ""
+
+#: framework/class-widgets.php:542 framework/class-widgets.php:1650
+#: framework/class-widgets.php:2034
+msgid "Latest"
+msgstr ""
+
+#: framework/class-widgets.php:543 framework/class-widgets.php:1651
+#: framework/class-widgets.php:2035
+msgid "Random posts"
+msgstr ""
+
+#: framework/class-widgets.php:544 framework/class-widgets.php:1652
+#: framework/class-widgets.php:2036
+msgid "By name"
+msgstr ""
+
+#: framework/class-widgets.php:545 framework/class-widgets.php:1653
+#: framework/class-widgets.php:2037
+msgid "Last Modified"
+msgstr ""
+
+#: framework/class-widgets.php:546 framework/class-widgets.php:1654
+#: framework/class-widgets.php:2038
+msgid "Most Commented"
+msgstr ""
+
+#: framework/class-widgets.php:547 framework/class-widgets.php:1655
+#: framework/class-widgets.php:2039
+msgid "Most Viewed"
+msgstr ""
+
+#: framework/class-widgets.php:548
+msgid "Most Viewed Last 24 Hours"
+msgstr ""
+
+#: framework/class-widgets.php:549
+msgid "Most Viewed Last 7 Days"
+msgstr ""
+
+#: framework/class-widgets.php:555 framework/class-widgets.php:1680
+msgid "Display Views:"
+msgstr ""
+
+#: framework/class-widgets.php:557 framework/class-widgets.php:1682
+msgid "Do not display views"
+msgstr ""
+
+#: framework/class-widgets.php:558 framework/class-widgets.php:1683
+msgid "Display all views for post"
+msgstr ""
+
+#: framework/class-widgets.php:559
+msgid "Display only last 24 hours views for post"
+msgstr ""
+
+#: framework/class-widgets.php:560
+msgid "Display only last 7 days views for post"
+msgstr ""
+
+#: framework/class-widgets.php:565 framework/class-widgets.php:741
+#: framework/class-widgets.php:912 framework/class-widgets.php:1340
+#: framework/class-widgets.php:1688 framework/class-widgets.php:2044
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/class-widgets.php:568 framework/class-widgets.php:744
+#: framework/class-widgets.php:915 framework/class-widgets.php:1343
+#: framework/class-widgets.php:1691 framework/class-widgets.php:2047
+msgid "Post offset:"
+msgstr ""
+
+#: framework/class-widgets.php:572 framework/class-widgets.php:1347
+#: framework/class-widgets.php:1695 framework/class-widgets.php:2051
+msgid "Display post date?"
+msgstr ""
+
+#: framework/class-widgets.php:575 framework/class-widgets.php:1350
+#: framework/class-widgets.php:1698 framework/class-widgets.php:2054
+msgid "Display category?"
+msgstr ""
+
+#: framework/class-widgets.php:578 framework/class-widgets.php:1353
+#: framework/class-widgets.php:1701 framework/class-widgets.php:2060
+msgid "Style it for mid column?"
+msgstr ""
+
+#: framework/class-widgets.php:591
+msgid "Your site&#8217;s most recent Posts in timeline."
+msgstr ""
+
+#: framework/class-widgets.php:592
+msgid "MipTheme [Timeline]"
+msgstr ""
+
+#: framework/class-widgets.php:622
+msgid "Timeline"
+msgstr ""
+
+#: framework/class-widgets.php:748
+msgid "Select categories to include in your timeline:"
+msgstr ""
+
+#: framework/class-widgets.php:785 framework/class-widgets.php:935
+msgid "Your site&#8217;s most recent Audio Posts."
+msgstr ""
+
+#: framework/class-widgets.php:786
+msgid "MipTheme [Audio Posts]"
+msgstr ""
+
+#: framework/class-widgets.php:816
+msgid "Audio Posts"
+msgstr ""
+
+#: framework/class-widgets.php:936
+msgid "MipTheme [Gallery]"
+msgstr ""
+
+#: framework/class-widgets.php:974
+msgid "Gallery Thumbs"
+msgstr ""
+
+#: framework/class-widgets.php:1055
+msgid "Images:"
+msgstr ""
+
+#: framework/class-widgets.php:1073
+msgid "Choose Images"
+msgstr ""
+
+#: framework/class-widgets.php:1129
+msgid "Your site&#8217;s lates reviews."
+msgstr ""
+
+#: framework/class-widgets.php:1130
+msgid "MipTheme [Reviews]"
+msgstr ""
+
+#: framework/class-widgets.php:1144
+msgid "Latest Reviews"
+msgstr ""
+
+#: framework/class-widgets.php:1303
+msgid "Include categories (separate by commas):"
+msgstr ""
+
+#: framework/class-widgets.php:1306
+msgid "Exclude categories (separate by commas):"
+msgstr ""
+
+#: framework/class-widgets.php:1313
+msgid "Sort reviews by:"
+msgstr ""
+
+#: framework/class-widgets.php:1315
+msgid "Best Score Reviews"
+msgstr ""
+
+#: framework/class-widgets.php:1316
+msgid "Latest reviews"
+msgstr ""
+
+#: framework/class-widgets.php:1369
+msgid "MipTheme [About]"
+msgstr ""
+
+#: framework/class-widgets.php:1370
+msgid "Display text with social share buttons"
+msgstr ""
+
+#: framework/class-widgets.php:1400
+msgid "About us..."
+msgstr ""
+
+#: framework/class-widgets.php:1414
+msgid "Text:"
+msgstr ""
+
+#: framework/class-widgets.php:1418
+msgid "Facebook Link:"
+msgstr ""
+
+#: framework/class-widgets.php:1421
+msgid "Twitter Link:"
+msgstr ""
+
+#: framework/class-widgets.php:1424
+msgid "LinkedIn Link:"
+msgstr ""
+
+#: framework/class-widgets.php:1427
+msgid "Google+ Link:"
+msgstr ""
+
+#: framework/class-widgets.php:1430
+msgid "Vimeo Link:"
+msgstr ""
+
+#: framework/class-widgets.php:1433
+msgid "Youtube Link:"
+msgstr ""
+
+#: framework/class-widgets.php:1463
+msgid "Your site&#8217;s related Posts."
+msgstr ""
+
+#: framework/class-widgets.php:1464
+msgid "MipTheme [Related Posts]"
+msgstr ""
+
+#: framework/class-widgets.php:1479 framework/redux-options.php:1666
+msgid "Related Posts"
+msgstr ""
+
+#: framework/class-widgets.php:1639
+msgid "Filter related posts by:"
+msgstr ""
+
+#: framework/class-widgets.php:1641
+msgid "Category"
+msgstr ""
+
+#: framework/class-widgets.php:1642
+msgid "Tag"
+msgstr ""
+
+#: framework/class-widgets.php:1716
+msgid "MipTheme [Tags]"
+msgstr ""
+
+#: framework/class-widgets.php:1717
+msgid "Display tags"
+msgstr ""
+
+#: framework/class-widgets.php:1751
+msgid "Weekly Tags"
+msgstr ""
+
+#: framework/class-widgets.php:1760
+msgid "Display post count?"
+msgstr ""
+
+#: framework/class-widgets.php:1762
+msgid "Number of tags to show:"
+msgstr ""
+
+#: framework/class-widgets.php:1787
+msgid "Author&#8217;s most recent Posts."
+msgstr ""
+
+#: framework/class-widgets.php:1788
+msgid "MipTheme [Authors posts]"
+msgstr ""
+
+#: framework/class-widgets.php:1990
+msgid "Select author:"
+msgstr ""
+
+#: framework/class-widgets.php:2000
+msgid "Display avatar as:"
+msgstr ""
+
+#: framework/class-widgets.php:2002
+msgid "No Avatar"
+msgstr ""
+
+#: framework/class-widgets.php:2003
+msgid "Avatar on top"
+msgstr ""
+
+#: framework/class-widgets.php:2004
+msgid "Avatar on right"
+msgstr ""
+
+#: framework/class-widgets.php:2009
+msgid "Exclude posts (separate ID by commas):"
+msgstr ""
+
+#: framework/class-widgets.php:2057
+msgid "Display post views?"
+msgstr ""
+
+#: framework/extend-category.php:22
+msgid "Category Primary Color"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: framework/extend-menus.php:208
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: framework/extend-menus.php:212
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/extend-menus.php:236
+msgid "Move up"
+msgstr ""
+
+#: framework/extend-menus.php:249
+msgid "Move down"
+msgstr ""
+
+#: framework/extend-menus.php:251 framework/extend-menus.php:253
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/extend-menus.php:262
+msgid "URL"
+msgstr ""
+
+#: framework/extend-menus.php:269
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/extend-menus.php:275
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/extend-menus.php:282
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/extend-menus.php:287
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/extend-menus.php:293
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/extend-menus.php:299
+msgid "Description"
+msgstr ""
+
+#: framework/extend-menus.php:301
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/extend-menus.php:313
+msgid "Dropdown Type"
+msgstr ""
+
+#: framework/extend-menus.php:315
+msgid "Default Menu"
+msgstr ""
+
+#: framework/extend-menus.php:316
+msgid "Category Mega Menu"
+msgstr ""
+
+#: framework/extend-menus.php:324
+msgid "Show megamenu with latest posts"
+msgstr ""
+
+#: framework/extend-menus.php:330
+msgid "Menu Item Color"
+msgstr ""
+
+#: framework/extend-menus.php:332
+msgid "Use this only on pages and custom links."
+msgstr ""
+
+#: framework/extend-menus.php:344
+msgid "Articles Display"
+msgstr ""
+
+#: framework/extend-menus.php:346
+msgid "---"
+msgstr ""
+
+#: framework/extend-menus.php:347
+msgid "Default Articles (if this is a category)"
+msgstr ""
+
+#: framework/extend-menus.php:348
+msgid "Custom Articles"
+msgstr ""
+
+#: framework/extend-menus.php:349
+msgid "Review Articles Only"
+msgstr ""
+
+#: framework/extend-menus.php:351
+msgid "Use only if parent is selected as \"Category Mega Menu\""
+msgstr ""
+
+#: framework/extend-menus.php:357
+msgid "Category filter"
+msgstr ""
+
+#: framework/extend-menus.php:364 framework/redux-options.php:410
+#: framework/redux-options.php:5525
+msgid "Filter by tag slug"
+msgstr ""
+
+#: framework/extend-menus.php:371
+msgid "Offset"
+msgstr ""
+
+#: framework/extend-menus.php:378 framework/redux-options.php:3031
+msgid "Order by"
+msgstr ""
+
+#: framework/extend-menus.php:380
+msgid "Published Date"
+msgstr ""
+
+#: framework/extend-menus.php:381
+msgid "Post ID"
+msgstr ""
+
+#: framework/extend-menus.php:382
+msgid "Random order"
+msgstr ""
+
+#: framework/extend-menus.php:383
+msgid "Last modified date"
+msgstr ""
+
+#: framework/extend-menus.php:384
+msgid "Number of comments"
+msgstr ""
+
+#: framework/extend-menus.php:391 framework/redux-options.php:381
+#: framework/redux-options.php:1694 framework/redux-options.php:1825
+#: framework/redux-options.php:1918 framework/redux-options.php:2011
+#: framework/redux-options.php:4516 framework/redux-options.php:4650
+#: framework/redux-options.php:4748 framework/redux-options.php:4846
+#: framework/redux-options.php:5496
+msgid "Sort order"
+msgstr ""
+
+#: framework/extend-menus.php:393
+msgid "Descending"
+msgstr ""
+
+#: framework/extend-menus.php:394
+msgid "Ascending "
+msgstr ""
+
+#: framework/extend-menus.php:408
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/extend-menus.php:421
+msgid "Remove"
+msgstr ""
+
+#: framework/extend-menus.php:422
+msgid "Cancel"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:161
+#: framework/tgm-required-plugin-activation-load.php:64
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:162
+#: framework/tgm-required-plugin-activation-load.php:65
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:163
+#: framework/tgm-required-plugin-activation-load.php:66
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:165
+#: framework/tgm-required-plugin-activation-load.php:68
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:166
+#: framework/tgm-required-plugin-activation-load.php:69
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:167
+#: framework/tgm-required-plugin-activation-load.php:70
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:168
+#: framework/tgm-required-plugin-activation-load.php:71
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:169
+#: framework/tgm-required-plugin-activation-load.php:72
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:170
+#: framework/tgm-required-plugin-activation-load.php:73
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:171
+#: framework/tgm-required-plugin-activation-load.php:74
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:172
+#: framework/tgm-required-plugin-activation-load.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:173
+#: framework/tgm-required-plugin-activation-load.php:76
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:175
+#: framework/tgm-required-plugin-activation-load.php:78
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:177
+#: framework/external/class-tgm-plugin-activation.php:1956
+#: framework/tgm-required-plugin-activation-load.php:79
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:178
+#: framework/external/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/external/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:532
+#: framework/external/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1167
+#: framework/external/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1170
+#: framework/external/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1288
+#: framework/external/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1312
+#: framework/external/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2070
+#: framework/external/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2070
+#: framework/external/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/external/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/global-functions.php:16
+msgid "Tag Archive for &quot;"
+msgstr ""
+
+#: framework/global-functions.php:22
+msgid " - "
+msgstr ""
+
+#: framework/global-functions.php:26
+msgid "Search for &quot;"
+msgstr ""
+
+#: framework/global-functions.php:33
+msgid "Not Found - "
+msgstr ""
+
+#: framework/redux-options.php:37 framework/redux-options.php:38
+msgid "Theme Options"
+msgstr ""
+
+#: framework/redux-options.php:151
+msgid "General Settings"
+msgstr ""
+
+#: framework/redux-options.php:159
+msgid "Enable Ajax Post Views"
+msgstr ""
+
+#: framework/redux-options.php:160
+msgid "Enable this if you are using a cache plugin!"
+msgstr ""
+
+#: framework/redux-options.php:166
+msgid "Enable Smooth Scrolling"
+msgstr ""
+
+#: framework/redux-options.php:167
+msgid "Works only on Chrome browser"
+msgstr ""
+
+#: framework/redux-options.php:173
+msgid "Enable Lazy Load for images"
+msgstr ""
+
+#: framework/redux-options.php:174
+msgid "Lazy Load is delays loading of images in long web pages"
+msgstr ""
+
+#: framework/redux-options.php:180
+msgid "Enable Google Fonts"
+msgstr ""
+
+#: framework/redux-options.php:181
+msgid "Enable Google Fonts on Theme Typography"
+msgstr ""
+
+#: framework/redux-options.php:191
+msgid "Homepage Settings"
+msgstr ""
+
+#: framework/redux-options.php:201 framework/redux-options.php:332
+msgid ""
+"Only if \"Front page display\" is set to \"<a href=\"options-reading.php"
+"\">Your latest posts</a>\"."
+msgstr ""
+
+#: framework/redux-options.php:206
+msgid "Posts Layout"
+msgstr ""
+
+#: framework/redux-options.php:207 framework/redux-options.php:2657
+#: framework/redux-options.php:2744 framework/redux-options.php:2872
+#: framework/redux-options.php:3101 framework/redux-options.php:3238
+msgid "Select layout for posts."
+msgstr ""
+
+#: framework/redux-options.php:227 framework/redux-options.php:1057
+#: framework/redux-options.php:1301 framework/redux-options.php:2678
+#: framework/redux-options.php:2764 framework/redux-options.php:2892
+#: framework/redux-options.php:3121 framework/redux-options.php:3258
+msgid "Limit text characters"
+msgstr ""
+
+#: framework/redux-options.php:232 framework/redux-options.php:304
+#: framework/redux-options.php:1062 framework/redux-options.php:1147
+#: framework/redux-options.php:1306 framework/redux-options.php:1380
+#: framework/redux-options.php:2683 framework/redux-options.php:2727
+#: framework/redux-options.php:2769 framework/redux-options.php:2846
+#: framework/redux-options.php:2897 framework/redux-options.php:2968
+#: framework/redux-options.php:3126 framework/redux-options.php:3191
+#: framework/redux-options.php:3263 framework/redux-options.php:3328
+msgid "0 for using default wordpress settings"
+msgstr ""
+
+#: framework/redux-options.php:238 framework/redux-options.php:1068
+#: framework/redux-options.php:1312 framework/redux-options.php:2689
+#: framework/redux-options.php:2775 framework/redux-options.php:2903
+#: framework/redux-options.php:3132 framework/redux-options.php:3269
+msgid "Posts Layout Grid"
+msgstr ""
+
+#: framework/redux-options.php:239 framework/redux-options.php:1069
+#: framework/redux-options.php:1313 framework/redux-options.php:2690
+#: framework/redux-options.php:2776 framework/redux-options.php:2904
+#: framework/redux-options.php:3133 framework/redux-options.php:3270
+msgid "Select  template for pagination."
+msgstr ""
+
+#: framework/redux-options.php:250 framework/redux-options.php:1080
+#: framework/redux-options.php:1323 framework/redux-options.php:1574
+#: framework/redux-options.php:2701 framework/redux-options.php:2787
+#: framework/redux-options.php:2915 framework/redux-options.php:3144
+#: framework/redux-options.php:3281
+msgid "What to display in Post Meta"
+msgstr ""
+
+#: framework/redux-options.php:251 framework/redux-options.php:417
+#: framework/redux-options.php:1081 framework/redux-options.php:1324
+#: framework/redux-options.php:1561 framework/redux-options.php:1568
+#: framework/redux-options.php:1575 framework/redux-options.php:1596
+#: framework/redux-options.php:1603 framework/redux-options.php:1610
+#: framework/redux-options.php:1634 framework/redux-options.php:1718
+#: framework/redux-options.php:2604 framework/redux-options.php:2702
+#: framework/redux-options.php:2788 framework/redux-options.php:2916
+#: framework/redux-options.php:3145 framework/redux-options.php:3282
+#: framework/redux-options.php:4377 framework/redux-options.php:4385
+#: framework/redux-options.php:4393 framework/redux-options.php:4401
+#: framework/redux-options.php:4539 framework/redux-options.php:5532
+msgid "This option only affects <b>posts</b>."
+msgstr ""
+
+#: framework/redux-options.php:270
+msgid "Enable Unique Articles"
+msgstr ""
+
+#: framework/redux-options.php:271
+msgid "Do not display duplicate articles in main area."
+msgstr ""
+
+#: framework/redux-options.php:277 framework/redux-options.php:1100
+#: framework/redux-options.php:1336 framework/redux-options.php:1538
+#: framework/redux-options.php:2581 framework/redux-options.php:2619
+#: framework/redux-options.php:2807 framework/redux-options.php:2819
+#: framework/redux-options.php:2935 framework/redux-options.php:3164
+#: framework/redux-options.php:3301 framework/redux-options.php:3354
+#: framework/redux-options.php:3385 framework/redux-options.php:4354
+#: framework/redux-options.php:5383
+msgid "Sidebar position"
+msgstr ""
+
+#: framework/redux-options.php:278 framework/redux-options.php:1101
+#: framework/redux-options.php:1337 framework/redux-options.php:1539
+#: framework/redux-options.php:2582 framework/redux-options.php:2620
+#: framework/redux-options.php:2808 framework/redux-options.php:2820
+#: framework/redux-options.php:2936 framework/redux-options.php:3165
+#: framework/redux-options.php:3302 framework/redux-options.php:3355
+#: framework/redux-options.php:3386
+msgid "Select main sidebar position for posts."
+msgstr ""
+
+#: framework/redux-options.php:288 framework/redux-options.php:1111
+#: framework/redux-options.php:1347 framework/redux-options.php:1549
+#: framework/redux-options.php:2592 framework/redux-options.php:2630
+#: framework/redux-options.php:2830 framework/redux-options.php:2946
+#: framework/redux-options.php:3175 framework/redux-options.php:3312
+#: framework/redux-options.php:3365 framework/redux-options.php:3396
+#: framework/redux-options.php:4365 framework/redux-options.php:5405
+msgid "Select default sidebar"
+msgstr ""
+
+#: framework/redux-options.php:289 framework/redux-options.php:1112
+#: framework/redux-options.php:1348 framework/redux-options.php:1550
+#: framework/redux-options.php:2593 framework/redux-options.php:2631
+#: framework/redux-options.php:2831 framework/redux-options.php:2947
+#: framework/redux-options.php:3176 framework/redux-options.php:3313
+#: framework/redux-options.php:3366 framework/redux-options.php:3397
+msgid "Sidebar for left/right column"
+msgstr ""
+
+#: framework/redux-options.php:299 framework/redux-options.php:1142
+#: framework/redux-options.php:1375 framework/redux-options.php:2722
+#: framework/redux-options.php:2841 framework/redux-options.php:2963
+#: framework/redux-options.php:3186 framework/redux-options.php:3323
+msgid "Posts per page"
+msgstr ""
+
+#: framework/redux-options.php:309 framework/redux-options.php:1152
+#: framework/redux-options.php:1385 framework/redux-options.php:2851
+#: framework/redux-options.php:2973 framework/redux-options.php:3196
+#: framework/redux-options.php:3333
+msgid "Pagination template"
+msgstr ""
+
+#: framework/redux-options.php:310 framework/redux-options.php:1153
+#: framework/redux-options.php:1386 framework/redux-options.php:2852
+#: framework/redux-options.php:2974 framework/redux-options.php:3197
+#: framework/redux-options.php:3334
+msgid "Select template for pagination."
+msgstr ""
+
+#: framework/redux-options.php:322
+msgid "Top Grid Settings"
+msgstr ""
+
+#: framework/redux-options.php:337 framework/redux-options.php:997
+#: framework/redux-options.php:5452
+msgid "Enable Top Grid"
+msgstr ""
+
+#: framework/redux-options.php:348 framework/redux-options.php:1009
+#: framework/redux-options.php:5463
+msgid "Top Grid Shortcode"
+msgstr ""
+
+#: framework/redux-options.php:354 framework/redux-options.php:1016
+#: framework/redux-options.php:5469
+msgid "Grid layout"
+msgstr ""
+
+#: framework/redux-options.php:355 framework/redux-options.php:1017
+#: framework/redux-options.php:5470
+msgid "Select layout for your grid"
+msgstr ""
+
+#: framework/redux-options.php:373 framework/redux-options.php:5488
+msgid "Enable Full width layout"
+msgstr ""
+
+#: framework/redux-options.php:374 framework/redux-options.php:5489
+msgid "Full width container"
+msgstr ""
+
+#: framework/redux-options.php:382 framework/redux-options.php:1695
+#: framework/redux-options.php:1826 framework/redux-options.php:1919
+#: framework/redux-options.php:2012 framework/redux-options.php:4517
+#: framework/redux-options.php:4651 framework/redux-options.php:4749
+#: framework/redux-options.php:4847 framework/redux-options.php:5497
+msgid "Choose how to sort your posts"
+msgstr ""
+
+#: framework/redux-options.php:400 framework/redux-options.php:5515
+msgid "Show categories"
+msgstr ""
+
+#: framework/redux-options.php:401 framework/redux-options.php:5516
+msgid "If none is selected, all categories are included by default"
+msgstr ""
+
+#: framework/redux-options.php:416 framework/redux-options.php:5531
+msgid "Display Category labels as"
+msgstr ""
+
+#: framework/redux-options.php:432 framework/redux-typography.php:208
+msgid "Header Settings"
+msgstr ""
+
+#: framework/redux-options.php:440
+msgid "Header type"
+msgstr ""
+
+#: framework/redux-options.php:441
+msgid "Type of header to display"
+msgstr ""
+
+#: framework/redux-options.php:452 framework/redux-options.php:3452
+#: framework/redux-options.php:3567
+msgid "Enable widgetized area"
+msgstr ""
+
+#: framework/redux-options.php:460 framework/redux-options.php:3460
+#: framework/redux-options.php:3575
+msgid "Area layout"
+msgstr ""
+
+#: framework/redux-options.php:461 framework/redux-options.php:557
+#: framework/redux-options.php:3461 framework/redux-options.php:3576
+msgid "Select header layout."
+msgstr ""
+
+#: framework/redux-options.php:471 framework/redux-options.php:3471
+#: framework/redux-options.php:3586
+msgid "Select sidebar for first column"
+msgstr ""
+
+#: framework/redux-options.php:484 framework/redux-options.php:3484
+#: framework/redux-options.php:3599
+msgid "Select alignment for first column"
+msgstr ""
+
+#: framework/redux-options.php:499 framework/redux-options.php:3499
+#: framework/redux-options.php:3614
+msgid "Select sidebar for second column"
+msgstr ""
+
+#: framework/redux-options.php:512 framework/redux-options.php:3512
+#: framework/redux-options.php:3627
+msgid "Select alignment for second column"
+msgstr ""
+
+#: framework/redux-options.php:527 framework/redux-options.php:3527
+#: framework/redux-options.php:3642
+msgid "Select sidebar for third column"
+msgstr ""
+
+#: framework/redux-options.php:540 framework/redux-options.php:3540
+#: framework/redux-options.php:3655
+msgid "Select alignment for third column"
+msgstr ""
+
+#: framework/redux-options.php:556
+msgid "Header layout"
+msgstr ""
+
+#: framework/redux-options.php:574
+msgid "Banner 728x90"
+msgstr ""
+
+#: framework/redux-options.php:582
+msgid "Banner left"
+msgstr ""
+
+#: framework/redux-options.php:591
+msgid "Banner right"
+msgstr ""
+
+#: framework/redux-options.php:599
+msgid "Header Height"
+msgstr ""
+
+#: framework/redux-options.php:600
+msgid "Set header height"
+msgstr ""
+
+#: framework/redux-options.php:611
+msgid "Desktop logo"
+msgstr ""
+
+#: framework/redux-options.php:612
+msgid "Logo for desktop version"
+msgstr ""
+
+#: framework/redux-options.php:623
+msgid "Desktop Retina logo"
+msgstr ""
+
+#: framework/redux-options.php:624
+msgid "Retina Logo for desktop version"
+msgstr ""
+
+#: framework/redux-options.php:630
+msgid "Weather location"
+msgstr ""
+
+#: framework/redux-options.php:631
+msgid "Enter city and contry"
+msgstr ""
+
+#: framework/redux-options.php:632
+msgid "e.g. Paris, France"
+msgstr ""
+
+#: framework/redux-options.php:639
+msgid "Display temperature in"
+msgstr ""
+
+#: framework/redux-options.php:650 framework/redux-options.php:838
+msgid "Display date"
+msgstr ""
+
+#: framework/redux-options.php:657
+msgid "Display weather description"
+msgstr ""
+
+#: framework/redux-options.php:664
+msgid "Language for description"
+msgstr ""
+
+#: framework/redux-options.php:695
+msgid "Social Networking"
+msgstr ""
+
+#: framework/redux-options.php:703
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/redux-options.php:708
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/redux-options.php:713
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/redux-options.php:718
+msgid "LinkedIn URL"
+msgstr ""
+
+#: framework/redux-options.php:723
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/redux-options.php:728
+msgid "Flickr URL"
+msgstr ""
+
+#: framework/redux-options.php:733
+msgid "Youtube URL"
+msgstr ""
+
+#: framework/redux-options.php:738
+msgid "Vimeo URL"
+msgstr ""
+
+#: framework/redux-options.php:743
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/redux-options.php:748
+msgid "Dribbble URL"
+msgstr ""
+
+#: framework/redux-options.php:753
+msgid "Behance URL"
+msgstr ""
+
+#: framework/redux-options.php:758
+msgid "Tumblr URL"
+msgstr ""
+
+#: framework/redux-options.php:763
+msgid "Reddit URL"
+msgstr ""
+
+#: framework/redux-options.php:768
+msgid "VKontakte URL"
+msgstr ""
+
+#: framework/redux-options.php:773
+msgid "Weibo URL"
+msgstr ""
+
+#: framework/redux-options.php:778
+msgid "WeChat URL"
+msgstr ""
+
+#: framework/redux-options.php:783
+msgid "QQ URL"
+msgstr ""
+
+#: framework/redux-options.php:788
+msgid "RSS URL"
+msgstr ""
+
+#: framework/redux-options.php:794 framework/redux-typography.php:324
+msgid "Top Navigation"
+msgstr ""
+
+#: framework/redux-options.php:802
+msgid "Enable Top Menu"
+msgstr ""
+
+#: framework/redux-options.php:803
+msgid "Enable top navigation"
+msgstr ""
+
+#: framework/redux-options.php:811
+msgid "Top Menu Type"
+msgstr ""
+
+#: framework/redux-options.php:812
+msgid "Type of Top menu to display"
+msgstr ""
+
+#: framework/redux-options.php:823 framework/redux-options.php:969
+msgid "Display login/register"
+msgstr ""
+
+#: framework/redux-options.php:824 framework/redux-options.php:970
+msgid "Display login/register links in top navigation"
+msgstr ""
+
+#: framework/redux-options.php:839
+msgid "Do you want to display date in top menu"
+msgstr ""
+
+#: framework/redux-options.php:852 framework/redux-options.php:918
+#: framework/redux-options.php:983
+msgid "Display social icons"
+msgstr ""
+
+#: framework/redux-options.php:853 framework/redux-options.php:919
+#: framework/redux-options.php:984
+msgid "Display social icons in top navigation (if enabled)"
+msgstr ""
+
+#: framework/redux-options.php:854 framework/redux-options.php:920
+#: framework/redux-options.php:985
+msgid "This will show links you selected under \"Social Networking\""
+msgstr ""
+
+#: framework/redux-options.php:862 framework/redux-typography.php:392
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/redux-options.php:870
+msgid "Main Navigation Type"
+msgstr ""
+
+#: framework/redux-options.php:871
+msgid "Type of navigation to display"
+msgstr ""
+
+#: framework/redux-options.php:882
+msgid "Enable image/logo in navigation"
+msgstr ""
+
+#: framework/redux-options.php:888
+msgid "Navigation menu logo"
+msgstr ""
+
+#: framework/redux-options.php:889
+msgid "Put logo in main navigation"
+msgstr ""
+
+#: framework/redux-options.php:895
+msgid "Sticky menu"
+msgstr ""
+
+#: framework/redux-options.php:896 framework/redux-options.php:963
+msgid "Use navigation as sticky menu"
+msgstr ""
+
+#: framework/redux-options.php:902
+msgid "Hide first item on sticky menu"
+msgstr ""
+
+#: framework/redux-options.php:903
+msgid "Hide first navigation item when used as sticky"
+msgstr ""
+
+#: framework/redux-options.php:910
+msgid "Display search icon"
+msgstr ""
+
+#: framework/redux-options.php:911
+msgid "Display search icon in main navigation"
+msgstr ""
+
+#: framework/redux-options.php:912
+msgid "Do not display this if you have long menu"
+msgstr ""
+
+#: framework/redux-options.php:926
+msgid "Use Category Colors"
+msgstr ""
+
+#: framework/redux-options.php:927
+msgid "Use Category Colors for Main Navigation Styling"
+msgstr ""
+
+#: framework/redux-options.php:935 framework/redux-typography.php:530
+msgid "Mobile Navigation"
+msgstr ""
+
+#: framework/redux-options.php:943
+msgid "Mobile logo"
+msgstr ""
+
+#: framework/redux-options.php:944
+msgid "Logo for mobile version"
+msgstr ""
+
+#: framework/redux-options.php:955
+msgid "Mobile Retina logo"
+msgstr ""
+
+#: framework/redux-options.php:956
+msgid "Retina Logo for mobile version"
+msgstr ""
+
+#: framework/redux-options.php:962
+msgid "Sticky Menu"
+msgstr ""
+
+#: framework/redux-options.php:1036 framework/redux-options.php:1280
+msgid "Category Layout"
+msgstr ""
+
+#: framework/redux-options.php:1037
+msgid "Select layout for all categories"
+msgstr ""
+
+#: framework/redux-options.php:1123 framework/redux-options.php:1358
+msgid "Show category title on top"
+msgstr ""
+
+#: framework/redux-options.php:1135 framework/redux-options.php:1369
+msgid "Category image"
+msgstr ""
+
+#: framework/redux-options.php:1169
+msgid ""
+"This are default setting for all categories. If you want to override this, "
+"please select custom settings for desired category below."
+msgstr ""
+
+#: framework/redux-options.php:1175 framework/redux-options.php:1421
+msgid "Top banner"
+msgstr ""
+
+#: framework/redux-options.php:1183 framework/redux-options.php:1429
+msgid "Bottom banner"
+msgstr ""
+
+#: framework/redux-options.php:1191 framework/redux-options.php:1437
+#: framework/redux-options.php:3704 framework/redux-options.php:3748
+#: framework/redux-options.php:3824 framework/redux-options.php:3868
+#: framework/redux-options.php:3911 framework/redux-options.php:3954
+#: framework/redux-options.php:3997 framework/redux-options.php:4040
+#: framework/redux-options.php:5302 framework/redux-options.php:5585
+msgid "Wallpaper Ad"
+msgstr ""
+
+#: framework/redux-options.php:1199 framework/redux-options.php:1446
+msgid "Banner in Layout"
+msgstr ""
+
+#: framework/redux-options.php:1200
+msgid "Do you want to divide layout with an ad?"
+msgstr ""
+
+#: framework/redux-options.php:1208 framework/redux-options.php:1454
+msgid "Show banner after row:"
+msgstr ""
+
+#: framework/redux-options.php:1213 framework/redux-options.php:1459
+msgid "0 for showing banner on top of category"
+msgstr ""
+
+#: framework/redux-options.php:1244 framework/redux-options.php:1260
+msgid "Select Category"
+msgstr ""
+
+#: framework/redux-options.php:1255
+msgid "Custom settings for top categories "
+msgstr ""
+
+#: framework/redux-options.php:1397
+msgid "Use this setting for child categories"
+msgstr ""
+
+#: framework/redux-options.php:1477
+msgid "Category Settings"
+msgstr ""
+
+#: framework/redux-options.php:1485
+msgid "Customize Categories"
+msgstr ""
+
+#: framework/redux-options.php:1495 framework/redux-options.php:4308
+msgid "Posts Settings"
+msgstr ""
+
+#: framework/redux-options.php:1503 framework/redux-options.php:2556
+msgid "Post Layout"
+msgstr ""
+
+#: framework/redux-options.php:1518 framework/redux-options.php:2571
+#: framework/redux-options.php:4332 framework/redux-options.php:5374
+msgid "Show full image height"
+msgstr ""
+
+#: framework/redux-options.php:1519 framework/redux-options.php:2572
+#: framework/redux-options.php:4333 framework/redux-options.php:5375
+msgid "Fit only horizontally"
+msgstr ""
+
+#: framework/redux-options.php:1528 framework/redux-options.php:4343
+msgid "Review Poster"
+msgstr ""
+
+#: framework/redux-options.php:1529
+msgid "Upload default poster for this layout"
+msgstr ""
+
+#: framework/redux-options.php:1530
+msgid "The image will be scaled to 310px in width"
+msgstr ""
+
+#: framework/redux-options.php:1560 framework/redux-options.php:2603
+#: framework/redux-options.php:4376
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: framework/redux-options.php:1567
+msgid "Enable Post Meta after Title"
+msgstr ""
+
+#: framework/redux-options.php:1595 framework/redux-options.php:4384
+msgid "Enable Tags after Content"
+msgstr ""
+
+#: framework/redux-options.php:1602 framework/redux-options.php:4392
+msgid "Enable Author Information"
+msgstr ""
+
+#: framework/redux-options.php:1609 framework/redux-options.php:4400
+msgid "Enable Prev/Next Posts"
+msgstr ""
+
+#: framework/redux-options.php:1618
+msgid "Related posts"
+msgstr ""
+
+#: framework/redux-options.php:1627 framework/redux-options.php:4464
+msgid "Related posts box at the bottom"
+msgstr ""
+
+#: framework/redux-options.php:1628 framework/redux-options.php:4465
+msgid ""
+"This box will be displayed at bottom of the post, after author box (if "
+"selected)."
+msgstr ""
+
+#: framework/redux-options.php:1633 framework/redux-options.php:4470
+msgid "Display related posts"
+msgstr ""
+
+#: framework/redux-options.php:1640 framework/redux-options.php:4475
+msgid "Filter related posts by"
+msgstr ""
+
+#: framework/redux-options.php:1641 framework/redux-options.php:1653
+#: framework/redux-options.php:1786 framework/redux-options.php:1879
+#: framework/redux-options.php:1972 framework/redux-options.php:4476
+#: framework/redux-options.php:4487 framework/redux-options.php:4605
+#: framework/redux-options.php:4703 framework/redux-options.php:4801
+msgid "Choose how to filter related posts"
+msgstr ""
+
+#: framework/redux-options.php:1652 framework/redux-options.php:4486
+msgid "Display Grid"
+msgstr ""
+
+#: framework/redux-options.php:1664 framework/redux-options.php:4497
+msgid "Title for related posts"
+msgstr ""
+
+#: framework/redux-options.php:1665
+msgid "Default: <i>\"Related Posts\"</i>"
+msgstr ""
+
+#: framework/redux-options.php:1672
+msgid "Posts Count"
+msgstr ""
+
+#: framework/redux-options.php:1673
+msgid "Default: <i>\"3\"</i>"
+msgstr ""
+
+#: framework/redux-options.php:1678
+msgid "Number of related posts to display"
+msgstr ""
+
+#: framework/redux-options.php:1684 framework/redux-options.php:1812
+#: framework/redux-options.php:1905 framework/redux-options.php:1998
+#: framework/redux-options.php:4505 framework/redux-options.php:4635
+#: framework/redux-options.php:4733 framework/redux-options.php:4830
+msgid "Posts offset"
+msgstr ""
+
+#: framework/redux-options.php:1685 framework/redux-options.php:1813
+#: framework/redux-options.php:1906 framework/redux-options.php:1999
+msgid "Default: <i>\"0\"</i> (No offset)"
+msgstr ""
+
+#: framework/redux-options.php:1686 framework/redux-options.php:1814
+#: framework/redux-options.php:1907 framework/redux-options.php:2000
+msgid "Number of post to displace or pass over"
+msgstr ""
+
+#: framework/redux-options.php:1711 framework/redux-options.php:4532
+msgid "Related posts box on the side"
+msgstr ""
+
+#: framework/redux-options.php:1712 framework/redux-options.php:4533
+msgid "This box will be displayed after post title."
+msgstr ""
+
+#: framework/redux-options.php:1717 framework/redux-options.php:4538
+msgid "Display related box"
+msgstr ""
+
+#: framework/redux-options.php:1724 framework/redux-options.php:4544
+msgid "Number of sections"
+msgstr ""
+
+#: framework/redux-options.php:1725 framework/redux-options.php:4545
+msgid "Number of sections in related box"
+msgstr ""
+
+#: framework/redux-options.php:1726 framework/redux-options.php:4546
+msgid "How many sections you want to have in related box"
+msgstr ""
+
+#: framework/redux-options.php:1738 framework/redux-options.php:4559
+msgid "Show box on"
+msgstr ""
+
+#: framework/redux-options.php:1739 framework/redux-options.php:4560
+msgid "Where to display related box"
+msgstr ""
+
+#: framework/redux-options.php:1752 framework/redux-options.php:4572
+msgid "First section data"
+msgstr ""
+
+#: framework/redux-options.php:1761 framework/redux-options.php:4581
+msgid "Section title"
+msgstr ""
+
+#: framework/redux-options.php:1770 framework/redux-options.php:1863
+#: framework/redux-options.php:1956 framework/redux-options.php:4590
+#: framework/redux-options.php:4688 framework/redux-options.php:4786
+msgid "Section format"
+msgstr ""
+
+#: framework/redux-options.php:1771 framework/redux-options.php:1864
+#: framework/redux-options.php:1957 framework/redux-options.php:4591
+#: framework/redux-options.php:4689 framework/redux-options.php:4787
+msgid "Choose how to format post layout"
+msgstr ""
+
+#: framework/redux-options.php:1785 framework/redux-options.php:1878
+#: framework/redux-options.php:1971 framework/redux-options.php:4604
+#: framework/redux-options.php:4702 framework/redux-options.php:4800
+msgid "Filter related box by"
+msgstr ""
+
+#: framework/redux-options.php:1800 framework/redux-options.php:1893
+#: framework/redux-options.php:1986 framework/redux-options.php:4620
+#: framework/redux-options.php:4718 framework/redux-options.php:4815
+msgid "Posts count"
+msgstr ""
+
+#: framework/redux-options.php:1801 framework/redux-options.php:1894
+#: framework/redux-options.php:1987 framework/redux-options.php:4625
+#: framework/redux-options.php:4723 framework/redux-options.php:4820
+msgid "Number of post to show"
+msgstr ""
+
+#: framework/redux-options.php:1845 framework/redux-options.php:4670
+msgid "Second section data"
+msgstr ""
+
+#: framework/redux-options.php:1854 framework/redux-options.php:4679
+msgid "Second Section title"
+msgstr ""
+
+#: framework/redux-options.php:1938 framework/redux-options.php:4768
+msgid "Third section data"
+msgstr ""
+
+#: framework/redux-options.php:1947 framework/redux-options.php:4777
+msgid "Third Section title"
+msgstr ""
+
+#: framework/redux-options.php:2030
+msgid "Review posts"
+msgstr ""
+
+#: framework/redux-options.php:2038 framework/redux-options.php:4882
+msgid "Review box position"
+msgstr ""
+
+#: framework/redux-options.php:2039 framework/redux-options.php:4883
+msgid ""
+"If you are using custom position then please use <strong>[review]</strong> "
+"shortcode to place the review box in any place within post content"
+msgstr ""
+
+#: framework/redux-options.php:2050 framework/redux-options.php:4895
+msgid "Review style"
+msgstr ""
+
+#: framework/redux-options.php:2061 framework/redux-options.php:4907
+msgid "Review summary type"
+msgstr ""
+
+#: framework/redux-options.php:2062 framework/redux-options.php:4908
+msgid "How to display review summary"
+msgstr ""
+
+#: framework/redux-options.php:2073 framework/redux-options.php:4955
+msgid "Number of criterias"
+msgstr ""
+
+#: framework/redux-options.php:2074 framework/redux-options.php:4956
+msgid "Size of a review"
+msgstr ""
+
+#: framework/redux-options.php:2075
+msgid ""
+"How many criteria fields you want to have. Selecting 0 will display only "
+"result."
+msgstr ""
+
+#: framework/redux-options.php:2093 framework/redux-options.php:4992
+msgid "#1 - Criteria name"
+msgstr ""
+
+#: framework/redux-options.php:2094 framework/redux-options.php:2104
+#: framework/redux-options.php:2114 framework/redux-options.php:2124
+#: framework/redux-options.php:2134 framework/redux-options.php:2144
+#: framework/redux-options.php:2154 framework/redux-options.php:2164
+#: framework/redux-options.php:4993 framework/redux-options.php:5020
+#: framework/redux-options.php:5047 framework/redux-options.php:5074
+#: framework/redux-options.php:5101 framework/redux-options.php:5128
+#: framework/redux-options.php:5155 framework/redux-options.php:5182
+msgid "Name of the review criteria"
+msgstr ""
+
+#: framework/redux-options.php:2103 framework/redux-options.php:5019
+msgid "#2 - Criteria name"
+msgstr ""
+
+#: framework/redux-options.php:2113 framework/redux-options.php:5046
+msgid "#3 - Criteria name"
+msgstr ""
+
+#: framework/redux-options.php:2123 framework/redux-options.php:5073
+msgid "#4 - Criteria name"
+msgstr ""
+
+#: framework/redux-options.php:2133 framework/redux-options.php:5100
+msgid "#5 - Criteria name"
+msgstr ""
+
+#: framework/redux-options.php:2143 framework/redux-options.php:5127
+msgid "#6 - Criteria name"
+msgstr ""
+
+#: framework/redux-options.php:2153 framework/redux-options.php:5154
+msgid "#7 - Criteria name"
+msgstr ""
+
+#: framework/redux-options.php:2163 framework/redux-options.php:5181
+msgid "#8 - Criteria name"
+msgstr ""
+
+#: framework/redux-options.php:2228
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/redux-options.php:2236
+msgid "Display social sharing buttons"
+msgstr ""
+
+#: framework/redux-options.php:2237
+msgid "Where to display buttons"
+msgstr ""
+
+#: framework/redux-options.php:2249
+msgid "Title Social Sharing"
+msgstr ""
+
+#: framework/redux-options.php:2250
+msgid "Default: <i>\"\"</i>"
+msgstr ""
+
+#: framework/redux-options.php:2257
+msgid "Social Sharing Styles"
+msgstr ""
+
+#: framework/redux-options.php:2258
+msgid "Select theme for buttons."
+msgstr ""
+
+#: framework/redux-options.php:2270
+msgid "Display Facebook button"
+msgstr ""
+
+#: framework/redux-options.php:2271
+msgid "How to display Facebook button"
+msgstr ""
+
+#: framework/redux-options.php:2287
+msgid "Display Twitter button"
+msgstr ""
+
+#: framework/redux-options.php:2288
+msgid "How to display Twitter button"
+msgstr ""
+
+#: framework/redux-options.php:2304
+msgid "Display Google button"
+msgstr ""
+
+#: framework/redux-options.php:2305
+msgid "How to display Google button"
+msgstr ""
+
+#: framework/redux-options.php:2321
+msgid "Display LinkedIn button"
+msgstr ""
+
+#: framework/redux-options.php:2322
+msgid "How to display LinkedIn button"
+msgstr ""
+
+#: framework/redux-options.php:2338
+msgid "Display Pinterest button"
+msgstr ""
+
+#: framework/redux-options.php:2339
+msgid "How to display Pinterest button"
+msgstr ""
+
+#: framework/redux-options.php:2354
+msgid "Comments Settings"
+msgstr ""
+
+#: framework/redux-options.php:2362
+msgid "Comments Location"
+msgstr ""
+
+#: framework/redux-options.php:2363
+msgid "Where to display comments?"
+msgstr ""
+
+#: framework/redux-options.php:2374
+msgid "Show Facebook Comments"
+msgstr ""
+
+#: framework/redux-options.php:2375
+msgid "This will disable standard comments"
+msgstr ""
+
+#: framework/redux-options.php:2381
+msgid "Number of Comments"
+msgstr ""
+
+#: framework/redux-options.php:2386
+msgid "The number of comments to show by default."
+msgstr ""
+
+#: framework/redux-options.php:2393
+msgid "Facebook localization"
+msgstr ""
+
+#: framework/redux-options.php:2394
+msgid "Open Graph internationalization"
+msgstr ""
+
+#: framework/redux-options.php:2538
+msgid "Facebook App ID"
+msgstr ""
+
+#: framework/redux-options.php:2539
+msgid "For Comments Moderation"
+msgstr ""
+
+#: framework/redux-options.php:2548
+msgid "Pages Settings"
+msgstr ""
+
+#: framework/redux-options.php:2611
+msgid "404 Page"
+msgstr ""
+
+#: framework/redux-options.php:2640
+msgid "Show latest posts"
+msgstr ""
+
+#: framework/redux-options.php:2641
+msgid "Show latest posts below search"
+msgstr ""
+
+#: framework/redux-options.php:2649
+msgid "Latest posts title"
+msgstr ""
+
+#: framework/redux-options.php:2650
+msgid "Our latest posts"
+msgstr ""
+
+#: framework/redux-options.php:2656 framework/redux-options.php:2743
+#: framework/redux-options.php:2871 framework/redux-options.php:3100
+#: framework/redux-options.php:3237
+msgid "Posts layout"
+msgstr ""
+
+#: framework/redux-options.php:2735
+msgid "Archive Page"
+msgstr ""
+
+#: framework/redux-options.php:2863
+msgid "Author Page"
+msgstr ""
+
+#: framework/redux-options.php:2957
+msgid "News archive Title"
+msgstr ""
+
+#: framework/redux-options.php:2958
+msgid "News archive"
+msgstr ""
+
+#: framework/redux-options.php:2984
+msgid "Enable author's meta"
+msgstr ""
+
+#: framework/redux-options.php:2985 framework/redux-options.php:3061
+msgid "No. of posts, comments and views"
+msgstr ""
+
+#: framework/redux-options.php:2992 framework/redux-options.php:3060
+msgid "Display author's meta"
+msgstr ""
+
+#: framework/redux-options.php:2993
+msgid "Select what you want to display"
+msgstr ""
+
+#: framework/redux-options.php:3012
+msgid "Team of Authors Page"
+msgstr ""
+
+#: framework/redux-options.php:3020
+msgid "Authors per page"
+msgstr ""
+
+#: framework/redux-options.php:3021
+msgid "Number of authors per page"
+msgstr ""
+
+#: framework/redux-options.php:3026
+msgid "0 for displaying all authors"
+msgstr ""
+
+#: framework/redux-options.php:3032
+msgid "Order Authors by"
+msgstr ""
+
+#: framework/redux-options.php:3048
+msgid "Order"
+msgstr ""
+
+#: framework/redux-options.php:3049
+msgid "Ascending or descending"
+msgstr ""
+
+#: framework/redux-options.php:3068
+msgid "Include Authors Roles"
+msgstr ""
+
+#: framework/redux-options.php:3069
+msgid "Select one or more"
+msgstr ""
+
+#: framework/redux-options.php:3084
+msgid "Exclude Authors"
+msgstr ""
+
+#: framework/redux-options.php:3085
+msgid "Don't display these authors"
+msgstr ""
+
+#: framework/redux-options.php:3086
+msgid "List of authots id, separated by commas (e.g. 2,3,5)."
+msgstr ""
+
+#: framework/redux-options.php:3092
+msgid "Search Page"
+msgstr ""
+
+#: framework/redux-options.php:3229
+msgid "Tag Page"
+msgstr ""
+
+#: framework/redux-options.php:3346
+msgid "bbPress Page"
+msgstr ""
+
+#: framework/redux-options.php:3377
+msgid "WooCommerce Page"
+msgstr ""
+
+#: framework/redux-options.php:3410
+msgid "Sidebars"
+msgstr ""
+
+#: framework/redux-options.php:3417
+msgid "My Sidebars"
+msgstr ""
+
+#: framework/redux-options.php:3418
+msgid "Add/remove your sidebars"
+msgstr ""
+
+#: framework/redux-options.php:3419
+msgid "Add sidebar"
+msgstr ""
+
+#: framework/redux-options.php:3425
+msgid "Enable sticky sidebar"
+msgstr ""
+
+#: framework/redux-options.php:3426
+msgid "Set sidebar to be sticky"
+msgstr ""
+
+#: framework/redux-options.php:3435 framework/redux-typography.php:1557
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/redux-options.php:3444 framework/redux-typography.php:1564
+msgid "Top Section"
+msgstr ""
+
+#: framework/redux-options.php:3559 framework/redux-typography.php:1670
+msgid "Bottom Section"
+msgstr ""
+
+#: framework/redux-options.php:3685
+msgid "These are global settings"
+msgstr ""
+
+#: framework/redux-options.php:3690 framework/redux-options.php:3734
+#: framework/redux-options.php:3785 framework/redux-options.php:3854
+#: framework/redux-options.php:3897 framework/redux-options.php:3940
+#: framework/redux-options.php:3983 framework/redux-options.php:4026
+#: framework/redux-options.php:5266 framework/redux-options.php:5577
+msgid "Top Ad"
+msgstr ""
+
+#: framework/redux-options.php:3697 framework/redux-options.php:3741
+#: framework/redux-options.php:3792 framework/redux-options.php:3861
+#: framework/redux-options.php:3904 framework/redux-options.php:3947
+#: framework/redux-options.php:3990 framework/redux-options.php:4033
+msgid "Bottom Ad"
+msgstr ""
+
+#: framework/redux-options.php:3711 framework/redux-options.php:3755
+#: framework/redux-options.php:3832 framework/redux-options.php:3875
+#: framework/redux-options.php:3918 framework/redux-options.php:3961
+#: framework/redux-options.php:4004 framework/redux-options.php:4047
+#: framework/redux-options.php:5310 framework/redux-options.php:5593
+msgid "Left Side Ad"
+msgstr ""
+
+#: framework/redux-options.php:3718 framework/redux-options.php:3762
+#: framework/redux-options.php:3839 framework/redux-options.php:3882
+#: framework/redux-options.php:3925 framework/redux-options.php:3968
+#: framework/redux-options.php:4011 framework/redux-options.php:4054
+#: framework/redux-options.php:5318 framework/redux-options.php:5601
+msgid "Right Side Ad"
+msgstr ""
+
+#: framework/redux-options.php:3726
+msgid "Ads for Homepage"
+msgstr ""
+
+#: framework/redux-options.php:3770 framework/redux-options.php:3849
+msgid "Ads for Pages"
+msgstr ""
+
+#: framework/redux-options.php:3780
+msgid "Ads for Posts"
+msgstr ""
+
+#: framework/redux-options.php:3799 framework/redux-options.php:5275
+msgid "Post Ad 1"
+msgstr ""
+
+#: framework/redux-options.php:3800 framework/redux-options.php:5276
+msgid "Before the post"
+msgstr ""
+
+#: framework/redux-options.php:3807 framework/redux-options.php:5284
+msgid "Post Ad 2"
+msgstr ""
+
+#: framework/redux-options.php:3808 framework/redux-options.php:5285
+msgid "Before post content (after image)"
+msgstr ""
+
+#: framework/redux-options.php:3815 framework/redux-options.php:5293
+msgid "Post Ad 3"
+msgstr ""
+
+#: framework/redux-options.php:3816 framework/redux-options.php:5294
+msgid "After the post"
+msgstr ""
+
+#: framework/redux-options.php:3892
+msgid "Ads for Author Page"
+msgstr ""
+
+#: framework/redux-options.php:3935
+msgid "Ads for Archive Page"
+msgstr ""
+
+#: framework/redux-options.php:3978
+msgid "Ads for bbPress Page"
+msgstr ""
+
+#: framework/redux-options.php:4021
+msgid "Ads for WooCommerce Page"
+msgstr ""
+
+#: framework/redux-options.php:4062
+msgid "Ads for Categories"
+msgstr ""
+
+#: framework/redux-options.php:4070
+msgid "Ads for Mobile"
+msgstr ""
+
+#: framework/redux-options.php:4078
+msgid "Header Ad"
+msgstr ""
+
+#: framework/redux-options.php:4088
+msgid "Advanced Settings"
+msgstr ""
+
+#: framework/redux-options.php:4094
+msgid "Simple Page title"
+msgstr ""
+
+#: framework/redux-options.php:4095
+msgid "Enable this if you have problem with page titles."
+msgstr ""
+
+#: framework/redux-options.php:4101
+msgid "Enable Open Graph Featured image"
+msgstr ""
+
+#: framework/redux-options.php:4102
+msgid "Enable this if you don't have any SEO plugins installed."
+msgstr ""
+
+#: framework/redux-options.php:4108
+msgid "Use minified CSS and JS files"
+msgstr ""
+
+#: framework/redux-options.php:4109
+msgid "Enable this if you don't have any minify plugins installed."
+msgstr ""
+
+#: framework/redux-options.php:4115
+msgid "Disable Emoji"
+msgstr ""
+
+#: framework/redux-options.php:4116
+msgid "Disable this if you don't need them (WordPress default install)."
+msgstr ""
+
+#: framework/redux-options.php:4123
+msgid "Google Analytics Code"
+msgstr ""
+
+#: framework/redux-options.php:4124
+msgid ""
+"Here you can paste your Google Analytics code (not your id). If you don't "
+"have it or you are already using one, just leave blank. Don't use <b>&lt;"
+"script&gt;</b> tags."
+msgstr ""
+
+#: framework/redux-options.php:4131
+msgid "Custom CSS Code"
+msgstr ""
+
+#: framework/redux-options.php:4132
+msgid ""
+"e.g. #header{ background: #000; }<br> Don't use <b>&lt;style&gt;</b> tags"
+msgstr ""
+
+#: framework/redux-options.php:4133
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/redux-options.php:4142
+msgid "Custom JS Code (Header)"
+msgstr ""
+
+#: framework/redux-options.php:4143 framework/redux-options.php:4152
+msgid ""
+"e.g. alert(\"Hello World!\");<br> Don't use <b>&lt;script&gt;</b> tags or "
+"<strong>document.ready</strong>"
+msgstr ""
+
+#: framework/redux-options.php:4144 framework/redux-options.php:4153
+msgid "Paste your JS code here."
+msgstr ""
+
+#: framework/redux-options.php:4151
+msgid "Custom JS Code (Footer)"
+msgstr ""
+
+#: framework/redux-options.php:4159
+msgid "Register jQuery in footer"
+msgstr ""
+
+#: framework/redux-options.php:4160
+msgid "Disable this if you have problems with other plugins!"
+msgstr ""
+
+#: framework/redux-options.php:4167
+msgid "Ajax Pagination Timer"
+msgstr ""
+
+#: framework/redux-options.php:4168
+msgid "Use higher settings if pagination is overlapping!"
+msgstr ""
+
+#: framework/redux-options.php:4179
+msgid "Datetime Settings"
+msgstr ""
+
+#: framework/redux-options.php:4180
+msgid ""
+"Please, check this tutorial on <a href=\"http://codex.wordpress.org/"
+"Formatting_Date_and_Time\" target=\"_blank\">how to format Date and Time</a>"
+msgstr ""
+
+#: framework/redux-options.php:4187
+msgid "Default date format"
+msgstr ""
+
+#: framework/redux-options.php:4188 framework/redux-options.php:4204
+msgid "Main content and posts"
+msgstr ""
+
+#: framework/redux-options.php:4189 framework/redux-options.php:4213
+msgid "(e.g.: November 6th, 2014)"
+msgstr ""
+
+#: framework/redux-options.php:4195
+msgid "Default short date format"
+msgstr ""
+
+#: framework/redux-options.php:4196
+msgid "Image layouts"
+msgstr ""
+
+#: framework/redux-options.php:4197 framework/redux-options.php:4221
+msgid "(e.g.: Nov 6th, 2014)"
+msgstr ""
+
+#: framework/redux-options.php:4203
+msgid "Default time format"
+msgstr ""
+
+#: framework/redux-options.php:4205
+msgid "(e.g.: 12:50 AM)"
+msgstr ""
+
+#: framework/redux-options.php:4211
+msgid "Header date format"
+msgstr ""
+
+#: framework/redux-options.php:4212
+msgid "Header widget"
+msgstr ""
+
+#: framework/redux-options.php:4219
+msgid "Sidebar date format"
+msgstr ""
+
+#: framework/redux-options.php:4220
+msgid "Shorter date to fit"
+msgstr ""
+
+#: framework/redux-options.php:4227
+msgid "Timeline date format"
+msgstr ""
+
+#: framework/redux-options.php:4228
+msgid "Timeline Widget"
+msgstr ""
+
+#: framework/redux-options.php:4229
+msgid "(e.g.: Nov 6th)"
+msgstr ""
+
+#: framework/redux-options.php:4238
+msgid "Favicons"
+msgstr ""
+
+#: framework/redux-options.php:4247
+msgid "Favicon 16x16 pixels (ico)"
+msgstr ""
+
+#: framework/redux-options.php:4248
+msgid "The 16x16 favicon is the most used on all browsers."
+msgstr ""
+
+#: framework/redux-options.php:4254
+msgid "Apple Touch Icon 57x57 pixels (png)"
+msgstr ""
+
+#: framework/redux-options.php:4255
+msgid "For non-Retina iPhone, iPod Touch, and Android 2.1+ devices"
+msgstr ""
+
+#: framework/redux-options.php:4261
+msgid "Apple Touch Icon 76x76 pixels (png)"
+msgstr ""
+
+#: framework/redux-options.php:4262
+msgid "Size for iPad 2 and iPad mini (standard resolution)"
+msgstr ""
+
+#: framework/redux-options.php:4268
+msgid "Apple Touch Icon 120x120 pixels (png)"
+msgstr ""
+
+#: framework/redux-options.php:4269
+msgid "Size for iPhone and iPod touch (high resolution)"
+msgstr ""
+
+#: framework/redux-options.php:4275
+msgid "Apple Touch Icon 152x152 pixels (png)"
+msgstr ""
+
+#: framework/redux-options.php:4276
+msgid "Size for iPad and iPad mini (high resolution)"
+msgstr ""
+
+#: framework/redux-options.php:4310 framework/redux-options.php:5353
+msgid "This options overides your global settings."
+msgstr ""
+
+#: framework/redux-options.php:4315
+msgid "Post layout"
+msgstr ""
+
+#: framework/redux-options.php:4316
+msgid "Select layout for this post."
+msgstr ""
+
+#: framework/redux-options.php:4344
+msgid "Upload poster for this layout"
+msgstr ""
+
+#: framework/redux-options.php:4355
+msgid "Select main sidebar position for this post."
+msgstr ""
+
+#: framework/redux-options.php:4408
+msgid "Display Via & Source"
+msgstr ""
+
+#: framework/redux-options.php:4414
+msgid "Via Title"
+msgstr ""
+
+#: framework/redux-options.php:4421
+msgid "Via name"
+msgstr ""
+
+#: framework/redux-options.php:4427
+msgid "Via URL"
+msgstr ""
+
+#: framework/redux-options.php:4433
+msgid "Source Title"
+msgstr ""
+
+#: framework/redux-options.php:4440
+msgid "Source name"
+msgstr ""
+
+#: framework/redux-options.php:4446
+msgid "Source URL"
+msgstr ""
+
+#: framework/redux-options.php:4455
+msgid "Related posts boxes"
+msgstr ""
+
+#: framework/redux-options.php:4456
+msgid "Your selection overrides global theme options"
+msgstr ""
+
+#: framework/redux-options.php:4498
+msgid "Default: \"Related Posts\""
+msgstr ""
+
+#: framework/redux-options.php:4510 framework/redux-options.php:4640
+#: framework/redux-options.php:4738 framework/redux-options.php:4835
+msgid "Number of post to displace or pass over (0 for no offset)"
+msgstr ""
+
+#: framework/redux-options.php:4866
+msgid "Review post settings"
+msgstr ""
+
+#: framework/redux-options.php:4872
+msgid "Display review"
+msgstr ""
+
+#: framework/redux-options.php:4919
+msgid "Review summary"
+msgstr ""
+
+#: framework/redux-options.php:4928
+msgid "Review summary (The Good)"
+msgstr ""
+
+#: framework/redux-options.php:4929 framework/redux-options.php:4939
+msgid "Hit enter for line breaks. It will be replaced with a list."
+msgstr ""
+
+#: framework/redux-options.php:4938
+msgid "Review summary (The Bad)"
+msgstr ""
+
+#: framework/redux-options.php:4948
+msgid "Text appears under the total score"
+msgstr ""
+
+#: framework/redux-options.php:4957
+msgid "How many criteria fields you want to have"
+msgstr ""
+
+#: framework/redux-options.php:4976
+msgid "#0 - Review value"
+msgstr ""
+
+#: framework/redux-options.php:4977 framework/redux-options.php:5004
+#: framework/redux-options.php:5031 framework/redux-options.php:5058
+#: framework/redux-options.php:5085 framework/redux-options.php:5112
+#: framework/redux-options.php:5139 framework/redux-options.php:5166
+#: framework/redux-options.php:5193
+msgid "Min: 0, max: 100, step: 1, default value: 75"
+msgstr ""
+
+#: framework/redux-options.php:5003
+msgid "#1 - Criteria value"
+msgstr ""
+
+#: framework/redux-options.php:5030
+msgid "#2 - Criteria value"
+msgstr ""
+
+#: framework/redux-options.php:5057
+msgid "#3 - Criteria value"
+msgstr ""
+
+#: framework/redux-options.php:5084
+msgid "#4 - Criteria value"
+msgstr ""
+
+#: framework/redux-options.php:5111
+msgid "#5 - Criteria value"
+msgstr ""
+
+#: framework/redux-options.php:5138
+msgid "#6 - Criteria value"
+msgstr ""
+
+#: framework/redux-options.php:5165
+msgid "#7 - Criteria value"
+msgstr ""
+
+#: framework/redux-options.php:5192
+msgid "#8 - Criteria value"
+msgstr ""
+
+#: framework/redux-options.php:5211
+msgid "Audio post settings"
+msgstr ""
+
+#: framework/redux-options.php:5217
+msgid "Audio embed"
+msgstr ""
+
+#: framework/redux-options.php:5218 framework/redux-options.php:5254
+msgid ""
+"Paste an embed link and it will be embeded in the post instead of featured "
+"image"
+msgstr ""
+
+#: framework/redux-options.php:5223
+msgid "Audio title"
+msgstr ""
+
+#: framework/redux-options.php:5228
+msgid "Audio author"
+msgstr ""
+
+#: framework/redux-options.php:5234
+msgid "Video post settings"
+msgstr ""
+
+#: framework/redux-options.php:5240 framework/redux-options.php:5550
+msgid "Video URL"
+msgstr ""
+
+#: framework/redux-options.php:5241 framework/redux-options.php:5551
+msgid ""
+"Paste a link from Youtube, Vimeo or Dailymotion and it will be embeded in "
+"the post instead of featured image. This has higher prioriry than embed code."
+msgstr ""
+
+#: framework/redux-options.php:5246 framework/redux-options.php:5556
+msgid "Overwrite thumbnail"
+msgstr ""
+
+#: framework/redux-options.php:5247 framework/redux-options.php:5557
+msgid "Do you want to overwrite thumbnail if exist with video thumbnail?"
+msgstr ""
+
+#: framework/redux-options.php:5253 framework/redux-options.php:5563
+msgid "Video embed"
+msgstr ""
+
+#: framework/redux-options.php:5267
+msgid "Below the header"
+msgstr ""
+
+#: framework/redux-options.php:5331
+msgid "Post Options"
+msgstr ""
+
+#: framework/redux-options.php:5351
+msgid "Page Settings"
+msgstr ""
+
+#: framework/redux-options.php:5358
+msgid "Page layout"
+msgstr ""
+
+#: framework/redux-options.php:5359
+msgid "Select layout for this page."
+msgstr ""
+
+#: framework/redux-options.php:5384
+msgid "Select main sidebar position for this page."
+msgstr ""
+
+#: framework/redux-options.php:5416
+msgid "Enable unique posts"
+msgstr ""
+
+#: framework/redux-options.php:5446
+msgid "Top Grid"
+msgstr ""
+
+#: framework/redux-options.php:5544
+msgid "Video page settings"
+msgstr ""
+
+#: framework/redux-options.php:5564
+msgid ""
+"Paste an embed link and it will be embeded in the post instead of featured "
+"image."
+msgstr ""
+
+#: framework/redux-options.php:5611
+msgid "Page Options"
+msgstr ""
+
+#: framework/redux-options.php:5629
+msgid "Edit Your Ad"
+msgstr ""
+
+#: framework/redux-options.php:5636
+msgid "Ad Display"
+msgstr ""
+
+#: framework/redux-options.php:5647
+msgid "Ad Type"
+msgstr ""
+
+#: framework/redux-options.php:5656 framework/redux-options.php:5684
+msgid "Ad Size"
+msgstr ""
+
+#: framework/redux-options.php:5657 framework/redux-options.php:5685
+msgid "Select your ad size"
+msgstr ""
+
+#: framework/redux-options.php:5697
+msgid "Top Banner image"
+msgstr ""
+
+#: framework/redux-options.php:5705
+msgid "Banner URL"
+msgstr ""
+
+#: framework/redux-options.php:5706
+msgid "Link target for image banner (e.g. http://themes.mipdesign.com)"
+msgstr ""
+
+#: framework/redux-options.php:5712
+msgid "URL Behaviour"
+msgstr ""
+
+#: framework/redux-options.php:5723
+msgid "Banner Click Event"
+msgstr ""
+
+#: framework/redux-options.php:5730
+msgid "Banner Embed Code"
+msgstr ""
+
+#: framework/redux-options.php:5740
+msgid "Ads Settings"
+msgstr ""
+
+#: framework/redux-options.php:5763
+msgid "Image Caption"
+msgstr ""
+
+#: framework/redux-options.php:5770
+msgid "Featured Image Caption"
+msgstr ""
+
+#: framework/redux-options.php:5863
+msgid "Section via hook"
+msgstr ""
+
+#: framework/redux-options.php:5864
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: framework/redux-typography.php:37 framework/redux-typography.php:38
+msgid "Theme Typography"
+msgstr ""
+
+#: framework/redux-typography.php:155
+msgid "Gemeral Setting"
+msgstr ""
+
+#: framework/redux-typography.php:161
+msgid "Body Font"
+msgstr ""
+
+#: framework/redux-typography.php:162
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/redux-typography.php:172
+msgid "Theme Main Color"
+msgstr ""
+
+#: framework/redux-typography.php:173
+msgid "Pick a color for the theme (default: #f1a602)."
+msgstr ""
+
+#: framework/redux-typography.php:182 framework/redux-typography.php:216
+#: framework/redux-typography.php:621 framework/redux-typography.php:720
+#: framework/redux-typography.php:819 framework/redux-typography.php:1244
+#: framework/redux-typography.php:1315 framework/redux-typography.php:1407
+#: framework/redux-typography.php:1572 framework/redux-typography.php:1678
+#: wp-admin/tinymce/config.php:69
+msgid "Background Color"
+msgstr ""
+
+#: framework/redux-typography.php:183 framework/redux-typography.php:1408
+#: framework/redux-typography.php:1573 framework/redux-typography.php:1679
+msgid "Pick a color for sidebar"
+msgstr ""
+
+#: framework/redux-typography.php:217 framework/redux-typography.php:1245
+#: framework/redux-typography.php:1316
+msgid "Pick a color for box background"
+msgstr ""
+
+#: framework/redux-typography.php:227
+msgid "Search widget"
+msgstr ""
+
+#: framework/redux-typography.php:229 framework/redux-typography.php:263
+msgid "You have to enable this layout under Theme Options > Header Settings"
+msgstr ""
+
+#: framework/redux-typography.php:234
+msgid "Search widget border color"
+msgstr ""
+
+#: framework/redux-typography.php:235 framework/redux-typography.php:244
+#: framework/redux-typography.php:253 framework/redux-typography.php:269
+#: framework/redux-typography.php:278 framework/redux-typography.php:287
+#: framework/redux-typography.php:296 framework/redux-typography.php:305
+#: framework/redux-typography.php:314 framework/redux-typography.php:1386
+msgid "Pick a color"
+msgstr ""
+
+#: framework/redux-typography.php:243
+msgid "Search widget input color"
+msgstr ""
+
+#: framework/redux-typography.php:252
+msgid "Search widget icon color (search icon)"
+msgstr ""
+
+#: framework/redux-typography.php:261
+msgid "Weather widget"
+msgstr ""
+
+#: framework/redux-typography.php:268
+msgid "Weather Title Color (City)"
+msgstr ""
+
+#: framework/redux-typography.php:277
+msgid "Weather Temperature"
+msgstr ""
+
+#: framework/redux-typography.php:286
+msgid "Weather Date (if displayed)"
+msgstr ""
+
+#: framework/redux-typography.php:295
+msgid "Weather Description (if displayed)"
+msgstr ""
+
+#: framework/redux-typography.php:304
+msgid "Weather Icon"
+msgstr ""
+
+#: framework/redux-typography.php:313
+msgid "Weather Location Icon"
+msgstr ""
+
+#: framework/redux-typography.php:332
+msgid "Top Navigation Height"
+msgstr ""
+
+#: framework/redux-typography.php:333
+msgid "Set Top Navigation height"
+msgstr ""
+
+#: framework/redux-typography.php:334 framework/redux-typography.php:402
+msgid ""
+"If you change this value, please change the \"line-height\" value for all "
+"the elements as well."
+msgstr ""
+
+#: framework/redux-typography.php:346
+msgid "Current date (if displayed)"
+msgstr ""
+
+#: framework/redux-typography.php:347 framework/redux-typography.php:362
+#: framework/redux-typography.php:377 framework/redux-typography.php:471
+#: framework/redux-typography.php:920 framework/redux-typography.php:949
+#: framework/redux-typography.php:1017 framework/redux-typography.php:1047
+#: framework/redux-typography.php:1116 framework/redux-typography.php:1132
+#: framework/redux-typography.php:1147 framework/redux-typography.php:1162
+#: framework/redux-typography.php:1177 framework/redux-typography.php:1192
+#: framework/redux-typography.php:1207 framework/redux-typography.php:1222
+#: framework/redux-typography.php:1256 framework/redux-typography.php:1282
+#: framework/redux-typography.php:1336 framework/redux-typography.php:1361
+msgid "Specify the font properties."
+msgstr ""
+
+#: framework/redux-typography.php:361 framework/redux-typography.php:470
+msgid "Menu Links"
+msgstr ""
+
+#: framework/redux-typography.php:376
+msgid "Social Links"
+msgstr ""
+
+#: framework/redux-typography.php:400
+msgid "Main Navigation Height"
+msgstr ""
+
+#: framework/redux-typography.php:401
+msgid "Set Main Navigation height"
+msgstr ""
+
+#: framework/redux-typography.php:414 framework/redux-typography.php:538
+msgid "Menu Background Color"
+msgstr ""
+
+#: framework/redux-typography.php:415 framework/redux-typography.php:622
+#: framework/redux-typography.php:721 framework/redux-typography.php:820
+#: framework/redux-typography.php:1295
+msgid "Pick a background color"
+msgstr ""
+
+#: framework/redux-typography.php:425
+msgid "Menu Border Top"
+msgstr ""
+
+#: framework/redux-typography.php:426 framework/redux-typography.php:439
+msgid "Set top border in px"
+msgstr ""
+
+#: framework/redux-typography.php:438
+msgid "Menu Border Bottom"
+msgstr ""
+
+#: framework/redux-typography.php:440
+msgid ""
+"If you are using bottom border, you have to decrease line height of \"Menu "
+"Links\" for that border height"
+msgstr ""
+
+#: framework/redux-typography.php:452
+msgid "Menu Border Color"
+msgstr ""
+
+#: framework/redux-typography.php:453
+msgid "Pick a border"
+msgstr ""
+
+#: framework/redux-typography.php:463
+msgid "Center the Menu Navigation"
+msgstr ""
+
+#: framework/redux-typography.php:464
+msgid "Enable this if you want to center main navigation!"
+msgstr ""
+
+#: framework/redux-typography.php:488
+msgid "Menu Link Color"
+msgstr ""
+
+#: framework/redux-typography.php:489 framework/redux-typography.php:514
+#: framework/redux-typography.php:935 framework/redux-typography.php:964
+#: framework/redux-typography.php:1033 framework/redux-typography.php:1063
+#: framework/redux-typography.php:1269
+msgid "Specify the Link color"
+msgstr ""
+
+#: framework/redux-typography.php:502
+msgid "Menu Link Hover Background Color"
+msgstr ""
+
+#: framework/redux-typography.php:503
+msgid "Pick a color for link hover on first level"
+msgstr ""
+
+#: framework/redux-typography.php:513
+msgid "Search & Social Link Color"
+msgstr ""
+
+#: framework/redux-typography.php:539
+msgid "Pick a background-color"
+msgstr ""
+
+#: framework/redux-typography.php:551
+msgid "Content & Posts Settings"
+msgstr ""
+
+#: framework/redux-typography.php:558
+msgid "Content Background Color"
+msgstr ""
+
+#: framework/redux-typography.php:559
+msgid "Pick a background color for content"
+msgstr ""
+
+#: framework/redux-typography.php:570
+msgid "Content Border Color"
+msgstr ""
+
+#: framework/redux-typography.php:571 framework/redux-typography.php:604
+#: framework/redux-typography.php:642 framework/redux-typography.php:741
+#: framework/redux-typography.php:840 framework/redux-typography.php:1435
+#: framework/redux-typography.php:1473 framework/redux-typography.php:1484
+#: framework/redux-typography.php:1587
+msgid "Pick a color for border"
+msgstr ""
+
+#: framework/redux-typography.php:583
+msgid "Visual Composer Blocks"
+msgstr ""
+
+#: framework/redux-typography.php:591
+msgid "VC Block Type"
+msgstr ""
+
+#: framework/redux-typography.php:592
+msgid "Block display type"
+msgstr ""
+
+#: framework/redux-typography.php:603 framework/redux-typography.php:1325
+msgid "Border Color"
+msgstr ""
+
+#: framework/redux-typography.php:613
+msgid "Visual Composer Block Style One"
+msgstr ""
+
+#: framework/redux-typography.php:615 framework/redux-typography.php:714
+#: framework/redux-typography.php:813
+msgid "This is available only in \"shadow\" and \"border\" mode."
+msgstr ""
+
+#: framework/redux-typography.php:631 framework/redux-typography.php:730
+#: framework/redux-typography.php:829
+msgid "Header Title Color"
+msgstr ""
+
+#: framework/redux-typography.php:632 framework/redux-typography.php:731
+#: framework/redux-typography.php:830
+msgid "Pick a color for header title"
+msgstr ""
+
+#: framework/redux-typography.php:641 framework/redux-typography.php:740
+#: framework/redux-typography.php:839
+msgid "Header Border Color"
+msgstr ""
+
+#: framework/redux-typography.php:651 framework/redux-typography.php:750
+#: framework/redux-typography.php:849
+msgid "Post Title Color"
+msgstr ""
+
+#: framework/redux-typography.php:652 framework/redux-typography.php:751
+#: framework/redux-typography.php:850
+msgid "Pick a color for post title"
+msgstr ""
+
+#: framework/redux-typography.php:661 framework/redux-typography.php:760
+#: framework/redux-typography.php:859
+msgid "Post Category Color"
+msgstr ""
+
+#: framework/redux-typography.php:662 framework/redux-typography.php:761
+#: framework/redux-typography.php:860
+msgid "Pick a color for post category"
+msgstr ""
+
+#: framework/redux-typography.php:671 framework/redux-typography.php:770
+#: framework/redux-typography.php:869
+msgid "Post Meta Color"
+msgstr ""
+
+#: framework/redux-typography.php:672 framework/redux-typography.php:771
+#: framework/redux-typography.php:870
+msgid "Pick a color for post meta"
+msgstr ""
+
+#: framework/redux-typography.php:681 framework/redux-typography.php:780
+#: framework/redux-typography.php:879
+msgid "Post Text Color"
+msgstr ""
+
+#: framework/redux-typography.php:682 framework/redux-typography.php:781
+#: framework/redux-typography.php:880
+msgid "Pick a color for post text"
+msgstr ""
+
+#: framework/redux-typography.php:691 framework/redux-typography.php:790
+#: framework/redux-typography.php:889
+msgid "Post Ajax Navigation Arrow Color"
+msgstr ""
+
+#: framework/redux-typography.php:692 framework/redux-typography.php:791
+#: framework/redux-typography.php:890
+msgid "Pick a color for post navigation arrow"
+msgstr ""
+
+#: framework/redux-typography.php:701 framework/redux-typography.php:800
+#: framework/redux-typography.php:899
+msgid "Post Ajax Navigation Border Color"
+msgstr ""
+
+#: framework/redux-typography.php:702 framework/redux-typography.php:801
+#: framework/redux-typography.php:900
+msgid "Pick a color for post navigation border"
+msgstr ""
+
+#: framework/redux-typography.php:712
+msgid "Visual Composer Block Style Two"
+msgstr ""
+
+#: framework/redux-typography.php:811
+msgid "Visual Composer Block Style Three"
+msgstr ""
+
+#: framework/redux-typography.php:911
+msgid "Posts Standard Layouts"
+msgstr ""
+
+#: framework/redux-typography.php:919 framework/redux-typography.php:1016
+#: framework/redux-typography.php:1131
+msgid "Heading H2"
+msgstr ""
+
+#: framework/redux-typography.php:934 framework/redux-typography.php:1032
+msgid "Heading H2 Link Color"
+msgstr ""
+
+#: framework/redux-typography.php:948 framework/redux-typography.php:1046
+#: framework/redux-typography.php:1146
+msgid "Heading H3"
+msgstr ""
+
+#: framework/redux-typography.php:963 framework/redux-typography.php:1062
+msgid "Heading H3 Link Color"
+msgstr ""
+
+#: framework/redux-typography.php:977 framework/redux-typography.php:1076
+msgid "Post Meta Elements"
+msgstr ""
+
+#: framework/redux-typography.php:978 framework/redux-typography.php:992
+#: framework/redux-typography.php:1077 framework/redux-typography.php:1091
+msgid "Date, Author, Comments, Views..."
+msgstr ""
+
+#: framework/redux-typography.php:991 framework/redux-typography.php:1090
+msgid "Post Category"
+msgstr ""
+
+#: framework/redux-typography.php:1008
+msgid "Posts Image Layouts"
+msgstr ""
+
+#: framework/redux-typography.php:1107
+msgid "Posts Article"
+msgstr ""
+
+#: framework/redux-typography.php:1115
+msgid "Heading H1"
+msgstr ""
+
+#: framework/redux-typography.php:1161
+msgid "Heading H4"
+msgstr ""
+
+#: framework/redux-typography.php:1176
+msgid "Heading H5"
+msgstr ""
+
+#: framework/redux-typography.php:1191
+msgid "Heading H6"
+msgstr ""
+
+#: framework/redux-typography.php:1206
+msgid "Article Content (paragraph)"
+msgstr ""
+
+#: framework/redux-typography.php:1221
+msgid "Article Content Lead (Post Format)"
+msgstr ""
+
+#: framework/redux-typography.php:1236
+msgid "Author Box"
+msgstr ""
+
+#: framework/redux-typography.php:1255
+msgid "Author Name"
+msgstr ""
+
+#: framework/redux-typography.php:1268
+msgid "Author Name Link"
+msgstr ""
+
+#: framework/redux-typography.php:1281
+msgid "Author Description"
+msgstr ""
+
+#: framework/redux-typography.php:1294
+msgid "Author Social Links Color"
+msgstr ""
+
+#: framework/redux-typography.php:1307
+msgid "Review Box"
+msgstr ""
+
+#: framework/redux-typography.php:1326
+msgid "Set border for box background"
+msgstr ""
+
+#: framework/redux-typography.php:1335
+msgid "Review Title"
+msgstr ""
+
+#: framework/redux-typography.php:1350
+msgid "Review Title Border Color"
+msgstr ""
+
+#: framework/redux-typography.php:1351
+msgid "Set border for review title section"
+msgstr ""
+
+#: framework/redux-typography.php:1360
+msgid "Review Content (paragraph & list)"
+msgstr ""
+
+#: framework/redux-typography.php:1375
+msgid "Progress Bar Background Color"
+msgstr ""
+
+#: framework/redux-typography.php:1376
+msgid "Pick a color for background"
+msgstr ""
+
+#: framework/redux-typography.php:1385
+msgid "Progress Bar Color"
+msgstr ""
+
+#: framework/redux-typography.php:1400
+msgid "Sidebar Settings"
+msgstr ""
+
+#: framework/redux-typography.php:1420
+msgid "Sidebar Shadow"
+msgstr ""
+
+#: framework/redux-typography.php:1421
+msgid "Use sidebar shadow"
+msgstr ""
+
+#: framework/redux-typography.php:1427
+msgid "Sidebar Border"
+msgstr ""
+
+#: framework/redux-typography.php:1428
+msgid "Use sidebar border"
+msgstr ""
+
+#: framework/redux-typography.php:1434
+msgid "Sidebar Border Color"
+msgstr ""
+
+#: framework/redux-typography.php:1445
+msgid "Sidebar Font"
+msgstr ""
+
+#: framework/redux-typography.php:1446
+msgid "Specify default font properties for sidebar"
+msgstr ""
+
+#: framework/redux-typography.php:1455
+msgid "Sidebar Section Titles"
+msgstr ""
+
+#: framework/redux-typography.php:1456 framework/redux-typography.php:1496
+#: framework/redux-typography.php:1511 framework/redux-typography.php:1527
+#: framework/redux-typography.php:1542 framework/redux-typography.php:1607
+#: framework/redux-typography.php:1624 framework/redux-typography.php:1640
+#: framework/redux-typography.php:1655 framework/redux-typography.php:1713
+#: framework/redux-typography.php:1730 framework/redux-typography.php:1746
+#: framework/redux-typography.php:1761
+msgid "Specify the font properties"
+msgstr ""
+
+#: framework/redux-typography.php:1472
+msgid "Sidebar Section Titles Border 1"
+msgstr ""
+
+#: framework/redux-typography.php:1483
+msgid "Sidebar Section Titles Border 2"
+msgstr ""
+
+#: framework/redux-typography.php:1495
+msgid "Post Links (Title on images)"
+msgstr ""
+
+#: framework/redux-typography.php:1510 framework/redux-typography.php:1623
+#: framework/redux-typography.php:1729
+msgid "Post Links (Title)"
+msgstr ""
+
+#: framework/redux-typography.php:1526 framework/redux-typography.php:1639
+#: framework/redux-typography.php:1745
+msgid "Post Links (Category)"
+msgstr ""
+
+#: framework/redux-typography.php:1541 framework/redux-typography.php:1654
+#: framework/redux-typography.php:1760
+msgid "Post Meta (Date, Comments...)"
+msgstr ""
+
+#: framework/redux-typography.php:1586
+msgid "Border Color between columns"
+msgstr ""
+
+#: framework/redux-typography.php:1596
+msgid "Top Section Font"
+msgstr ""
+
+#: framework/redux-typography.php:1597 framework/redux-typography.php:1703
+msgid "Specify default font properties for top section"
+msgstr ""
+
+#: framework/redux-typography.php:1606
+msgid "Top Section Titles"
+msgstr ""
+
+#: framework/redux-typography.php:1702
+msgid "Bottom Section Font"
+msgstr ""
+
+#: framework/redux-typography.php:1712
+msgid "Bottom Section Titles"
+msgstr ""
+
+#: framework/tgm-required-plugin-activation-load.php:67
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/tgm-required-plugin-activation-load.php:77
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-required-plugin-activation-load.php:80
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:30
+msgid "Block Layout 1"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:36
+#: framework/vc/vc-template-block-10.php:36
+#: framework/vc/vc-template-block-11.php:36
+#: framework/vc/vc-template-block-12.php:36
+#: framework/vc/vc-template-block-2.php:36
+#: framework/vc/vc-template-block-3.php:36
+#: framework/vc/vc-template-block-4.php:36
+#: framework/vc/vc-template-block-5.php:36
+#: framework/vc/vc-template-block-6.php:36
+#: framework/vc/vc-template-block-7.php:36
+#: framework/vc/vc-template-block-8.php:36
+#: framework/vc/vc-template-block-9.php:36
+#: framework/vc/vc-template-block-ads-system.php:44
+msgid "Content"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:47
+#: framework/vc/vc-template-block-12.php:47
+#: framework/vc/vc-template-block-2.php:47
+msgid "Block Layout:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:63
+#: framework/vc/vc-template-block-2.php:63
+#: framework/vc/vc-template-block-3.php:64
+#: framework/vc/vc-template-block-4.php:63
+#: framework/vc/vc-template-block-5.php:63
+#: framework/vc/vc-template-block-6.php:63
+msgid "Block Style:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:80
+#: framework/vc/vc-template-block-1.php:295
+#: framework/vc/vc-template-block-2.php:79
+#: framework/vc/vc-template-block-2.php:283
+#: framework/vc/vc-template-block-3.php:80
+#: framework/vc/vc-template-block-3.php:295
+#: framework/vc/vc-template-block-3.php:510
+#: framework/vc/vc-template-block-4.php:79
+#: framework/vc/vc-template-block-4.php:283
+msgid "Column Style:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:96
+#: framework/vc/vc-template-block-1.php:311
+#: framework/vc/vc-template-block-2.php:95
+#: framework/vc/vc-template-block-2.php:299
+#: framework/vc/vc-template-block-3.php:96
+#: framework/vc/vc-template-block-3.php:311
+#: framework/vc/vc-template-block-3.php:526
+#: framework/vc/vc-template-block-4.php:95
+#: framework/vc/vc-template-block-4.php:299
+msgid "First Item Style:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:108
+#: framework/vc/vc-template-block-1.php:323
+#: framework/vc/vc-template-block-10.php:59
+#: framework/vc/vc-template-block-11.php:59
+#: framework/vc/vc-template-block-12.php:59
+#: framework/vc/vc-template-block-2.php:107
+#: framework/vc/vc-template-block-2.php:311
+#: framework/vc/vc-template-block-3.php:108
+#: framework/vc/vc-template-block-3.php:323
+#: framework/vc/vc-template-block-3.php:538
+#: framework/vc/vc-template-block-4.php:107
+#: framework/vc/vc-template-block-4.php:311
+#: framework/vc/vc-template-block-5.php:75
+#: framework/vc/vc-template-block-6.php:75
+#: framework/vc/vc-template-block-7.php:59
+#: framework/vc/vc-template-block-8.php:59
+#: framework/vc/vc-template-block-9.php:59
+msgid "Block Title:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:109
+#: framework/vc/vc-template-block-1.php:120
+#: framework/vc/vc-template-block-1.php:324
+#: framework/vc/vc-template-block-1.php:335
+#: framework/vc/vc-template-block-10.php:60
+#: framework/vc/vc-template-block-10.php:71
+#: framework/vc/vc-template-block-11.php:60
+#: framework/vc/vc-template-block-11.php:71
+#: framework/vc/vc-template-block-12.php:60
+#: framework/vc/vc-template-block-12.php:71
+#: framework/vc/vc-template-block-2.php:108
+#: framework/vc/vc-template-block-2.php:119
+#: framework/vc/vc-template-block-2.php:312
+#: framework/vc/vc-template-block-2.php:323
+#: framework/vc/vc-template-block-3.php:109
+#: framework/vc/vc-template-block-3.php:120
+#: framework/vc/vc-template-block-3.php:324
+#: framework/vc/vc-template-block-3.php:335
+#: framework/vc/vc-template-block-3.php:539
+#: framework/vc/vc-template-block-3.php:550
+#: framework/vc/vc-template-block-4.php:108
+#: framework/vc/vc-template-block-4.php:119
+#: framework/vc/vc-template-block-4.php:312
+#: framework/vc/vc-template-block-4.php:323
+#: framework/vc/vc-template-block-5.php:76
+#: framework/vc/vc-template-block-5.php:87
+#: framework/vc/vc-template-block-6.php:76
+#: framework/vc/vc-template-block-6.php:87
+#: framework/vc/vc-template-block-7.php:60
+#: framework/vc/vc-template-block-7.php:71
+#: framework/vc/vc-template-block-8.php:60
+#: framework/vc/vc-template-block-8.php:71
+#: framework/vc/vc-template-block-9.php:60
+#: framework/vc/vc-template-block-9.php:71
+msgid "This is an optional field"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:119
+#: framework/vc/vc-template-block-1.php:334
+#: framework/vc/vc-template-block-10.php:70
+#: framework/vc/vc-template-block-11.php:70
+#: framework/vc/vc-template-block-12.php:70
+#: framework/vc/vc-template-block-2.php:118
+#: framework/vc/vc-template-block-2.php:322
+#: framework/vc/vc-template-block-3.php:119
+#: framework/vc/vc-template-block-3.php:334
+#: framework/vc/vc-template-block-3.php:549
+#: framework/vc/vc-template-block-4.php:118
+#: framework/vc/vc-template-block-4.php:322
+#: framework/vc/vc-template-block-5.php:86
+#: framework/vc/vc-template-block-6.php:86
+#: framework/vc/vc-template-block-7.php:70
+#: framework/vc/vc-template-block-8.php:70
+#: framework/vc/vc-template-block-9.php:70
+msgid "Block Title Link:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:129
+#: framework/vc/vc-template-block-1.php:344
+#: framework/vc/vc-template-block-10.php:80
+#: framework/vc/vc-template-block-11.php:80
+#: framework/vc/vc-template-block-12.php:80
+#: framework/vc/vc-template-block-2.php:128
+#: framework/vc/vc-template-block-2.php:332
+#: framework/vc/vc-template-block-3.php:129
+#: framework/vc/vc-template-block-3.php:344
+#: framework/vc/vc-template-block-3.php:559
+#: framework/vc/vc-template-block-4.php:128
+#: framework/vc/vc-template-block-4.php:332
+#: framework/vc/vc-template-block-5.php:96
+#: framework/vc/vc-template-block-6.php:96
+#: framework/vc/vc-template-block-7.php:80
+#: framework/vc/vc-template-block-8.php:80
+#: framework/vc/vc-template-block-9.php:80
+msgid "Category filter:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:140
+#: framework/vc/vc-template-block-1.php:355
+#: framework/vc/vc-template-block-10.php:91
+#: framework/vc/vc-template-block-11.php:91
+#: framework/vc/vc-template-block-12.php:91
+#: framework/vc/vc-template-block-2.php:139
+#: framework/vc/vc-template-block-2.php:343
+#: framework/vc/vc-template-block-3.php:140
+#: framework/vc/vc-template-block-3.php:355
+#: framework/vc/vc-template-block-3.php:570
+#: framework/vc/vc-template-block-4.php:139
+#: framework/vc/vc-template-block-4.php:343
+#: framework/vc/vc-template-block-5.php:107
+#: framework/vc/vc-template-block-6.php:107
+#: framework/vc/vc-template-block-7.php:91
+#: framework/vc/vc-template-block-8.php:91
+#: framework/vc/vc-template-block-9.php:91
+msgid "Multiple categories filter:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:155
+#: framework/vc/vc-template-block-1.php:370
+#: framework/vc/vc-template-block-10.php:106
+#: framework/vc/vc-template-block-11.php:106
+#: framework/vc/vc-template-block-12.php:106
+#: framework/vc/vc-template-block-2.php:154
+#: framework/vc/vc-template-block-2.php:358
+#: framework/vc/vc-template-block-3.php:155
+#: framework/vc/vc-template-block-3.php:370
+#: framework/vc/vc-template-block-3.php:585
+#: framework/vc/vc-template-block-4.php:154
+#: framework/vc/vc-template-block-4.php:358
+#: framework/vc/vc-template-block-5.php:122
+#: framework/vc/vc-template-block-6.php:122
+#: framework/vc/vc-template-block-7.php:106
+#: framework/vc/vc-template-block-8.php:106
+#: framework/vc/vc-template-block-9.php:106
+msgid "Display categories as:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:175
+#: framework/vc/vc-template-block-1.php:390
+#: framework/vc/vc-template-block-10.php:126
+#: framework/vc/vc-template-block-11.php:126
+#: framework/vc/vc-template-block-12.php:126
+#: framework/vc/vc-template-block-2.php:174
+#: framework/vc/vc-template-block-2.php:378
+#: framework/vc/vc-template-block-3.php:175
+#: framework/vc/vc-template-block-3.php:390
+#: framework/vc/vc-template-block-3.php:605
+#: framework/vc/vc-template-block-4.php:174
+#: framework/vc/vc-template-block-4.php:378
+#: framework/vc/vc-template-block-5.php:142
+#: framework/vc/vc-template-block-6.php:142
+#: framework/vc/vc-template-block-7.php:126
+#: framework/vc/vc-template-block-8.php:126
+#: framework/vc/vc-template-block-9.php:126
+msgid "Display Post Meta:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:186
+#: framework/vc/vc-template-block-1.php:401
+#: framework/vc/vc-template-block-10.php:137
+#: framework/vc/vc-template-block-11.php:137
+#: framework/vc/vc-template-block-12.php:137
+#: framework/vc/vc-template-block-2.php:185
+#: framework/vc/vc-template-block-2.php:389
+#: framework/vc/vc-template-block-3.php:186
+#: framework/vc/vc-template-block-3.php:401
+#: framework/vc/vc-template-block-3.php:616
+#: framework/vc/vc-template-block-4.php:185
+#: framework/vc/vc-template-block-4.php:389
+#: framework/vc/vc-template-block-5.php:153
+#: framework/vc/vc-template-block-6.php:153
+#: framework/vc/vc-template-block-7.php:137
+#: framework/vc/vc-template-block-8.php:137
+#: framework/vc/vc-template-block-9.php:137
+msgid "Filter by tag slug:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:218
+#: framework/vc/vc-template-block-1.php:433
+#: framework/vc/vc-template-block-10.php:169
+#: framework/vc/vc-template-block-11.php:169
+#: framework/vc/vc-template-block-12.php:169
+#: framework/vc/vc-template-block-2.php:217
+#: framework/vc/vc-template-block-2.php:421
+#: framework/vc/vc-template-block-3.php:218
+#: framework/vc/vc-template-block-3.php:433
+#: framework/vc/vc-template-block-3.php:648
+#: framework/vc/vc-template-block-4.php:217
+#: framework/vc/vc-template-block-4.php:421
+#: framework/vc/vc-template-block-6.php:185
+#: framework/vc/vc-template-block-7.php:169
+#: framework/vc/vc-template-block-8.php:169
+#: framework/vc/vc-template-block-9.php:169
+msgid "Posts per page:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:229
+#: framework/vc/vc-template-block-12.php:180
+#: framework/vc/vc-template-block-2.php:432
+#: framework/vc/vc-template-block-3.php:229
+#: framework/vc/vc-template-block-3.php:444
+#: framework/vc/vc-template-block-3.php:659
+msgid "Posts with image:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:240
+#: framework/vc/vc-template-block-12.php:191
+#: framework/vc/vc-template-block-2.php:443
+#: framework/vc/vc-template-block-3.php:240
+#: framework/vc/vc-template-block-3.php:455
+#: framework/vc/vc-template-block-3.php:670
+#: framework/vc/vc-template-block-5.php:207
+msgid "Limit Text Characters on articles with image"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:251
+#: framework/vc/vc-template-block-12.php:202
+#: framework/vc/vc-template-block-2.php:454
+#: framework/vc/vc-template-block-3.php:251
+#: framework/vc/vc-template-block-3.php:466
+#: framework/vc/vc-template-block-3.php:681
+#: framework/vc/vc-template-block-5.php:218
+msgid "Limit Text Characters on text only articles"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:262
+#: framework/vc/vc-template-block-1.php:444
+#: framework/vc/vc-template-block-10.php:202
+#: framework/vc/vc-template-block-11.php:202
+#: framework/vc/vc-template-block-12.php:213
+#: framework/vc/vc-template-block-2.php:250
+#: framework/vc/vc-template-block-2.php:465
+#: framework/vc/vc-template-block-3.php:262
+#: framework/vc/vc-template-block-3.php:477
+#: framework/vc/vc-template-block-3.php:692
+#: framework/vc/vc-template-block-4.php:250
+#: framework/vc/vc-template-block-4.php:465
+#: framework/vc/vc-template-block-5.php:229
+#: framework/vc/vc-template-block-6.php:218
+#: framework/vc/vc-template-block-7.php:202
+#: framework/vc/vc-template-block-8.php:202
+#: framework/vc/vc-template-block-9.php:202
+msgid "Offset:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:277
+#: framework/vc/vc-template-block-1.php:470
+#: framework/vc/vc-template-block-10.php:217
+#: framework/vc/vc-template-block-11.php:217
+#: framework/vc/vc-template-block-12.php:228
+#: framework/vc/vc-template-block-2.php:265
+#: framework/vc/vc-template-block-2.php:480
+#: framework/vc/vc-template-block-3.php:277
+#: framework/vc/vc-template-block-3.php:492
+#: framework/vc/vc-template-block-3.php:707
+#: framework/vc/vc-template-block-4.php:265
+#: framework/vc/vc-template-block-4.php:480
+#: framework/vc/vc-template-block-5.php:244
+#: framework/vc/vc-template-block-6.php:233
+#: framework/vc/vc-template-block-7.php:217
+#: framework/vc/vc-template-block-8.php:217
+#: framework/vc/vc-template-block-9.php:217
+msgid "Allow paging:"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:455
+#: framework/vc/vc-template-block-8.php:191
+#: framework/vc/vc-template-block-9.php:191
+msgid "Limit Text Characters"
+msgstr ""
+
+#: framework/vc/vc-template-block-1.php:707
+#: framework/vc/vc-template-block-10.php:344
+#: framework/vc/vc-template-block-11.php:346
+#: framework/vc/vc-template-block-12.php:353
+#: framework/vc/vc-template-block-2.php:721
+#: framework/vc/vc-template-block-3.php:1033
+#: framework/vc/vc-template-block-4.php:712
+#: framework/vc/vc-template-block-5.php:375
+#: framework/vc/vc-template-block-6.php:365
+#: framework/vc/vc-template-block-7.php:348
+#: framework/vc/vc-template-block-8.php:344
+#: framework/vc/vc-template-block-9.php:344
+#: framework/vc/vc-template-block-ads-system.php:83
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">Visual Composer</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+
+#: framework/vc/vc-template-block-10.php:30
+msgid "Block Layout 10"
+msgstr ""
+
+#: framework/vc/vc-template-block-11.php:30
+msgid "Block Layout 11"
+msgstr ""
+
+#: framework/vc/vc-template-block-11.php:180
+#: framework/vc/vc-template-block-2.php:228
+#: framework/vc/vc-template-block-4.php:228
+#: framework/vc/vc-template-block-4.php:443
+#: framework/vc/vc-template-block-6.php:196
+#: framework/vc/vc-template-block-7.php:180
+msgid "Limit Text Characters on first article"
+msgstr ""
+
+#: framework/vc/vc-template-block-11.php:191
+#: framework/vc/vc-template-block-2.php:239
+#: framework/vc/vc-template-block-4.php:239
+#: framework/vc/vc-template-block-4.php:454
+#: framework/vc/vc-template-block-6.php:207
+#: framework/vc/vc-template-block-7.php:191
+msgid "Limit Text Characters on other articles (not first)"
+msgstr ""
+
+#: framework/vc/vc-template-block-12.php:30
+msgid "Block Layout 12"
+msgstr ""
+
+#: framework/vc/vc-template-block-2.php:30
+msgid "Block Layout 2"
+msgstr ""
+
+#: framework/vc/vc-template-block-3.php:30
+msgid "Block Layout 3"
+msgstr ""
+
+#: framework/vc/vc-template-block-4.php:30
+msgid "Block Layout 4"
+msgstr ""
+
+#: framework/vc/vc-template-block-5.php:30
+msgid "Block Layout 5"
+msgstr ""
+
+#: framework/vc/vc-template-block-5.php:185
+msgid "Display how many rows:"
+msgstr ""
+
+#: framework/vc/vc-template-block-5.php:196
+msgid "Display how many rows with image:"
+msgstr ""
+
+#: framework/vc/vc-template-block-6.php:30
+msgid "Block Layout 6"
+msgstr ""
+
+#: framework/vc/vc-template-block-7.php:30
+msgid "Block Layout 7"
+msgstr ""
+
+#: framework/vc/vc-template-block-8.php:30
+msgid "Block Layout 8"
+msgstr ""
+
+#: framework/vc/vc-template-block-9.php:30
+msgid "Block Layout 9"
+msgstr ""
+
+#: framework/vc/vc-template-block-ads-system.php:39
+msgid "Advertisement - Ads System"
+msgstr ""
+
+#: framework/vc/vc-template-block-ads-system.php:51
+msgid "Ad source"
+msgstr ""
+
+#: functions.php:137
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:138
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:139
+msgid "Header Menu (Primary Navigation)"
+msgstr ""
+
+#: functions.php:152
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:153
+msgid "The Primary widget area (Main Sidebar)"
+msgstr ""
+
+#: search.php:34
+#, php-format
+msgid "Search Results for: <em>%s</em>"
+msgstr ""
+
+#: tag.php:35
+msgid "Posts tagged with"
+msgstr ""
+
+#: woocommerce/product-searchform.php:2
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:2
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:37
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:8
+msgid "Alert Type"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:9
+msgid "Select Alert Type"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:20 wp-admin/tinymce/config.php:21
+msgid "Alert Text"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:25
+msgid "Closable"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:26
+msgid "Select if alert can be closed or not"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:35
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:45
+msgid "Sign"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:50
+msgid "Dropcap Style"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:63
+msgid "Text Color"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:74
+msgid "Insert Dropcap Shortcode"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:82
+msgid "Insert List Shortcode"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:89
+msgid "Icon"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:90
+msgid ""
+"Insert any of the <a href=\"https://fortawesome.github.io/Font-Awesome/icons/"
+"\" target=\"_blank\">FontAwesome Icons</a>"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:95
+msgid "List Content"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:100
+msgid "Add List Item"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:111
+msgid "Quote Text"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:117
+msgid "Quote Author"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:122
+msgid "Quote Style"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:137
+msgid "Add Quote"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:148
+msgid "Height"
+msgstr ""
+
+#: wp-admin/tinymce/config.php:153
+msgid "Insert Spacer Shortcode"
+msgstr ""

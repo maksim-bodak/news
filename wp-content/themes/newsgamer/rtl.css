@@ -1,0 +1,55 @@
+
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.eot);
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.woff2) format('woff2'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.woff) format('woff'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.eot);
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.woff2) format('woff2'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.woff) format('woff'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.ttf) format('truetype');
+}
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+html[lang="ar"] body {
+    font-family: 'Droid Arabic Kufi', serif !important;
+    font-size: 14px;
+}
+
+
+.theme, #header-navigation-sub nav ul li a, #page-content header h2, article.linkbox h2, article.linkbox h3, article.linkbox h4, .article-post h1, .article-post h2, .article-post h3,
+.article-post h4, .article-post h5, .article-post h6, .article-post header h1, .article-post div.lead, .article-post .related-box h4, .article-post .score-number, .article-post .progress-bar span, .article-post footer h3, #comments-list li .comment-text header, #respond h3, .module-timeline article h3, #sidebar blockquote p, #sidebar .module-singles li a, #sidebar .module-news article h3 {
+    font-family: 'Droid Arabic Kufi', serif !important;
+}
+
+/* ==========================================================================
+   General
+   ========================================================================== */
+
+
+.theme {
+    left: auto;
+    right: 0;
+}
+
+.pull-left {
+    float:right!important;
+}
+
+.pull-right {
+    float:left!important;
+}
